@@ -396,7 +396,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 tvg-id="Canal.Disney.Junior.(MÃ©xico).mx" ,Disney Jr. SD
+#EXTINF:-1 tvg-id="DISNEY.JUNIOR.co" ,Disney Jr. SD
 http://181.78.106.127:9000/play/a0oy
 
 #EXTINF:-1 tvg-id="Nickelodeon.hk",Nickelodeon
@@ -469,15 +469,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Discovery.en.Espanol.us" ch-number=" " tvg-name="Discovery En Espanol HD",Discovery en Espanol HD
-http://stream.ultimate-tvservice.com:8080/shept77/tins8/264330
-
-#EXTINF:-1 tvg-id="Discovery.Familia.us" ch-number=" " tvg-name="Discovery Familia HD",Discovery Familia HD
-http://stream.ultimate-tvservice.com:8080/shept77/tins8/264331
-
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" ch-number=" " tvg-name="Hogar De HGTV HD",Hogar de HGTV Channel HD
-http://stream.ultimate-tvservice.com:8080/shept77/tins8/264356
-  
 #EXTINF:-1 tvg-id="BBC.Earth.my" ch-number=" " tvg-name="BBC Earth",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
@@ -694,8 +685,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #EXTINF:-1 tvg-id="Kids.Dummy.us",Cartoon Network Taiwan HD
 http://125.227.210.55:8167/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="Kids.Dummy.us",Hop! HD
-http://9tl7o5bs.rostelekom.xyz/iptv/LQ3H9GP9M7UA6M/2338/index.m3u8
+#EXTINF:-1 tvg-id="Kids.Dummy.us",Ludikids HD
+http://magonlyx.abcott.me/play/live.php?mac=00:1A:79:39:62:31&stream=699395&extension=ts
  
 #EXTINF:-1 tvg-id="Cartoonito.(HD).sg" ,Cartoonito HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -919,12 +910,6 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Kids.Dummy.us",ABC Cartoons
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ffe9e9a5e6648e884d741b536d34e72:86dead7608ebf2d8028416add9b8769b
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="ABCEntertainsSydney.au",ABC Entertains
@@ -943,6 +928,12 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0d
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Kids.Dummy.us",ABC Cartoons
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="Kids.Dummy.us",ABC Kids All Aussie
@@ -955,22 +946,10 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=593adcf2ed594c2ba2aeee9539b43f5c:b47e01622b87a37374dae5fb3645e4a8
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Kids.Dummy.us",ABC Kids Play School
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="Kids.Dummy.us",ABC Kids Play Music
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Kids.Dummy.us",ABC Big Kids
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
 
 #EXTINF:-1 tvg-id="Music.Dummy.us",87.5 Republika FM1 DWFO
 https://stream.zeno.fm/qnt98p5m108uv
