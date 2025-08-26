@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" refresh="1440" billed-msg="IPTVNaN"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz" refresh="1440" billed-msg="IPTVNaN"
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" ,ALLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -399,6 +399,9 @@ http://143.44.136.110:6610/001/2/ch00000090990000001178/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="DISNEY.JUNIOR.co" ,Disney Jr. SD
 http://181.78.106.127:9000/play/a0oy
 
+#EXTINF:-1 tvg-id="NickelodeonPerth.au",Nickelodeon Australia
+http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/400254600.ts
+
 #EXTINF:-1 tvg-id="Nickelodeon.hk",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
@@ -686,7 +689,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="Kids.Dummy.us",Ludikids HD
-http://magonlyx.abcott.me/play/live.php?mac=00:1A:79:39:62:31&stream=699395&extension=ts
+http://qgvwnqgr.mexamo.xyz:80/live/911FA6VS/2T3C7P57/400216405.ts
  
 #EXTINF:-1 tvg-id="Cartoonito.(HD).sg" ,Cartoonito HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -760,12 +763,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchan
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
-#EXTINF:-1 tvg-id="CBeebies.hk", Cbeebies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
-
 #EXTINF:-1 tvg-id="Nick.Jr..hk" ,Nick Jr. HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9982
@@ -813,7 +810,7 @@ http://143.44.136.110:6610/001/2/ch00000090990000001105/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001157/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 tvg-id="plex.tv.USA.TODAY.plex" ,USA Today
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" ,USA Today
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001199/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -823,7 +820,7 @@ http://143.44.136.110:6610/001/2/ch00000090990000001199/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001111/manifest.mpd?virtualDomain=001.live_hls.zte.com
  
-#EXTINF:-1 tvg-id="Arirang.TV.pl" ,Arirang
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" ,Arirang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001107/manifest.mpd?virtualDomain=001.live_hls.zte.com
