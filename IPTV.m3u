@@ -448,8 +448,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.us" ch-number=" " tvg-name="Discovery Family HD",Discovery Family Channel HD
 http://kstv.us:8080/live/Purn3542/38791114838/23334.ts
 
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" ch-number=" " tvg-name="Discovery Life HD",Discovery Life HD
-http://kstv.us:8080/live/Purn3542/38791114838/23333.ts
+#EXTINF:-1 tvg-id="Kids.Dummy.us" ch-number=" " tvg-name="Discovery Kids HD",Discovery Kids HD
+http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/34923.ts
 
 #EXTINF:-1 tvg-id="Science.us" ch-number=" " tvg-name="Discovery Science HD",Discovery Science Channel HD
 http://kstv.us:8080/live/Purn3542/38791114838/15961.ts
