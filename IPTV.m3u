@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz" refresh="1440" billed-msg="IPTVNaN"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz" refresh="1440" billed-msg="IPTVNaN"
 
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" ,ALLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -744,6 +744,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #EXTINF:-1 tvg-id="Kids.Dummy.us",ZooMoo HD
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Canal.Disney.Channel.(Chile).cl" ,Disney Channel Asia HD
+http://177.53.154.70:9981/stream/channelid/2070145001?profile=pass
+
+#EXTINF:-1 tvg-id="Canal.Disney.Junior.(Chile).cl" ,Disney Jr. Asia HD
+http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -765,6 +771,9 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/9982
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Canal.TeenNick.cl",TeenNick HD
+http://177.53.154.70:9981/stream/channelid/1949273597?profile=pass
 
 #EXTINF:-1 tvg-id="Kids.Dummy.us",Toon Goggles
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8
