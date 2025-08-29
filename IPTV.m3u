@@ -402,9 +402,6 @@ http://181.78.106.127:9000/play/a0oy
 #EXTINF:-1 tvg-id="NickelodeonPerth.au",Nickelodeon Australia
 http://qgvwnqgr.mexamo.xyz/live/911FA6VS/2T3C7P57/400254600.ts
 
-#EXTINF:-1 tvg-id="Nick.Jr..-.East.us",Nick Jr. Australia
-http://kstv.us:8080/live/Purn3542/38791114838/23276.m3u8
-
 #EXTINF:-1 tvg-id="Nickelodeon.hk",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
