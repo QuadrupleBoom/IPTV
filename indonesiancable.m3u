@@ -40,12 +40,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
-#EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-name="CNN Indonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="TV Indonesia", CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CNBC Indonesia.id" tvg-name="CNBC Indonesia.id" tvg-logo="https://iili.io/28yAlAN.png" group-title="TV Indonesia", CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="iNews.id" tvg-name="iNews" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_83.png" group-title="TV Indonesia", iNews 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
@@ -58,20 +52,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000057/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://iili.io/2W8UsX2.png" group-title="TV Indonesia", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.png" group-title="TV Indonesia", BTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BNTV" tvg-name="BN Channel" tvg-logo="https://iili.io/JbtCoiu.png" group-title="TV Indonesia", BN Channel
-http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
-
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://iili.io/2rCEOZl.png" group-title="TV Indonesia", Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png" group-title="TV Indonesia", JTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -129,15 +112,15 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 
-#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png" group-title="Movies", Studio Universal 
+#EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_26.png", Studio Universal 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 
-#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_25.png" group-title="Movies", TVN Movies 
+#EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_25.png", TVN Movies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 
-#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="Movies", Thrill 
+#EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg", Thrill 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
@@ -224,12 +207,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ab9a956d38f2361c92545120dee2a95.webp" group-title="Knowledge", RT Documentary
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MTV90s.id" tvg-name="MTV 90s" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_149.png" group-title="Music", MTV 90s 
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
-
 #EXTINF:-1 tvg-id="MTVLive.id" tvg-name="MTV Live" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_148.png" group-title="Music", MTV Live 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
@@ -237,9 +214,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 #EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_95.png" group-title="Lifestyle", Food Travel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u
-
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="Lifestyle", TV5 Monde Style
-https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 
 #EXTINF:-1 tvg-id="DreamWorks.id" tvg-name="Dreamworks HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_47.png" group-title="Kids", Dreamworks 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -263,6 +237,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
 #EXTINF:-1 tvg-id="Cbeebies.uk" tvg-name="Cbeebies" tvg-logo="https://www.mncvision.tv/userfiles/image/channel/cbeebies_150.png" group-title="Kids", Cbeebies
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-cbbc-uk.png", CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="News", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -337,6 +314,73 @@ https://tvstreamcast.com/tawaftv.m3u8
 #EXTINF:-1 tvg-id="Tawaf TV.id" tvg-name="Tawaf TV.id" tvg-logo="https://warningfm.github.io/v3/img/sRHJJ5c.png?v=1.0.0.1" group-title="Religion", Tawaf TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+
+#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png",Network 10
+http://44.32.200.212:5004/auto/v10
+#EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png",10 comedy
+http://44.32.200.212:5004/auto/v11
+#EXTINF:-1 tvg-id="10BoldMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-drama-au.png",10 drama
+http://44.32.200.212:5004/auto/v12
+#EXTINF:-1 tvg-id="NickelodeonMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nickelodeon-au.png",Nickelodeon
+http://44.32.200.212:5004/auto/v13
+#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-hd-au.png",10 HD
+http://44.32.200.212:5004/auto/v15
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/you-tv-au.png",you.tv
+http://44.32.200.212:5004/auto/v16
+#EXTINF:-1  tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/spree-tv-au.png",gecko
+http://44.32.200.212:5004/auto/v17
+#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-hd-au.png",ABC TV HD
+http://44.32.200.212:5004/auto/v20
+#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png",ABC TV
+http://44.32.200.212:5004/auto/v21
+#EXTINF:-1 tvg-id="ABCFamilyMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-kids-au.png",ABC Kids/ABC Family
+http://44.32.200.212:5004/auto/v22
+#EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-entertains-au.png",ABC Entertains
+http://44.32.200.212:5004/auto/v23
+#EXTINF:-1 tvg-id="ABCNewsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-news-au.png",ABC NEWS
+http://44.32.200.212:5004/auto/v24
+#EXTINF:-1 tvg-id="SBSMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-au.png",SBS HD
+http://44.32.200.212:5004/auto/v30
+#EXTINF:-1 tvg-id="SBSVicelandMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-viceland-au.png",SBS VICELAND HD
+http://44.32.200.212:5004/auto/v31
+#EXTINF:-1 tvg-id="SBSWorldMoviesMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-movies-au.png",SBS World Movies
+http://44.32.200.212:5004/auto/v32
+#EXTINF:-1 tvg-id="SBSFoodMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-food-au.png",SBS Food
+http://44.32.200.212:5004/auto/v33
+#EXTINF:-1 tvg-id="SBSWorldWatchMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-watch-au.png",SBS WorldWatch
+http://44.32.200.212:5004/auto/v35
+#EXTINF:-1 tvg-id="NITVMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nitv-au.png",NITV
+http://44.32.200.212:5004/auto/v36
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/c31-au.png",C31
+http://44.32.200.212:5004/auto/v44
+#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-hd-au.png",7 HD
+http://44.32.200.212:5004/auto/v70
+#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-au.png",Network 7
+http://44.32.200.212:5004/auto/v71
+#EXTINF:-1 tvg-id="7TWOMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7two-au.png",7TWO
+http://44.32.200.212:5004/auto/v72
+#EXTINF:-1 tvg-id="7mateMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7mate-au.png",7mate
+http://44.32.200.212:5004/auto/v74
+#EXTINF:-1 tvg-id="7Bravo.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7bravo-au.png",7Bravo
+http://44.32.200.212:5004/auto/v75
+#EXTINF:-1 tvg-id="7flixMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7flix-au.png",7flix
+http://44.32.200.212:5004/auto/v76
+#EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/tvsn-au.png",TVSN
+http://44.32.200.212:5004/auto/v77
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/racing-com-au.png",RACING.COM
+http://44.32.200.212:5004/auto/v78
+#EXTINF:-1 tvg-id="9Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-au.png",Channel 9
+http://44.32.200.212:5004/auto/v91
+#EXTINF:-1 tvg-id="9GemMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-gem-au.png",9Gem
+http://44.32.200.212:5004/auto/v92
+#EXTINF:-1 tvg-id="9GoMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-go-au.png",9Go!
+http://44.32.200.212:5004/auto/v93
+#EXTINF:-1 tvg-id="9LifeMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-life-au.png",9Life
+http://44.32.200.212:5004/auto/v94
+#EXTINF:-1 tvg-id="9RushMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-rush-au.png",9Rush
+http://44.32.200.212:5004/auto/v96
+#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Extra_TV_logo.png",Extra
+http://44.32.200.212:5004/auto/v97
 
 #EXTINF:-1 tvg-id="Muhammadiyah TV.id" tvg-name="Muhammadiyah TV.id" tvg-logo="https://warningfm.github.io/v3/img/evrRgFH.png?v=1.0.0.1" group-title="Religion", TV MU
 https://e.siar.us/live/tvmu.m3u8
