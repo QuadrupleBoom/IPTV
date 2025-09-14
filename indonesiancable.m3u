@@ -361,7 +361,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 #KODIPROP:inputstream.adaptive.license_key=286e1c2d622c4c73b5c3d72e4a848abd:b7fad67599c1ce3c2fbc9d02b901be05
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
  
-#EXTINF:-1 tvg-id="MPTV" group-title="Cignal Play",MPTV
+#EXTINF:-1 tvg-id="MPTV" group-title="Cignal Play",One XPLORE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
@@ -405,6 +405,11 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us",Disney+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f873dc6412b11edb8780242ac120002:7511efa4f5f1f82fe61776ba3b49fc10
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ppvhd298.mpd
  
 #EXTINF:-1 tvg-id="Lifetime" group-title="Cignal Play",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
