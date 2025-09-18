@@ -580,12 +580,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tu7dEfJ5lfYqvhcn4tPN7eu_tP2PW_n6qGFUJTFiYiTy3W_Sz5G4NwesBdc3dEfyBdeBudCEuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Cignal Play",Cartoonito HD
-http://84.17.55.185:14122/
-
-#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee85ed15b1bc315e29db9ab711de" group-title="Cignal Play",ZooMoo HD
-http://84.17.55.185:14132/
  
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1156,6 +1150,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
     #KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
     
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
+
+#EXTINF:-1 tvg-id="Amazon.US.StarzKidsAndFamilyHDEast" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png",Starz Kids & Family HD East
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c6ca94e4d9cdcb8eb387e659ba00834":"0565f7a65c76833908647b4a4c382d26"}
+https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out/v1/54ee39a134714248b735eb986bff786d/cenc.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/dCMafGV.png" channel-number="Converge" group-title="Converge",Disney Channel
     
@@ -1166,6 +1165,27 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
     #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
     
     https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2025/08/Disney-Jr.-copy.jpg" group-title="Converge",Disney Jr. HD
+http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Converge",Cartoon Network HD
+http://84.17.55.185:14120/
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tu7dEfJ5lfYqvhcn4tPN7eu_tP2PW_n6qGFUJTFiYiTy3W_Sz5G4NwesBdc3dEfyBdeBudCEuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Cignal Play",Cartoonito HD
+http://84.17.55.185:14122/
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Converge",ToonCast HD
+http://181.78.4.250:8098/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://play-lh.googleusercontent.com/G-IDfQuHPPWvg0lMNHAdT5XbY55Xl8HIK8N5GVJPybn4CC-eoTlKZrWfO3elMrcSZw" group-title="Converge",Kartoon Channel HD
+https://jmp2.uk/stvp-US2900015RO
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Converge",Ra Tim Bum
+http://84.17.55.185:14130/
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Converge",Nick
+http://84.17.55.185:14127/
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Converge",Nick Jr.
+http://84.17.55.185:14128/
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/NickMusic_Logo_%282023%29.png" group-title="Converge",Nick Music
+http://181.78.4.250:8098/play/a065/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee85ed15b1bc315e29db9ab711de" group-title="Cignal Play",ZooMoo HD
+http://84.17.55.185:14132/
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/gfFaRwH.png" channel-number="Converge" group-title="Converge",Golf Channel
     
@@ -1281,6 +1301,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
     
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
+
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://iatse.net/wp-content/uploads/2023/01/HBO_-_Home_Box_Office_logo-1.png" channel-number="Converge" group-title="Converge",HBO
 http://84.17.55.185:14100/
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo2.png" channel-number="Converge" group-title="Converge",HBO2
@@ -1292,8 +1313,35 @@ http://84.17.55.185:14105/
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Wz3WemYg.jpg" channel-number="Converge" group-title="Converge",HBO Xtreme
 http://84.17.55.185:14107/
 
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://play-lh.googleusercontent.com/G-IDfQuHPPWvg0lMNHAdT5XbY55Xl8HIK8N5GVJPybn4CC-eoTlKZrWfO3elMrcSZw" group-title="Converge",Kartoon Channel HD
-https://jmp2.uk/stvp-US2900015RO
+#EXTINF:-1 tvg-id="Channel 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721245%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",CHANNEL 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Channel 8" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721229%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Channel U" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721818%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://i.ytimg.com/vi/YMr868B060k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvG9YqhFW-Qf4ThPbOvJI6nquvBQ" group-title="MeWatch",VASANTHAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcdb0c21368d4c6aa8f4c08e4cd44256:31b348d059593c81f8eb7a8f5f999a76
+https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639663%27&EntityType=%27Item%27&EntityId=%27229208%27&Width=420&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",SURIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1 tvg-id="Oktolidays" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%274033080%27&EntityType=%27Item%27&EntityId=%27186574%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",OKTOLIDAYS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346 
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
     
     #EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png" group-title="Freeview",Network 10
     http://44.32.200.212:5004/auto/v10
