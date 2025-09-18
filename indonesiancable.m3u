@@ -1281,6 +1281,17 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
     
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://iatse.net/wp-content/uploads/2023/01/HBO_-_Home_Box_Office_logo-1.png" channel-number="Converge" group-title="Converge",HBO
+http://84.17.55.185:14100/
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo2.png" channel-number="Converge" group-title="Converge",HBO2
+http://84.17.55.185:14101/
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png?w=852&h=476&crop=1" channel-number="Converge" group-title="Converge",HBO Family
+http://84.17.55.185:14102/
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://www.celda.com.ar/wp-content/themes/celda/common/image.php?image=https://www.celda.com.ar/wp-content/uploads/2020/11/0000_all_l_hboall-HBO-POP-Black.png&width=400&height=400&cropratio=false" channel-number="Converge" group-title="Converge",HBO Pop
+http://84.17.55.185:14105/
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Wz3WemYg.jpg" channel-number="Converge" group-title="Converge",HBO Xtreme
+http://84.17.55.185:14107/
+
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://play-lh.googleusercontent.com/G-IDfQuHPPWvg0lMNHAdT5XbY55Xl8HIK8N5GVJPybn4CC-eoTlKZrWfO3elMrcSZw" group-title="Converge",Kartoon Channel HD
 https://jmp2.uk/stvp-US2900015RO
     
