@@ -346,12 +346,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
  
-#EXTINF:-1 tvg-logo="/0-1x1.jpg?width=320" group-title="Cignal Play",tvN Movies Pinoy
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-1x1.jpg?width=320" group-title="Cignal Play",tvN Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
  
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-1x1.jpg?width=320" group-title="Cignal Play",Dreamworks Tagalized
+#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5698-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play",Dreamworks Tagalized
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
@@ -613,19 +613,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
     
        
     #EXTINF:-1 group-logo="https://i.ibb.co/Y4Z4pXyM/Converge-Fiber-X-logo-white.png",Converge
-	
-    #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Converge",Cinema One Global
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    #KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
-    https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
     
-   	#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Converge",Cinemo! Global
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-    https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
-    
-	#EXTINF:-1  tvg-name="GMA Life TV" tvg-id="GMA.Life.TV.hk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Converge",GMA Life TV
-    http://xxip25.top:8080/85468216/20751659/101825
 
 	#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://iili.io/2rSp1ZQ.png"  group-title="Converge",GMA Pinoy TV
 	#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1168,7 +1156,7 @@ https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out
 
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2025/08/Disney-Jr.-copy.jpg" group-title="Converge",Disney Jr. HD
 http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Converge",Cartoon Network HD
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1200px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="Converge",Cartoon Network HD
 http://84.17.55.185:14120/
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tu7dEfJ5lfYqvhcn4tPN7eu_tP2PW_n6qGFUJTFiYiTy3W_Sz5G4NwesBdc3dEfyBdeBudCEuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Cignal Play",Cartoonito HD
 http://84.17.55.185:14122/
