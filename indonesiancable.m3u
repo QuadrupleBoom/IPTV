@@ -1059,20 +1059,31 @@ https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out
 http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1200px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="Converge",Cartoon Network HD
 http://84.17.55.185:14120/
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tu7dEfJ5lfYqvhcn4tPN7eu_tP2PW_n6qGFUJTFiYiTy3W_Sz5G4NwesBdc3dEfyBdeBudCEuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Cartoonito HD
-http://84.17.55.185:14122/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/boomerang-it.png" group-title="Converge",Boomerang
+https://world-proxifier.xyz/daddylive/p/FSEkWk8vW0ldRDg9RBwPDg==/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tu7dEfJ5lfYqvhcn4tPN7eu_tP2PW_n6qGFUJTFiYiTy3W_Sz5G4NwesBdc3dEfyBdeBudCEuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Cartoonito
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Converge",ToonCast HD
 http://181.78.4.250:8098/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Converge",Ra Tim Bum
 http://84.17.55.185:14130/
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Converge",Nick
-http://84.17.55.185:14127/
+https://world-proxifier.xyz/daddylive/p/GRkWHlk1MFYHBj4=/index.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Converge",Nick Jr.
 http://84.17.55.185:14128/
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Converge",TeenNick
+https://world-proxifier.xyz/daddylive/p/QVdSWwRWXUpFPThEAR0z/index.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/NickMusic_Logo_%282023%29.png" group-title="Converge",Nick Music
-http://181.78.4.250:8098/play/a065/index.m3u8
+https://world-proxifier.xyz/daddylive/p/GVtQWFkQLzJfUEE9PVkJDBM=/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab6775700000ee85ed15b1bc315e29db9ab711de" group-title="Converge",ZooMoo HD
 http://84.17.55.185:14132/
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Rv7T3bF/Logo-Planeta-Junior-TV.png" group-title="Converge",Planeta Junior TV HD
+https://daiconnect.com/live/hls/tvup/tvfy-pljr/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/N1NNgs5/Logo-Dreiko-TV.png" group-title="Familiares",Dreiko TV HD
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
