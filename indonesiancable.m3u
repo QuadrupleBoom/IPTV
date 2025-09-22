@@ -1106,17 +1106,7 @@ http://84.17.55.185:14132/
     
     https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
     
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/3BCg3pS.png" group-title="Converge",Movies Now
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-    
-    https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-    
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/j8x0nhs.png" channel-number="Converge" group-title="Converge",MTV Live ast
+    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/j8x0nhs.png" channel-number="Converge" group-title="Converge",MTV Live
     
     #KODIPROP:inputstream.adaptive.manifest_type=dash
     
@@ -1155,26 +1145,6 @@ http://84.17.55.185:14132/
     #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
     
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-    
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/jaGqbyh.png" group-title="Converge",Studio Universal
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-    
-    https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
-    
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/BbrAmpY.png" channel-number="Converge" group-title="Converge",TFC
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-    
-    https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/e14fe6d2-d899-4d38-aa61-2701b04a4153/index.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Qy1Mcoc.png" channel-number="Converge" group-title="Converge",Zee Cinema
     
