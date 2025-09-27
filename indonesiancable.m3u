@@ -873,21 +873,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
     
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
 
-#EXTINF:-1 tvg-id="Amazon.US.StarzKidsAndFamilyHDEast" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png",Starz Kids & Family HD East
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0c6ca94e4d9cdcb8eb387e659ba00834":"0565f7a65c76833908647b4a4c382d26"}
-https://a202aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/6tayf6u2ws/out/v1/54ee39a134714248b735eb986bff786d/cenc.mpd
-    
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/dCMafGV.png" channel-number="Converge" group-title="Converge",Disney Channel
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-    
-    https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
+#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/disney-channel-ca.png" group-title="Converge",Disney Channel East HD
+https://world-proxifier.xyz/daddylive/p/F1sgW08mSQRcVl5bUkRMMC9FBgEF/index.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2025/08/Disney-Jr.-copy.jpg" group-title="Converge",Disney Jr. HD
 http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1200px-Cartoon_Network_logo_%281992-2010%29.svg.png" group-title="Converge",Cartoon Network HD
@@ -899,12 +886,10 @@ https://world-proxifier.xyz/daddylive/p/FSEkWk8vW0ldRDg9RBwPDg==/index.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="Converge",ToonCast HD
-http://181.78.4.250:8098/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Converge",Ra Tim Bum
 http://84.17.55.185:14130/
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Converge",Nick
-https://world-proxifier.xyz/daddylive/p/GRkWHlk1MFYHBj4=/index.m3u8
+http://84.17.55.185:14127/
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Converge",Nick Jr.
 http://84.17.55.185:14128/
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/teen-nick-us.png" group-title="Converge",TeenNick
@@ -992,61 +977,50 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #EXTINF:-1 tvg-name="Movie.Dummy.us" tvg-logo="https://i.imgur.com/gfFaRwH.png", Action Hollywood Movies HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Channel.hk" tvg-logo=" " tvg-name="Discovery Channel HD",Discovery Channel HD
+#EXTINF:-1 tvg-id="Discovery.Channel.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/discovery-channel-uk.png" tvg-name="Discovery Channel HD",Discovery Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Discovery.Asia.hk" tvg-logo="" tvg-name="Discovery Asia HD",Discovery Asia HD
+#EXTINF:-1 tvg-id="Discovery.Asia.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/discovery-asia-hk.png" tvg-name="Discovery Asia HD",Discovery Asia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
   
-#EXTINF:-1 tvg-id="HISTORY.hk" ch-number=" " tvg-name="History HD",History Channel HD
+#EXTINF:-1 tvg-id="HISTORY.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/history-de.png" tvg-name="History HD",History Channel HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
-  
-#EXTINF:-1 tvg-id="Crime.+.Investigation.hk" ch-number=" " tvg-name="C+IN",Crime + Investigation HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2x7iuJlLkarGUEnvPkk3hw", "kid":"Ivxbr0euO2MivCRCBruyEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BBC.Earth.my" ch-number=" " tvg-name="BBC Earth",BBC Earth HD
+
+#EXTINF:-1 tvg-id="BBC.Earth.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/bbc-earth-ca.png" tvg-name="BBC Earth",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
   
-#EXTINF:-1 tvg-id="BBC.Lifestyle.HD.my" ch-number=" " tvg-name="BBC Lifestyle",BBC Lifestyle HD
+#EXTINF:-1 tvg-id="BBC.Lifestyle.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/bbc-lifestyle-hk.png" tvg-name="BBC Lifestyle",BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sS4fiUEpxRfciEW6ruvsig","kid":"9CkpLcdE8oQ1UwhWFXesEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
   
-#EXTINF:-1 tvg-id="Love.Nature.my" ch-number=" " tvg-name="Love Nature",Love Nature HD
+#EXTINF:-1 tvg-id="Love.Nature.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/love-nature-ca.png" tvg-name="Love Nature",Love Nature HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
 
-#EXTINF:-1 tvg-id="Global.Trekker.my" ch-number=" " tvg-name="Global Trekker",Global Trekker HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L7Oas/VTM9X6PoMOv5nsFg", "kid":"ktNKhPro5U3gqClimUG+EA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
-
-#EXTINF:-1 tvg-id="HGTV.HD.my" ch-number=" " tvg-name="HGTV",HGTV HD
+#EXTINF:-1 tvg-id="HGTV.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hgtv-ca.png" tvg-name="HGTV",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
   
-#EXTINF:-1 tvg-id="TLC.hk" ch-number=" " tvg-name="TLC HD",TLC HD
+#EXTINF:-1 tvg-id="TLC.hk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/tlc-ca.png" tvg-name="TLC HD",TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -1091,18 +1065,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
     
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
-
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://iatse.net/wp-content/uploads/2023/01/HBO_-_Home_Box_Office_logo-1.png" channel-number="Converge" group-title="Converge",HBO
-http://45.190.187.183:8080/play/a1dc
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo2.png" channel-number="Converge" group-title="Converge",HBO2
-http://45.190.187.183:8080/play/a1d4
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://variety.com/wp-content/uploads/2025/06/Screen-Shot-2025-06-12-at-5.57.25-PM.png?w=852&h=476&crop=1" channel-number="Converge" group-title="Converge",HBO Family
-http://45.190.187.183:8080/play/a1de
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" channel-number="Converge" group-title="Converge",HBO Plus
-http://45.190.187.183:8080/play/a1dd
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Wz3WemYg.jpg" channel-number="Converge" group-title="Converge",HBO Xtreme
-http://45.190.187.183:8080/play/a1d5
 
 #EXTINF:-1 tvg-id="Channel 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721245%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",CHANNEL 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
