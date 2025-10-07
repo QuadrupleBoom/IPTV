@@ -628,18 +628,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
 	#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 	https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
     
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/E63wJx9.png" channel-number="Converge" group-title="Converge",iQIYI
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-    
-    #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
-    https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
-    
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/pzFuuoC.png" channel-number="Converge" group-title="Converge",Crime + Investigation
     
     #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -866,8 +854,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
     
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
 
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2025/08/Disney-Jr.-copy.jpg" group-title="Converge",Disney Jr. HD
-http://177.53.154.70:9981/stream/channelid/1712901419?profile=pass
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2025/08/Disney-Jr.-copy.jpg" group-title="Converge",Disney Jr. Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://proxy.utako.moe/ph.php?&isp=1&id=cs23
@@ -927,58 +913,36 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
     
     https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
     
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/j8x0nhs.png" channel-number="Converge" group-title="Converge",MTV Live
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-    
-    #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
-    https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/j8x0nhs.png" channel-number="Converge" group-title="Converge",MTV Live
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/VMx7Xxl.png" channel-number="Converge" group-title="Converge",NFL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
     
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/VMx7Xxl.png" channel-number="Converge" group-title="Converge",NFL
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-    
-    https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
-    
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/CJYMh2F.png" group-title="Converge",NFL Channel
-    
-    #KODIPROP:inputstream.adaptive.license_type=clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key={"002007110c69a23803173b50eab05f23":"590d6e8f4ca81319f9bb29104f571990"}
-    
-    https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
-    
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/dAPtBTh.png" group-title="Converge",Premier League
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-    
-    https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-    
-    #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Qy1Mcoc.png" channel-number="Converge" group-title="Converge",Zee Cinema
-    
-    #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
-    #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
-    #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-    
-    #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
-    https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/CJYMh2F.png" group-title="Converge",NFL Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"002007110c69a23803173b50eab05f23":"590d6e8f4ca81319f9bb29104f571990"}
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/dAPtBTh.png" group-title="Converge",Premier League
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Qy1Mcoc.png" channel-number="Converge" group-title="Converge",Zee Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Channel 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721245%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",CHANNEL 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1009,7 +973,47 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346 
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-    
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/E63wJx9.png" channel-number="Converge" group-title="MeWatch",iQIYI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://static.viu.tv/resized-800/viutv_logo.png" group-title="MeWatch",VIUTV
+http://60.246.171.122:8889/bysid/99
+
+#EXTINF:-1 tvg-id="ViuTV6" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_425_305" group-title="MeWatch",VIUTV6
+http://60.246.171.122:8889/bysid/96
+
+#EXTINF:-1 tvg-id="tvbasianac" tvg-logo="https://app.ksmctv.com/Content/MCTV/Image/Channel/8-TVB_Asian_Action_TV_HD.png" group-title="MeWatch",ASIANACTION
+http://60.246.171.122:8890/bysid/8
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/TVB-Xing-He.png" group-title="MeWatch",XING HE
+http://60.246.171.122:8890/bysid/6
+
+#EXTINF:-1 tvg-id="ETTVYoYo" tvg-logo="https://yoyotv.ebc.net.tw/Images/footer-logo.png" group-title="MeWatch",EBC YOYO
+http://60.246.171.122:8890/bysid/67
+
+#EXTINF:-1 tvg-id="ELTVLearning" tvg-logo="https://img.linetv.tw/originals/channel_14.png" group-title="MeWatch",ELTV
+http://15.235.85.105:16203/
+
+#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png/1200px-CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png" group-title="MeWatch",CARTOON NETWORK TW
+http://125.227.210.55:8167/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="TVBPearl" tvg-logo="https://upload.wikimedia.org/wikipedia/zh-yue/7/77/TVB_Pearl_20130301.jpg" group-title="MeWatch",Pearl
+http://60.246.171.122:8892/bysid/2
+
+#EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Jade_logo2023.jpg" group-title="MeWatch",Jade
+http://60.246.171.122:8889/bysid/1
+
+#EXTINF:-1 tvg-id="TVBNews" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/%E7%9B%B4%E6%92%AD%E6%96%B0%E8%81%9E%E5%8F%B0%E5%8F%B0%E5%BE%BD2017.png" group-title="MeWatch",News
+http://60.246.171.122:8892/bysid/83
+
+#EXTINF:-1 tvg-id="PhoenixHK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/%E7%9B%B4%E6%92%AD%E6%96%B0%E8%81%9E%E5%8F%B0%E5%8F%B0%E5%BE%BD2017.png" group-title="MeWatch",Phoenix Hong Kong
+http://60.246.171.122:8892/bysid/85
+
     #EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png" group-title="Freeview",Network 10
     http://44.32.200.212:5004/auto/v10
     #EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png" group-title="Freeview",10 comedy
