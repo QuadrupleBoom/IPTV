@@ -999,19 +999,19 @@ http://60.246.171.122:8890/bysid/67
 #EXTINF:-1 tvg-id="ELTVLearning" tvg-logo="https://img.linetv.tw/originals/channel_14.png" group-title="MeWatch",ELTV
 http://15.235.85.105:16203/
 
-#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png/1200px-CN_%E5%8D%A1%E9%80%9A%E9%A0%BB%E9%81%93.png" group-title="MeWatch",CARTOON NETWORK TW
+#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://today-obs.line-scdn.net/0hIQ7IzVRzFn4KMD3bOB9pKTBmFRE5XAV9bgZHfUleSEpyUlIqYVBQTykySUwvAFEgY1daHys3DU93VwUvMVFQ/w1200" group-title="MeWatch",CARTOON NETWORK TW
 http://125.227.210.55:8167/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="TVBPearl" tvg-logo="https://upload.wikimedia.org/wikipedia/zh-yue/7/77/TVB_Pearl_20130301.jpg" group-title="MeWatch",Pearl
+#EXTINF:-1 tvg-id="TVBPearl" tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" group-title="MeWatch",Pearl
 http://60.246.171.122:8892/bysid/2
 
-#EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Jade_logo2023.jpg" group-title="MeWatch",Jade
+#EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://corporate.tvb.com/_fck_/image/Jade.jpg" group-title="MeWatch",Jade
 http://60.246.171.122:8889/bysid/1
 
-#EXTINF:-1 tvg-id="TVBNews" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/%E7%9B%B4%E6%92%AD%E6%96%B0%E8%81%9E%E5%8F%B0%E5%8F%B0%E5%BE%BD2017.png" group-title="MeWatch",News
+#EXTINF:-1 tvg-id="TVBNews" tvg-logo="https://play-lh.googleusercontent.com/cnHJx8s7rUEhHKLnRSY-NhiEzYlmoSxWqL3CaKO2iUNRizhSsYamu3JWlET9bbAGlDA" group-title="MeWatch",News
 http://60.246.171.122:8892/bysid/83
 
-#EXTINF:-1 tvg-id="PhoenixHK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/%E7%9B%B4%E6%92%AD%E6%96%B0%E8%81%9E%E5%8F%B0%E5%8F%B0%E5%BE%BD2017.png" group-title="MeWatch",Phoenix Hong Kong
+#EXTINF:-1 tvg-id="PhoenixHK" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_425_305" group-title="MeWatch",Phoenix Hong Kong
 http://60.246.171.122:8892/bysid/85
 
     #EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png" group-title="Freeview",Network 10
