@@ -969,17 +969,17 @@ https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-#EXTINF:-1 tvg-id="Oktolidays" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%274033080%27&EntityType=%27Item%27&EntityId=%27186574%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",OKTOLIDAYS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346 
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+#EXTINF:-1 tvg-id="TVBPearl" tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" group-title="MeWatch",Pearl
+http://60.246.171.122:8892/bysid/2
 
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/E63wJx9.png" channel-number="Converge" group-title="MeWatch",iQIYI
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+#EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://corporate.tvb.com/_fck_/image/Jade.jpg" group-title="MeWatch",Jade
+http://60.246.171.122:8889/bysid/1
+
+#EXTINF:-1 tvg-id="TVBNews" tvg-logo="https://play-lh.googleusercontent.com/cnHJx8s7rUEhHKLnRSY-NhiEzYlmoSxWqL3CaKO2iUNRizhSsYamu3JWlET9bbAGlDA" group-title="MeWatch",News
+http://60.246.171.122:8892/bysid/83
+
+#EXTINF:-1 tvg-id="PhoenixHK" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_425_305" group-title="MeWatch",Phoenix Hong Kong
+http://60.246.171.122:8892/bysid/85
 
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://static.viu.tv/resized-800/viutv_logo.png" group-title="MeWatch",VIUTV
 http://60.246.171.122:8889/bysid/99
@@ -993,26 +993,53 @@ http://60.246.171.122:8890/bysid/8
 #EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/TVB-Xing-He.png" group-title="MeWatch",XING HE
 http://60.246.171.122:8890/bysid/6
 
+#EXTINF:-1 tvg-id="Oktolidays" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%274033080%27&EntityType=%27Item%27&EntityId=%27186574%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",OKTOLIDAYS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346 
+https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
+
 #EXTINF:-1 tvg-id="ETTVYoYo" tvg-logo="https://yoyotv.ebc.net.tw/Images/footer-logo.png" group-title="MeWatch",EBC YOYO
 http://60.246.171.122:8890/bysid/67
 
 #EXTINF:-1 tvg-id="ELTVLearning" tvg-logo="https://img.linetv.tw/originals/channel_14.png" group-title="MeWatch",ELTV
 http://15.235.85.105:16203/
 
-#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://today-obs.line-scdn.net/0hIQ7IzVRzFn4KMD3bOB9pKTBmFRE5XAV9bgZHfUleSEpyUlIqYVBQTykySUwvAFEgY1daHys3DU93VwUvMVFQ/w1200" group-title="MeWatch",CARTOON NETWORK TW
+#EXTINF:-1 tvg-id="NICKELODEONTW" tvg-logo="https://play-lh.googleusercontent.com/hs9q_ggMJ-cUFiqqpSi-pC12G8-pdbjKo2c4Y5t1VQfB8t9_vEKOpVFGM3imFvxUbLg" group-title="MeWatch",Nickelodeon TW
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="NICKJrTW" tvg-logo="https://m.media-amazon.com/images/I/41DAgNJEGkL.png" group-title="MeWatch",Nick Jr TW
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://i.imgur.com/0TtE3yc.png" group-title="MeWatch",CARTOON NETWORK TW
 http://125.227.210.55:8167/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="TVBPearl" tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" group-title="MeWatch",Pearl
-http://60.246.171.122:8892/bysid/2
+#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://i.imgur.com/7KKMSYc.png" group-title="MeWatch",DreamWorks TW
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://corporate.tvb.com/_fck_/image/Jade.jpg" group-title="MeWatch",Jade
-http://60.246.171.122:8889/bysid/1
+#EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",iQIYI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVBNews" tvg-logo="https://play-lh.googleusercontent.com/cnHJx8s7rUEhHKLnRSY-NhiEzYlmoSxWqL3CaKO2iUNRizhSsYamu3JWlET9bbAGlDA" group-title="MeWatch",News
-http://60.246.171.122:8892/bysid/83
+#EXTINF:-1 tvg-id="RockEntertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/1200px-Rock_Entertainment.png" group-title="MeWatch",ROCK Entertainment
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live080/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="PhoenixHK" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_425_305" group-title="MeWatch",Phoenix Hong Kong
-http://60.246.171.122:8892/bysid/85
+#EXTINF:-1 tvg-id="RockAction" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png" group-title="MeWatch",ROCK Action
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live138/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="Gtrekker" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/8ee3617d-b254-45d3-aa8a-0466ed52a6eb/Global+Trekker+%281%29.jpg?format=1500w" group-title="MeWatch",Global Trekker
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live112/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="HITS" tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="MeWatch",HITS
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="MagellanTW" tvg-logo="https://play-lh.googleusercontent.com/AAIHtZjCzIkRjBI4s0XUWaxQkEI5nWkAAQAszxBPXMM0kRa_imt7qaeIp_nmVNboTGs" group-title="MeWatch",Magellan
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live123/index.m3u8?proxy=true
+
+#EXTINF:-1 tvg-id="InUltra" tvg-logo="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png" group-title="MeWatch",InUltra
+http://xn--elt51t.azip.dpdns.org:5008/4gtv-live096/index.m3u8?proxy=true
 
     #EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png" group-title="Freeview",Network 10
     http://44.32.200.212:5004/auto/v10
