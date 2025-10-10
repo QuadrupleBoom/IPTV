@@ -958,3 +958,13 @@ http://44.32.200.212:5004/auto/v94
 http://44.32.200.212:5004/auto/v96
 #EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Extra_TV_logo.png" group-title="Freeview",Extra
 http://44.32.200.212:5004/auto/v97
+
+
+#EXTINF:-1 type="series" tvg-logo="https://i.imgur.com/u5JNrXA.png",Cățeluși Constructori (Oct. 9 Pt.1)
+https://gcn-f2.bozztv.com/gcntv-disneyjunior/tracks-v1a1/index-1760004000-1800.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i.imgur.com/u5JNrXA.png",Cățeluși Constructori (Oct. 9 Pt.2)
+https://fl1003.bozztv.com/gcntv-disneyjunior/tracks-v1a1/index-1760040000-1800.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i.imgur.com/u5JNrXA.png",Cățeluși Constructori (Oct. 8 Pt.1)
+https://gcn-f2.bozztv.com/gcntv-disneyjunior/tracks-v1a1/index-1759953600-1800.m3u8
+#EXTINF:-1 type="series" tvg-logo="https://i.imgur.com/u5JNrXA.png",Cățeluși Constructori (Oct. 8 Pt.2)
+https://gcn-f2.bozztv.com/gcntv-disneyjunior/tracks-v1a1/index-1759917600-1800.m3u8
