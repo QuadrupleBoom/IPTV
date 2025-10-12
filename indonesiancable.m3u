@@ -297,16 +297,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
 
         #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Cignal_Logo_2018.svg/645px-Cignal_Logo_2018.svg.png",Cignal Play
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/gma-ph.png" group-title="Cignal Play",GMA 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-https://vod.nathcreqtives.com/1093/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play", GTV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-1x1.jpg?width=320" group-title="Cignal Play",Bilyonaryo News Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
@@ -623,14 +613,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
        
     #EXTINF:-1 group-logo="https://i.ibb.co/Y4Z4pXyM/Converge-Fiber-X-logo-white.png",Converge
 
-
-
-#EXTINF:-1 tvg-id="Kapamilya Channel" group-title="Converge" tvg-logo="https://i.imgur.com/WcYS3S3.png",Kapamilya Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001248/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Converge",Kapamilya Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Converge",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -815,6 +798,16 @@ http://161.49.17.2:6610/001/2/ch00000090990000001196/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge", GMA 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/geuq18u.png" group-title="Converge", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Converge", Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -965,7 +958,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001263/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001102/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://img.cdn.nimg.jp/s/comch/channel-icon/original/ch2613780/7062563.jpg/512x512l_FFFFFFFF?key=cbb987ff9d3219b35c16f7868fbfc3a69b26d82d494d30a83a14721fb60a2e4e" group-title="Converge", KBS Korea
+#EXTINF:-1 tvg-logo="https://img.cdn.nimg.jp/s/comch/channel-icon/original/ch2613780/7062563.jpg/512x512l_FFFFFFFF?key=cbb987ff9d3219b35c16f7868fbfc3a69b26d82d494d30a83a14721fb60a2e4e" group-title="Converge", HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001246/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1044,11 +1037,6 @@ http://161.49.17.2:6610/001/2/ch00000090990000001157/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Converge", Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001313/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="617.astro" tvg-name="" tvg-logo="https://i.imgur.com/4MozyqM.png" group-title="Converge", Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1389,70 +1377,3 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-live123/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="InUltra" tvg-logo="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png" group-title="MeWatch",InUltra
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live096/index.m3u8?proxy=true
-
-#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-au.png" group-title="Freeview",Network 10
-http://44.32.200.212:5004/auto/v10
-#EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-comedy-au.png" group-title="Freeview",10 comedy
-http://44.32.200.212:5004/auto/v11
-#EXTINF:-1 tvg-id="10BoldMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-drama-au.png" group-title="Freeview",10 drama
-http://44.32.200.212:5004/auto/v12
-#EXTINF:-1 tvg-id="NickelodeonMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nickelodeon-au.png" group-title="Freeview",Nickelodeon
-http://44.32.200.212:5004/auto/v13
-#EXTINF:-1 tvg-id="10Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/network-10-hd-au.png" group-title="Freeview",10 HD
-http://44.32.200.212:5004/auto/v15
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/you-tv-au.png" group-title="Freeview",you.tv
-http://44.32.200.212:5004/auto/v16
-#EXTINF:-1  tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/spree-tv-au.png" group-title="Freeview",gecko
-http://44.32.200.212:5004/auto/v17
-#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-hd-au.png" group-title="Freeview",ABC TV HD
-http://44.32.200.212:5004/auto/v20
-#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png" group-title="Freeview",ABC TV
-http://44.32.200.212:5004/auto/v21
-#EXTINF:-1 tvg-id="ABCFamilyMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-kids-au.png" group-title="Freeview",ABC Kids/ABC Family
-http://44.32.200.212:5004/auto/v22
-#EXTINF:-1 tvg-id="ABCEntertainsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-entertains-au.png" group-title="Freeview",ABC Entertains
-http://44.32.200.212:5004/auto/v23
-#EXTINF:-1 tvg-id="ABCNewsMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-news-au.png" group-title="Freeview",ABC NEWS
-http://44.32.200.212:5004/auto/v24
-#EXTINF:-1 tvg-id="SBSMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-au.png" group-title="Freeview",SBS HD
-http://44.32.200.212:5004/auto/v30
-#EXTINF:-1 tvg-id="SBSVicelandMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-viceland-au.png" group-title="Freeview",SBS VICELAND HD
-http://44.32.200.212:5004/auto/v31
-#EXTINF:-1 tvg-id="SBSWorldMoviesMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-movies-au.png" group-title="Freeview",SBS World Movies
-http://44.32.200.212:5004/auto/v32
-#EXTINF:-1 tvg-id="SBSFoodMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-food-au.png" group-title="Freeview",SBS Food
-http://44.32.200.212:5004/auto/v33
-#EXTINF:-1 tvg-id="SBSWorldWatchMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/sbs-world-watch-au.png" group-title="Freeview",SBS WorldWatch
-http://44.32.200.212:5004/auto/v35
-#EXTINF:-1 tvg-id="NITVMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nitv-au.png" group-title="Freeview",NITV
-http://44.32.200.212:5004/auto/v36
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/c31-au.png" group-title="Freeview",C31
-http://44.32.200.212:5004/auto/v44
-#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-hd-au.png" group-title="Freeview",7 HD
-http://44.32.200.212:5004/auto/v70
-#EXTINF:-1 tvg-id="7Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/seven-au.png" group-title="Freeview",Network 7
-http://44.32.200.212:5004/auto/v71
-#EXTINF:-1 tvg-id="7TWOMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7two-au.png" group-title="Freeview",7TWO
-http://44.32.200.212:5004/auto/v72
-#EXTINF:-1 tvg-id="7mateMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7mate-au.png" group-title="Freeview",7mate
-http://44.32.200.212:5004/auto/v74
-#EXTINF:-1 tvg-id="7Bravo.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7bravo-au.png" group-title="Freeview",7Bravo
-http://44.32.200.212:5004/auto/v75
-#EXTINF:-1 tvg-id="7flixMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/7flix-au.png" group-title="Freeview",7flix
-http://44.32.200.212:5004/auto/v76
-#EXTINF:-1 tvg-id="TVSN.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/tvsn-au.png" group-title="Freeview",TVSN
-http://44.32.200.212:5004/auto/v77
-#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/racing-com-au.png" group-title="Freeview",RACING.COM
-http://44.32.200.212:5004/auto/v78
-#EXTINF:-1 tvg-id="9Melbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-au.png" group-title="Freeview",Channel 9
-http://44.32.200.212:5004/auto/v91
-#EXTINF:-1 tvg-id="9GemMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-gem-au.png" group-title="Freeview",9Gem
-http://44.32.200.212:5004/auto/v92
-#EXTINF:-1 tvg-id="9GoMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-go-au.png" group-title="Freeview",9Go!
-http://44.32.200.212:5004/auto/v93
-#EXTINF:-1 tvg-id="9LifeMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-life-au.png" group-title="Freeview",9Life
-http://44.32.200.212:5004/auto/v94
-#EXTINF:-1 tvg-id="9RushMelbourne.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/nine-rush-au.png" group-title="Freeview",9Rush
-http://44.32.200.212:5004/auto/v96
-#EXTINF:-1 tvg-id="Local.Programming.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Extra_TV_logo.png" group-title="Freeview",Extra
-http://44.32.200.212:5004/auto/v97
