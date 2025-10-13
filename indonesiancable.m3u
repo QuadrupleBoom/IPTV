@@ -61,10 +61,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://iili.io/JbtnQjI.png" group-title="TV Indonesia", Elshinta TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="https://images.indihometv.com/assets/88_JAWAPOSTV_2025_03_17_14_53_33.png" group-title="TV Indonesia", Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
@@ -237,9 +233,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
 #EXTINF:-1 tvg-id="Cbeebies.uk" tvg-name="Cbeebies" tvg-logo="https://www.mncvision.tv/userfiles/image/channel/cbeebies_150.png" group-title="Kids", Cbeebies
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
-
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-three-cbbc-uk.png", CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_331.png" group-title="News", Al Jazeera English 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -1209,10 +1202,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
-
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://deadline.com/wp-content/uploads/2025/08/Disney-Jr.-copy.jpg" group-title="Converge",Disney Jr. Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://proxy.utako.moe/ph.php?&isp=1&id=cs23
 
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/8mfFj4h.png" channel-number="Converge" group-title="Converge",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
