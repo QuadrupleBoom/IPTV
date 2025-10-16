@@ -560,11 +560,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/defau
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play", Cartoon Network SD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
@@ -785,7 +780,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001080/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001077/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6N2qz9h.png" group-title="Converge", Celestial Classic Movies
+#EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/14%20-%206N2qz9h.png" group-title="Converge", Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -977,7 +972,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
 https://live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/uyeShLXK1reEq1zTYVtZkL9IoQb18T-G96q8HqCpb-uAxY4gxaR6KuuUo1KudRQfuDHMYSYcEg=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/19%20-%2060ua4O3.png" group-title="Converge", Cbeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Cbeebies)/master.mpd
@@ -998,7 +993,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/TEENNICK-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6K1w4ZW.jpeg" group-title="Converge", NickMusic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/20%20-%206K1w4ZW.jpg" group-title="Converge", NickMusic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96c869392d2e908eaf78a9fcfa8c3107:cd307966418dafe8fa5e673f8c172f3
 https://live1-ott.izzigo.tv/14/out/u/dash/NICKMUSIC-SD/default.mpd
@@ -1006,7 +1001,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/NICKMUSIC-SD/default.mpd
 #EXTINF:-1 tvg-id="English.Club.TV.hu" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/bkgJvmGWRQ6q8hSxyRZ2rkZdAAE_LQXUDbxLwfmqbx2RQh7at48K5u-BLR8UQPxsflaK" group-title="Converge", English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7KKMSYc.png" group-title="Converge", Dreamworks
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/2%20-%207KKMSYc.png" group-title="Converge", Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Dreamworks)/master.mpd
@@ -1044,7 +1039,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001162/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001107/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kxOijGP.png" group-title="Converge", NHK BS
+#EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/15%20-%20kxOijGP.png" group-title="Converge", NHK BS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001214/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1059,7 +1054,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001343/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001353/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuodAt6.png" group-title="Converge", Xingkong
+#EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/16%20-%20yuodAt6.png" group-title="Converge", Xingkong
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001337/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1079,7 +1074,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001073/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001111/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fNzSgxW.png" group-title="Converge", CCTV4
+#EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/17%20-%20fNzSgxW.png" group-title="Converge", CCTV4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001223/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -1124,7 +1119,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001146/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 group-title="Converge" tvg-logo="https://i.imgur.com/RLipPyf.png",Spotlight TV
+#EXTINF:-1 group-title="Converge" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/18%20-%20RLipPyf.png",Spotlight TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001134/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
@@ -3168,10 +3163,10 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="NICKJrTW" tvg-logo="https://m.media-amazon.com/images/I/41DAgNJEGkL.png" group-title="MeWatch",Nick Jr TW
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://i.imgur.com/0TtE3yc.png" group-title="MeWatch",CARTOON NETWORK TW
+#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/9%20-%200TtE3yc.png" group-title="MeWatch",CARTOON NETWORK TW
 http://125.227.210.55:8167/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="DreaTW" tvg-logo="https://i.imgur.com/7KKMSYc.png" group-title="MeWatch",DreamWorks TW
+#EXTINF:-1 tvg-id="DreaTW" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/2%20-%207KKMSYc.png" group-title="MeWatch",DreamWorks TW
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",iQIYI
