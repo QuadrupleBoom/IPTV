@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://raw.githubusercontent.com/jen233456/epg/refs/heads/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://i.mjh.nz/SamsungTVPlus/us.xml, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Indonesia", RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -601,22 +601,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
        
 #EXTINF:-1 group-logo="https://i.ibb.co/Y4Z4pXyM/Converge-Fiber-X-logo-white.png",Converge
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CR8JiY5.png" group-title="Converge", iHeart Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=abba271e8bcf552bbd2e86a434a9a5d9:69eaa802a6763af979e8d1940fb88392
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ryansnetcafe/5.0
-https://kaotv.ganbaruby23.xyz/dash/iheartmovies/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/adsVgF4.png" group-title="Converge", Heart Of Asia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2a7b8c1d9f0e3a4b5c6d7e8f1a2b3c4:0f1e2d3c4b5a60798877665544332211
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=ryansnetcafe/5.0
-https://kaotv.ganbaruby23.xyz/dash/heartofasia/manifest.mpd
-
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/cI8jreh.png",GMA Pinoy TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -656,9 +640,6 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
 https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQvFtCRSaE4umMwFhc-6CA5H9F0I-NE6g8BQ&s" group-title="Converge", KPOP
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
     
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/j8x0nhs.png" channel-number="Converge" group-title="Converge",MTV Live
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -674,6 +655,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 
+#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/aea6a59405983be24c7c90d34fb82a8b",Tiktok Radio
+https://aka-live491.delivery.roku.com/466146ab-c01d-4959-82dd-7978f7ceada7/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJtE3DUr2wbUEuIwOoM99-8XLP1msK01foQ&s" group-title="Converge",Extreme Jobs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -682,6 +665,15 @@ https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/2nlenvmjz
 
 #EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="Converge", The Pet Collective
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/45efbd0e594025d93dfe74d7f84de557c82c8578337df40269bc4f36d9664379.png" group-title="Converge", The Pet Collective America
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991174
+
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/af__1080x1080-logo-bw.png" group-title="Converge", Always Funny Videos
+https://aka-live491.delivery.roku.com/b1beefe1-d4e3-43c6-b15c-7c24f0044827/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vPGva9jmPN2atLE19B-tvMe_FPwJNSBeSaDlZQz-FiK3msxI7zeGBNG6SfN6CaAPtw=w240-h480-rw" group-title="Converge", FailArmy
+https://aka-live491.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllFq-kQxD8srWSGtbYD_9HVSxCv-glAF51w&s" group-title="Converge", Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/55f42503-8c44-4d7b-955d-4ca709a71a47/0.m3u8
@@ -730,6 +722,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/v5PBUHFXpvw3z2izxOYx2MOBvibDNo6UXmHJPW-IzilsOMlsyZgwMVMAQjR_cP3fT2U" group-title="Converge", Xumo Food
+https://dbrb49pjoymg4.cloudfront.net/10001/9995117/hls/master.m3u8?ads.xumo_channelId=9995117
+
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/JYXRTnyCRNJL9hYWuTD_sHhCFrzw9FMWX5BEjgw77FfMe4Izc_UUCZqMN-EF0-6ssGh_bTPdXp4=s900-c-k-c0x00ffffff-no-rj" ,HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
@@ -747,22 +742,36 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/tDbuoAU.png" channel-number="Converge" group-title="Converge",AXN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.ytimg.com/vi/ewPk0F0vFrI/sddefault.jpg" channel-number="Converge" group-title="Converge",LOL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=122c84bc130940586c961bae652b3610:1153586a1a453e03402714a299964564
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/comic-u.png" group-title="Converge",ComicU
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.diceplatform.com/prod/original/dce.tapgo/section/home/BlastTV_Thumbnail-400x400.95yEH.xUA3N.jpg" group-title="Converge",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TK3CVGuETgX5VbsVxyaPcMgWE23CoVG8zXSsydYuWBW-5AJC4sP_XrZw-GJyA2kE8ao=w240-h480-rw" group-title="Converge",Real Blast
 https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtW9Sci0qxlJkw_LYgjQDYsh2hX3wXGiMrQ&s" group-title="Converge",Zee Sine
+#EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/24ef252339c1dee8/bollyhoo.png" group-title="Converge",Zee Sine
 https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
-    
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/hWQBUvT.png" channel-number="Converge" group-title="Converge",Dateline
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
 
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Qy1Mcoc.png" channel-number="Converge" group-title="Converge",Zee Cinema
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/v5PBUHFXpvw3z2izxOYx2MOBvibDNo6UXmHJPW-IzilsOMlsyZgwMVMAQjR_cP3fT2U" group-title="Converge", Xumo Comedy
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991105
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/z-cinema.png" channel-number="Converge" group-title="Converge",Z Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
@@ -777,7 +786,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr
-http://181.209.194.14:8000/play/a00x/index.m3u8
+http://45.190.187.183:8080/play/a1kr
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/19%20-%2060ua4O3.png" group-title="Converge", Cbeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -817,11 +826,20 @@ https://a153aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/apm
 #EXTINF:-1 tvg-id="English.Club.TV.hu" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/bkgJvmGWRQ6q8hSxyRZ2rkZdAAE_LQXUDbxLwfmqbx2RQh7at48K5u-BLR8UQPxsflaK" group-title="Converge", English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OVsDa9FyZhmX4u_Y4CVXseTDbZNUx3F-4tV6D2gBKVWogIN9FT0xfMu6EtKmjRp63PNG" group-title="Converge", Sensical Jr.
+https://dbrb49pjoymg4.cloudfront.net/10001/99951280/hls/playlist.m3u8?ads.xumo_channelId=99951280
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/cl8Nq6dwJsXedLJ3d2oi0J72Q9WXQ2BLiZ7AAAahF5dV5BMFsoaiaEOzq5w-JfrtAQc" group-title="Converge", Kidoodle TV
 https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/LzgCogmUyhze7dHOZzvsf2T3IbJssB2-sShjR0n2jfj5uyGC7SUhzP4vO4EGI-CiEgvRyYrhBA=s900-c-k-c0x00ffffff-no-rjc" group-title="Converge", POP
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/G-IDfQuHPPWvg0lMNHAdT5XbY55Xl8HIK8N5GVJPybn4CC-eoTlKZrWfO3elMrcSZw" group-title="Converge", Kartoon Channel!
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991327
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/LzgCogmUyhze7dHOZzvsf2T3IbJssB2-sShjR0n2jfj5uyGC7SUhzP4vO4EGI-CiEgvRyYrhBA=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", POP
 https://amg01753-amg01753c6-samsung-au-6678.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/v5PBUHFXpvw3z2izxOYx2MOBvibDNo6UXmHJPW-IzilsOMlsyZgwMVMAQjR_cP3fT2U" group-title="Converge", Xumo Kids
+https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_channelId=99991107
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/2%20-%207KKMSYc.png" group-title="Converge", Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -867,8 +885,8 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/826c1f767ae1cf9efac61bb5d9c364322097e222b18d7c854fb18ba3978f7186.png" group-title="Converge",Glitch+
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/comic-u.png" group-title="Converge",ComicU
-https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/0c075c81877bf2a1/retro.png" group-title="Converge",PBS Retro
+https://aka-live491.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/40K2Qu3.png" channel-number="Converge" group-title="Converge",ABC Australia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -883,13 +901,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5075/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/tDbuoAU.png" channel-number="Converge" group-title="Converge",AXN
+    
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/hWQBUvT.png" channel-number="Converge" group-title="Converge",Dateline
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
 
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/La3o9MU.png" channel-number="Converge" group-title="Converge",Bloomberg TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1036,7 +1053,7 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-live138/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="Gtrekker" tvg-logo="https://images.squarespace-cdn.com/content/v1/616632df4479e534656ecf49/8ee3617d-b254-45d3-aa8a-0466ed52a6eb/Global+Trekker+%281%29.jpg?format=1500w" group-title="MeWatch",Global Trekker
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live112/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="HITS" tvg-logo="https://www.hitstv.com/assets/hits.png" group-title="MeWatch",HITS
+#EXTINF:-1 tvg-id="HITS" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" group-title="MeWatch",HITS
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="MagellanTW" tvg-logo="https://play-lh.googleusercontent.com/AAIHtZjCzIkRjBI4s0XUWaxQkEI5nWkAAQAszxBPXMM0kRa_imt7qaeIp_nmVNboTGs" group-title="MeWatch",Magellan
