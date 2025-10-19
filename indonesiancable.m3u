@@ -1037,6 +1037,9 @@ http://125.227.210.55:8167/VideoInput/play.ts
 #EXTINF:-1 tvg-id="DreaTW" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/2%20-%207KKMSYc.png" group-title="MeWatch",DreamWorks TW
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr Japan
+https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23
+
 #EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",iQIYI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
