@@ -1064,16 +1064,3 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-live123/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="InUltra" tvg-logo="https://cdn.uc.assets.prezly.com/68570ba0-124e-4021-8db0-04ce12e2b538/Screenshot%202022-08-20%20at%2012.27.08%20AM.png" group-title="MeWatch",InUltra
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live096/index.m3u8?proxy=true
-
-
-
-
-
-
-
---- SERIES (on testing) ---
-
-#EXTINF:-1 type="series" tvg-logo="https://resizing.flixster.com/CIzIBJxO7yG6GEtEXjsNT_h72oY=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p28428563_i_h9_aa.jpg",Pupstruction S1 E1 (MULTI)
-https://archive.org/download/pupstruction-multi/Pupstruction.S01E01.Built.to.Build.Pup.DE-Struction.2023.MULTi.1080p.HS.WEB-DL.DDP5.1.H.264-GeraldGSD.mkv
-#EXTINF:-1 type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Jungle_Junction_Logo.jpg",Jungle Junction S2 E26
-https://archive.org/download/jungle-junction-s-01-e-07-sap-trap-river-race.ia/Jungle%20Junction_S02E25_Zooter%27s%20Surprise%20Delivery.ia.mp4
