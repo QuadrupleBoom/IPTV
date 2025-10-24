@@ -916,13 +916,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=05080a1c857fd874e1ab7470323c631d:8eb38377572123a11e934f7df7ec860a
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5gg4gvrlwx/out/v1/8bb3dfe3c6054137a32d74865761ee53/cenc.mpd
 
-#EXTINF:-1 group-title="Converge" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46065310-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Spark Play
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={f73348ec4d0a5f0c8e5d7099ad0c99af:9929c0d10991293a1d7c482411d6a897,2480248cf11a5d4aa0d67247957107fc:d670ae9fa513fa2d3d292a647daff4a1,6fc60a0cbc8b51c581ab21b38428c282:b40d0a4d7db3cab41342fe8d21b860ad,d331ec23595f573eb265d86e11b67f58:65a7e0aac59379ee2f7d2da57c1a0ec8,338fcb873d5e56a48accb2192f4dd7a5:737b5c3438a295159a6aa4dfc63c6c14}
-https://cdn780.stm.trueid.net/p303drm/007_multi_m_high_wv1_tidapp.smil/manifest_w86390526_qYXBwaWQ9dHJ1ZWlkJnR5cGU9bGl2ZSZ2aXNpdG9yPW1vYmlsZSZkcm09d3YxJnVpZD0xNTQwNTQ5MDEmZGlkPU1USXpORGczTmpNMU1UZ3hNakl6JnNpZD1iYWE1ZjNkYTE3JnJ0PTE2OTY4NDU2MjImZHM9ODY0MDAmdGs9aFotMHpKdlFuMmluOWRpVlZhUVJYYUhLR3I4b2VIRXNwVkxXUjJGYlN6dw==.mpd.mpd
-
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
