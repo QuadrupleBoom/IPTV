@@ -658,15 +658,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/aea6a59405983be24c7c90d34fb82a8b",Tiktok Radio
 https://aka-live491.delivery.roku.com/466146ab-c01d-4959-82dd-7978f7ceada7/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://avatarfiles.alphacoders.com/322/thumb-1920-322171.jpg",Datawave Radio
-http://199.245.173.253:5004/auto/v3.23
-
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://avatarfiles.alphacoders.com/322/thumb-1920-322171.jpg",Vaporwave Radio
-http://199.245.173.253:5004/auto/v3.22
-
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://avatarfiles.alphacoders.com/322/thumb-1920-322171.jpg",THC-TV
-http://199.245.173.253:5004/auto/v3.20
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJtE3DUr2wbUEuIwOoM99-8XLP1msK01foQ&s" group-title="Converge",Extreme Jobs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f1828c3e997c90cecdd8771ea6d7ddd:c2a88d7b8424212d9255c374043481e6
@@ -797,6 +788,11 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr
 http://45.190.187.183:8080/play/a1kr
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hdBrooPzsYuxT5-NWbj7gg","k":"Zln-1HJUQomt7phsHTP6eQ"}],"type":"temporary"}
+https://live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/19%20-%2060ua4O3.png" group-title="Converge", Cbeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
@@ -820,7 +816,7 @@ https://live1-ott.izzigo.tv/14/out/u/dash/TEENNICK-HD/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/20%20-%206K1w4ZW.jpg" group-title="Converge", NickMusic
-http://38.252.238.231:6142/play/a00e/index.m3u8
+http://58.65.205.171:8000/play/a064
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/c/c8/SpongeBob-_Patty_Pursuit.jpg" group-title="Converge", SpongeBob SquarePants Universe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1073,9 +1069,6 @@ http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="DreaTW" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/2%20-%207KKMSYc.png" group-title="MeWatch",DreamWorks TW
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr Japan
-https://proxyv2.utako.moe/ph.php?&isp=1&id=cs23
 
 #EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",iQIYI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
