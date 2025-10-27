@@ -607,6 +607,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
 #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 
+#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/bEnJS9BvrRA8OMlavsgLLorEo3XDXlewC2Vr4hx11h1beyfbschOgHZlF-JkH6SreOtSCmBDsQ=s900-c-k-c0x00ffffff-no-rj",GMA Barangay LSFM 97.1
+https://ythls.armelin.one/video/MsYD3sDziKk.m3u8
+
+#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/bEnJS9BvrRA8OMlavsgLLorEo3XDXlewC2Vr4hx11h1beyfbschOgHZlF-JkH6SreOtSCmBDsQ=s900-c-k-c0x00ffffff-no-rj",GMA DZBB Super Radyo 594AM
+https://ythls.armelin.one/video/MdS4dBBcxLE.m3u8
+
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/SnY6fUd.png" ,Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
@@ -782,11 +788,6 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr
 http://45.190.187.183:8080/play/a1kr
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hdBrooPzsYuxT5-NWbj7gg","k":"Zln-1HJUQomt7phsHTP6eQ"}],"type":"temporary"}
-https://live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/19%20-%2060ua4O3.png" group-title="Converge", Cbeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
@@ -845,7 +846,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_cha
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Dreamworks)/master.mpd
 
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network
+#EXTINF:-1 tvg-id="615.astro" tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
@@ -952,9 +953,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
-
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://play-lh.googleusercontent.com/U01vGdoTJCzk6phTdCxi-USUkbP-DPk7i_klmQCcYW_Nn2C91DAiBBgSeArp3hG_jxg" group-title="Converge",TV5 Monde Afrique
-http://41.74.140.96:8000/play/a004/index.m3u8
     
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/WyzkAHR.png" channel-number="Converge" group-title="Converge",CNN International
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -962,6 +960,9 @@ http://41.74.140.96:8000/play/a004/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kRD_CzEE876U_cVjUDaMF-hFzDQB906eoYWLq1JT0u99Q=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",FOX Sports@Youtube
+https://ythls.armelin.one/channel/UCwNqHDsnBCKT-olwJwIFyfg.m3u8
 
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/gfFaRwH.png" channel-number="Converge" group-title="Converge",Golf Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1054,9 +1055,6 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="NICKJrTW" tvg-logo="https://m.media-amazon.com/images/I/41DAgNJEGkL.png" group-title="MeWatch",Nick Jr TW
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8?proxy=true
-
-#EXTINF:-1 tvg-id="CNTW" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/9%20-%200TtE3yc.png" group-title="MeWatch",CARTOON NETWORK TW
-http://125.227.210.55:8167/VideoInput/play.ts
 
 #EXTINF:-1 tvg-id="DreaTW" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/2%20-%207KKMSYc.png" group-title="MeWatch",DreamWorks TW
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8?proxy=true
