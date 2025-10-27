@@ -669,12 +669,6 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/45efbd0e594025d93dfe74d7f84de557c82c8578337df40269bc4f36d9664379.png" group-title="Converge", The Pet Collective America
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991174
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/af__1080x1080-logo-bw.png" group-title="Converge", Always Funny Videos
-https://aka-live491.delivery.roku.com/b1beefe1-d4e3-43c6-b15c-7c24f0044827/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vPGva9jmPN2atLE19B-tvMe_FPwJNSBeSaDlZQz-FiK3msxI7zeGBNG6SfN6CaAPtw=w240-h480-rw" group-title="Converge", FailArmy
-https://aka-live491.delivery.roku.com/acc6197f-e3ba-446c-a829-dba5e8f5bbae/t2-origin/out/v1/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllFq-kQxD8srWSGtbYD_9HVSxCv-glAF51w&s" group-title="Converge", Wild Nature
 https://dg5rg8emlfy55.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/55f42503-8c44-4d7b-955d-4ca709a71a47/0.m3u8
 
@@ -917,9 +911,6 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/826c1f767ae1cf9efac61bb5d9c364322097e222b18d7c854fb18ba3978f7186.png" group-title="Converge",Glitch+
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/0c075c81877bf2a1/retro.png" group-title="Converge",PBS Retro
-https://aka-live491.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/40K2Qu3.png" channel-number="Converge" group-title="Converge",ABC Australia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
