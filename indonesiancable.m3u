@@ -651,6 +651,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kR8MAIu23nwXwzXbx8P2Xm1PGcN22jaqb-96zunWyz3wE=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xE9cpzTvPi7JYDEDE59h8elMKYQq04iwUeaygCj_UfdXpj0BVCNucLcCziq_0C8RemMGMpy3=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EYhtkLenzFzU4DV74Ky1uRkUEErG5_hYzLzqgViumxkhdKA-Efo_c0qXknp9C8RpQWmJ29mQuZc=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", TikTok Radio
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993050&ads.xumo_streamId=99993050&ads.channelId=99993050&ads.ad_tag_id=102191&ads.csid=lgchannels_us_stingraytiktok_ssai&ads.channelName=stingraytiktok_us&ads.xumo_contentName=StingrayTikTok&ads.xumo_contentId=3813&ads.xumo_providerName=StingrayTikTok&ads.xumo_providerId=3813&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ebaeb181f20ef45689a3b306545792c:41ff280dc2d57eaf290bc588d821bb35
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png" group-title="Converge", 8XM
