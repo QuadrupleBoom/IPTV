@@ -1047,6 +1047,7 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 
 #EXTINF:-1 tvg-id="disney_junior" tvg-logo="https://64.media.tumblr.com/26d911af7077ffadef485ca8e0e83390/e0f609c27c33b961-80/s1280x1920/cd2c63e03f6543734d03a043f25f69514342ba45.png" group-title="MeWatch",DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
 
 #EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",IQIYI
