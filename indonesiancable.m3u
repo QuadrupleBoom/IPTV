@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://i.mjh.nz/SamsungTVPlus/us.xml, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="https://epg.freejptv.com/jp.xml, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://animenosekai.github.io/japanterebi-xmltv/guide.xml, https://iptv-epg.org/files/epg-lv.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://i.mjh.nz/SamsungTVPlus/us.xml, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Indonesia", RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -838,7 +838,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e26a09c5-b61b-4ee0-884b-b366137c2915/dfrpizx-501fc65f-1c25-4cfd-8833-eecbbe19a7aa.png/v1/fill/w_1920,h_355/nicktoons_international_blue_logo__2011_2014__by_progamechris_dfrpizx-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lMjZhMDljNS1iNjFiLTRlZTAtODg0Yi1iMzY2MTM3YzI5MTUvZGZycGl6eC01MDFmYzY1Zi0xYzI1LTRjZmQtODgzMy1lZWNiYmUxOWE3YWEucG5nIiwiaGVpZ2h0IjoiPD0zNTUiLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiIvd20vZTI2YTA5YzUtYjYxYi00ZWUwLTg4NGItYjM2NjEzN2MyOTE1L3Byb2dhbWVjaHJpcy00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.Jd9pLODGSMG-DVNOmkW-rBmISebeHlsd9r7bfeXdxkQ" group-title="Converge", Nicktoons
+#EXTINF:-1 tvg-id="Nicktoons.lv" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e26a09c5-b61b-4ee0-884b-b366137c2915/dfrpizx-501fc65f-1c25-4cfd-8833-eecbbe19a7aa.png/v1/fill/w_1920,h_355/nicktoons_international_blue_logo__2011_2014__by_progamechris_dfrpizx-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lMjZhMDljNS1iNjFiLTRlZTAtODg0Yi1iMzY2MTM3YzI5MTUvZGZycGl6eC01MDFmYzY1Zi0xYzI1LTRjZmQtODgzMy1lZWNiYmUxOWE3YWEucG5nIiwiaGVpZ2h0IjoiPD0zNTUiLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiIvd20vZTI2YTA5YzUtYjYxYi00ZWUwLTg4NGItYjM2NjEzN2MyOTE1L3Byb2dhbWVjaHJpcy00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.Jd9pLODGSMG-DVNOmkW-rBmISebeHlsd9r7bfeXdxkQ" group-title="Converge", Nicktoons
 http://94.232.127.28:8080/nicktoons/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/20%20-%206K1w4ZW.jpg" group-title="Converge", NickMusic
@@ -1017,63 +1017,39 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
+
+#EXTINF:-1 tvg-id="Ch.5.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721229%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
  
-#EXTINF:-1 tvg-id="Channel 8" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721229%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL 8
+#EXTINF:-1 tvg-id="Ch.8.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721229%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
 https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
  
-#EXTINF:-1 tvg-id="Channel U" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721818%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL U
+#EXTINF:-1 tvg-id="Ch.U.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721818%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
 https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
  
-#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://i.ytimg.com/vi/YMr868B060k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvG9YqhFW-Qf4ThPbOvJI6nquvBQ" group-title="MeWatch",VASANTHAM
+#EXTINF:-1 tvg-id="Vasantham.(HD).sg" tvg-logo="https://i.ytimg.com/vi/YMr868B060k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvG9YqhFW-Qf4ThPbOvJI6nquvBQ" group-title="MeWatch",VASANTHAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcdb0c21368d4c6aa8f4c08e4cd44256:31b348d059593c81f8eb7a8f5f999a76
 https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
  
-#EXTINF:-1 tvg-id="Suria" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639663%27&EntityType=%27Item%27&EntityId=%27229208%27&Width=420&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",SURIA
+#EXTINF:-1 tvg-id="Suria.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639663%27&EntityType=%27Item%27&EntityId=%27229208%27&Width=420&Height=237&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",SURIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-#EXTINF:-1 tvg-id="TVBPearl" tvg-logo="https://corporate.tvb.com/_fck_/image/Pearl.jpg" group-title="MeWatch",Pearl
-http://60.246.171.122:8892/bysid/2
+#EXTINF:-1 tvg-id="nick.de" tvg-logo="https://i.ytimg.com/vi/xDo4RQhQir0/maxresdefault.jpg" group-title="MeWatch",NICKELODEON/COMEDY
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 
-#EXTINF:-1 tvg-id="TVBJade" tvg-logo="https://corporate.tvb.com/_fck_/image/Jade.jpg" group-title="MeWatch",Jade
-http://60.246.171.122:8889/bysid/1
+#EXTINF:-1 tvg-id="disney_junior" tvg-logo="https://64.media.tumblr.com/26d911af7077ffadef485ca8e0e83390/e0f609c27c33b961-80/s1280x1920/cd2c63e03f6543734d03a043f25f69514342ba45.png" group-title="MeWatch",DISNEY JUNIOR
+https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
 
-#EXTINF:-1 tvg-id="TVBNews" tvg-logo="https://play-lh.googleusercontent.com/cnHJx8s7rUEhHKLnRSY-NhiEzYlmoSxWqL3CaKO2iUNRizhSsYamu3JWlET9bbAGlDA" group-title="MeWatch",News
-http://60.246.171.122:8892/bysid/83
-
-#EXTINF:-1 tvg-id="PhoenixHK" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_425_305" group-title="MeWatch",Phoenix Hong Kong
-http://60.246.171.122:8892/bysid/85
-
-#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://static.viu.tv/resized-800/viutv_logo.png" group-title="MeWatch",VIUTV
-http://60.246.171.122:8889/bysid/99
-
-#EXTINF:-1 tvg-id="ViuTV6" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch96_425_305" group-title="MeWatch",VIUTV6
-http://60.246.171.122:8889/bysid/96
-
-#EXTINF:-1 tvg-id="tvbasianac" tvg-logo="https://app.ksmctv.com/Content/MCTV/Image/Channel/8-TVB_Asian_Action_TV_HD.png" group-title="MeWatch",ASIANACTION
-http://60.246.171.122:8890/bysid/8
-
-#EXTINF:-1 tvg-id="TVBXingHe" tvg-logo="https://www.asiasat.com/sites/default/files/2023-05/TVB-Xing-He.png" group-title="MeWatch",XING HE
-http://60.246.171.122:8890/bysid/6
-
-#EXTINF:-1 tvg-id="Oktolidays" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%274033080%27&EntityType=%27Item%27&EntityId=%27186574%27&Width=720&Height=405&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27" group-title="MeWatch",OKTOLIDAYS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346 
-https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-
-#EXTINF:-1 tvg-id="ETTVYoYo" tvg-logo="https://yoyotv.ebc.net.tw/Images/footer-logo.png" group-title="MeWatch",EBC YOYO
-http://60.246.171.122:8890/bysid/67
-
-#EXTINF:-1 tvg-id="ELTVLearning" tvg-logo="https://img.linetv.tw/originals/channel_14.png" group-title="MeWatch",ELTV
-http://15.235.85.105:16203/
-
-#EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",iQIYI
+#EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",IQIYI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
