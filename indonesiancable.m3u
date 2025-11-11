@@ -795,7 +795,7 @@ https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TK3CVGuETgX5VbsVxyaPcMgWE23CoVG8zXSsydYuWBW-5AJC4sP_XrZw-GJyA2kE8ao=w240-h480-rw" group-title="Converge",Real Blast
 https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TK3CVGuETgX5VbsVxyaPcMgWE23CoVG8zXSsydYuWBW-5AJC4sP_XrZw-GJyA2kE8ao=w240-h480-rw" group-title="Converge",GREAT! Christmas +1
+#EXTINF:-1 tvg-logo="https://www.thesun.co.uk/wp-content/uploads/2025/08/christmas-tv-channel-great-christmas-1018586907.jpg?strip=all&w=512" group-title="Converge",GREAT! Christmas +1
 http://176.65.146.99:3592/
 
 #EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/24ef252339c1dee8/bollyhoo.png" group-title="Converge",Zee Sine
@@ -1047,31 +1047,11 @@ https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Classics.svg/1200px-Cartoon_Classics.svg.png" group-title-"MeWatch",Cartoon Classics
-https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/.m3u8
-
-#EXTINF:-1 tvg-id="Nick.HD+.in" tvg-logo="https://i.ytimg.com/vi/1ybTDV11N1M/maxresdefault.jpg" group-title-"MeWatch",NICK HD+
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/live.php?id=1226
-
-#EXTINF:-1 tvg-id="Cartoon.Network.HD+.in" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch443_425_305" group-title-"MeWatch",CARTOON NETWORK HD+
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/live.php?id=1079
-
 #EXTINF:-1 tvg-id="nick.de" tvg-logo="https://i.ytimg.com/vi/xDo4RQhQir0/maxresdefault.jpg" group-title="MeWatch",NICKELODEON/COMEDY
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="MeWatch",ORF KIDS
-https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-7-2025-08_07_43-PM-1-200x300.png" group-title="MeWatch",Tayo+
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=tayo+&channel_id=newid_251&mpf=c74b6d7b-39af1962-dfe2569a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=4b807018-efd96888-b187ba80-98a9f224&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="Disney.International.HD.in" tvg-logo="https://i.ytimg.com/vi/JsTQmMloVdM/hq720.jpg" group-title-"MeWatch",DISNEY INTERNATIONAL HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"mjqbuvEnUYyOZAtROFIo6A","k":"5ibGdwKsi2C59JdQREqCng"},{"kty":"oct","kid":"Q9ZQILVbXdC3KdgveETDiQ","k":"j-GxVxC2CBWEueYBe4ClZQ"},{"kty":"oct","kid":"0OAhqpHGXminAowqanYuyg","k":"1QgiQDNl42DRKEAlHOzuhA"},{"kty":"oct","kid":"Pffn4gG2UPKVPKVc5Bb1gw","k":"BsEJ_RgP6jHTHcXPQjAGWQ"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/dlive.php?id=1375&format=.mpd
 
 #EXTINF:-1 tvg-id="disney_junior" tvg-logo="https://64.media.tumblr.com/26d911af7077ffadef485ca8e0e83390/e0f609c27c33b961-80/s1280x1920/cd2c63e03f6543734d03a043f25f69514342ba45.png" group-title="MeWatch",DISNEY JUNIOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
