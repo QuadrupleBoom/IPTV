@@ -844,7 +844,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 http://94.232.127.28:8080/nicktoons/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/20%20-%206K1w4ZW.jpg" group-title="Converge", NickMusic
-http://58.65.205.171:8000/play/a064
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a46d321c637e522f88c471778fe7ea57:11c583092a9c89d538335c1bd1b5954d
+https://nlziet-linear-f1.nlziet.nl/cenc/nickmusic/dash.mpd?aco=aac
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/spongebob/images/c/c8/SpongeBob-_Patty_Pursuit.jpg" group-title="Converge", SpongeBob SquarePants Universe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1052,13 +1054,6 @@ https://mc-o0of718lw0.bunny.run/24/dopamine/manifest.mpd
 
 #EXTINF:-1 tvg-id="nick.de" tvg-logo="https://i.ytimg.com/vi/xDo4RQhQir0/maxresdefault.jpg" group-title="MeWatch",NICKELODEON/COMEDY
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
-
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://oxolive.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-7-2025-08_07_43-PM-1-200x300.png" group-title="MeWatch",Tayo+
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=tayo+&channel_id=newid_251&mpf=c74b6d7b-39af1962-dfe2569a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=4b807018-efd96888-b187ba80-98a9f224&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="disney_junior" tvg-logo="https://64.media.tumblr.com/26d911af7077ffadef485ca8e0e83390/e0f609c27c33b961-80/s1280x1920/cd2c63e03f6543734d03a043f25f69514342ba45.png" group-title="MeWatch",DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
 
 #EXTINF:-1 tvg-id="Iqiyi" tvg-logo="https://i.imgur.com/E63wJx9.png" group-title="MeWatch",IQIYI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
