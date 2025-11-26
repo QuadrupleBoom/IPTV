@@ -843,8 +843,8 @@ http://94.232.127.28:8080/nicktoons/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/9c3b854fbad56620/nicktoins.png" group-title="Converge", TeenNick
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=57588399a2a939927418a588126e316d:6566f7996a957773701e2de8741ce176
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/TEENNICK-HD/default.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/20%20-%206K1w4ZW.jpg" group-title="Converge", NickMusic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
