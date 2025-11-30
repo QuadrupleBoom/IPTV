@@ -1093,13 +1093,6 @@ https://converse.nathcreqtives.com/1178/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1125/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GVI_lzxaEAMjkWC.jpg" group-title="Converge",Tooncast
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
-https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/TOONCAST-SD/default.mpd
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nAXR6w904w0oUegdpoT0BrPPNBvHYAXusDHg-vVKRi9KU=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",YTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
