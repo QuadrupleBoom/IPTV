@@ -1093,6 +1093,13 @@ https://converse.nathcreqtives.com/1178/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1125/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GVI_lzxaEAMjkWC.jpg" group-title="Converge",Tooncast
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
+https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/TOONCAST-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nAXR6w904w0oUegdpoT0BrPPNBvHYAXusDHg-vVKRi9KU=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",YTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1230,6 +1237,9 @@ https://converse.nathcreqtives.com/1106/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=40557a1738018d4dd815e79f2cfc6b30:3967abe5845e8c4fffbd2f4cd4b77f0a
 https://tvcdn.tv.telia.lt/live/eds/Nickelodeon_H/DASH_5_CPIX_NPVR/Nickelodeon_H.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/1ybTDV11N1M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBnkiSSnKXe-SQoXo-U6Rl8BIJQAQ" group-title="MeWatch",NICKELODEON HD+
+http://103.140.254.2:3500/live/1226.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/23zh6ODMSWI/maxresdefault.jpg" group-title="MeWatch",NICK JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=46beefe8a4d11f36822b75d9a67a42be:e94946dcfd579b24e2c41a1cb051e18a
@@ -1245,7 +1255,16 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Channel_H/DASH_5_CPIX_NPVR/Disney_Chan
 #KODIPROP:inputstream.adaptive.license_key=1ecc83e1cbb1f4c1bd3343845f55b361:560a022b2d0e0909420fd363101b2e3b
 https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junior_H.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Mle8CiTSmWUF4AiXNeu2yChK8OMUIlck93I8YDfzi2YI_bjovWhWy0ahzZxhjpHwUqsPv6aS1g=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoonito
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="MeWatch",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
+https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/1447231693_cn-on-dd549-landing-page-skycable-nov-6.jpg" group-title="MeWatch",CARTOON NETWORK HD+
+http://103.140.254.2:3500/live/1079.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Mle8CiTSmWUF4AiXNeu2yChK8OMUIlck93I8YDfzi2YI_bjovWhWy0ahzZxhjpHwUqsPv6aS1g=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="MeWatch",CARTOONITO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a856d452dd69992b36df3b383a3e87b:178bafe3ab33052c81276e71d3496715
