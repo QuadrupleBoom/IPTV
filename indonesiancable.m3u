@@ -1091,12 +1091,26 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
 https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Cartoon Network Australia HD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Cartoon Network Canada HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
 https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PKIFpfCmYkprKSZNKHHsxFQ7YQ-dOOXxqUEZwFOWUQA7n2yvQ8fAmgJWlzJiorzGrRrCpurCWg=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Boomerang HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e38693f6306dea9536b765bc6325662d:3dab68783f506fd453e19cd7994182ee
+https://bkms.itv.cogeco.net/sdash/LIVE$1051/index.mpd/Manifest?device=mdrm_live_ccx_dash_v1_wv3_hd&start=LIVE&end=END
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PKIFpfCmYkprKSZNKHHsxFQ7YQ-dOOXxqUEZwFOWUQA7n2yvQ8fAmgJWlzJiorzGrRrCpurCWg=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Toon-A-Vision HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5ec6f61dc9b30510074b330871dbd41:1064f977e1cc99acdb941959663981bf
+https://bkms.itv.cogeco.net/sdash/LIVE$3639/index.mpd/Manifest?device=mdrm_live_ccx_dash_v1_wv3_hd&start=LIVE&end=END
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
