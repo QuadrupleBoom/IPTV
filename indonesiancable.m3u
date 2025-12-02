@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://www.open-epg.com/files/hungary1.xml, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://www.open-epg.com/files/romania1.xml, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://iptv-epg.org/files/epg-lv.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://i.mjh.nz/SamsungTVPlus/us.xml, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="http://64.176.44.128:9200/xmltv/channels, http://64.176.44.128:9201/xmltv/channels, http://64.176.44.128:9202/xmltv/channels, http://64.176.44.128:9205/xmltv/channels, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://www.open-epg.com/files/hungary1.xml, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://www.open-epg.com/files/romania1.xml, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://iptv-epg.org/files/epg-lv.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://i.mjh.nz/SamsungTVPlus/us.xml, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Indonesia", RCTI 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
@@ -1228,3 +1228,663 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/ABC_Kids_%282020%29.png" group-title="ABC",ABC Kids
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
+
+
+#EXTINF:-1 tvg-id="340714bbcbce644aaee3233ded4339ed",TaiwanPlus
+http://64.176.44.128:9200/stream/channelid/991168308?profile=pass
+
+#EXTINF:-1 tvg-id="023d410f197295619ad8751af9f1d78e",CTV
+http://64.176.44.128:9200/stream/channelid/255933698?profile=pass
+
+#EXTINF:-1 tvg-id="5c50fe255aeb39bbb6e2d934708b4d74", CTV News Channel
+http://64.176.44.128:9200/stream/channelid/637423708?profile=pass
+
+#EXTINF:-1 tvg-id="17ad06dee0cc4c2dbb025ace92abf7cd", CTV Classic Channel
+http://64.176.44.128:9200/stream/channelid/1577495831?profile=pass
+
+#EXTINF:-1 tvg-id="aef7eb57db1cdd2ef44ff70736a02f5d", CTV Channel 1
+http://64.176.44.128:9200/stream/channelid/1475082158?profile=pass
+
+#EXTINF:-1 tvg-id="fa4acc6854e700df09dc0266b527471d", PTS (Public Television Service)
+http://64.176.44.128:9200/stream/channelid/1758219002?profile=pass
+
+#EXTINF:-1 tvg-id="da3df2208e1c4351d7cafd81bb9d15eb", PTS Taiwanese Channel
+http://64.176.44.128:9200/stream/channelid/552746458?profile=pass
+
+#EXTINF:-1 tvg-id="46e41287f7fa2bbe597d0dddf1b59751", Indigenous Peoples Television
+http://64.176.44.128:9200/stream/channelid/118678598?profile=pass
+
+#EXTINF:-1 tvg-id="61d962e5a306ef35ad341f607b46f16b", Taiwan Television
+http://64.176.44.128:9200/stream/channelid/1700976993?profile=pass
+
+#EXTINF:-1 tvg-id="86f15d2e84ff650643ff0a4bb94c33b0", TTV News Channel
+http://64.176.44.128:9200/stream/channelid/777908614?profile=pass
+
+#EXTINF:-1 tvg-id="73b948664cfda5705862f92b1003bf9e", TTV General Channel
+http://64.176.44.128:9200/stream/channelid/1716042099?profile=pass
+
+#EXTINF:-1 tvg-id="e2c70ead4adb1721024621313003cfcf", TTV Finance Channel
+http://64.176.44.128:9200/stream/channelid/755943394?profile=pass
+
+#EXTINF:-1 tvg-id="718987a415bc748d4d7164fe7a718838", Congressional Channel 1
+http://64.176.44.128:9200/stream/channelid/612862321?profile=pass
+
+#EXTINF:-1 tvg-id="ac30ea61b43e5a1ff1fc25522a2d27c6", Congressional Channel 2
+http://64.176.44.128:9200/stream/channelid/1642737836?profile=pass
+
+#EXTINF:-1 tvg-id="ff88b3cb1a1830cedd5a4214719ab39b", Hakka TV
+http://64.176.44.128:9200/stream/channelid/1270057215?profile=pass
+
+#EXTINF:-1 tvg-id="16f658f6cc2bd8e01db257836836b018", PTS (Public Television Service)
+http://64.176.44.128:9200/stream/channelid/1985541654?profile=pass
+
+#EXTINF:-1 tvg-id="206ba83a5c38078bd6edbe88a42e9699", Formosa Television
+http://64.176.44.128:9200/stream/channelid/984116000?profile=pass
+
+#EXTINF:-1 tvg-id="6e7823dff1e473a005f2859a6513cbd2", Formosa Television Taiwan
+http://64.176.44.128:9200/stream/channelid/1596160110?profile=pass
+
+#EXTINF:-1 tvg-id="7292b8eb90f8950fde5e06a1c43d40a1", FTV News Channel
+http://64.176.44.128:9200/stream/channelid/1807258226?profile=pass
+
+#EXTINF:-1 tvg-id="1e1c72a64fd48a3e6486a76de81bd18c", FTV Channel 1
+http://64.176.44.128:9200/stream/channelid/645012510?profile=pass
+
+#EXTINF:-1 tvg-id="333547269fa2b907b15f3349bd5bb4bf", CTS (China Television System)
+http://64.176.44.128:9200/stream/channelid/642200883?profile=pass
+
+#EXTINF:-1 tvg-id="8fbd148df6fcd230b71be7791467b8f8", CTS Education, Sports & Culture Channel
+http://64.176.44.128:9200/stream/channelid/219463055?profile=pass
+
+#EXTINF:-1 tvg-id="6cd6bcef02e516a3e6c8dac6372b1a25", CTS News Channel
+http://64.176.44.128:9200/stream/channelid/1874646636?profile=pass
+
+#EXTINF:-1 tvg-id="f051ee1061bb813c6a92cb9bb4b22410",afn Asian Food Channel (HD)
+
+http://64.176.44.128:9201/stream/channelid/284054000?profile=pass
+
+#EXTINF:-1 tvg-id="2a73788f87c00035ed36edb85e491667",amc Movie Channel (HD)
+
+http://64.176.44.128:9201/stream/channelid/259552042?profile=pass
+
+#EXTINF:-1 tvg-id="2465218d92faa0cff49b0783208ff2e2",Arirang TV (HD)
+
+http://64.176.44.128:9201/stream/channelid/220292388?profile=pass
+
+#EXTINF:-1 tvg-id="712d4683bfcef390e271169b86121f91",BBC Earth (HD)
+
+http://64.176.44.128:9201/stream/channelid/54930801?profile=pass
+
+#EXTINF:-1 tvg-id="16db827191fc5aa3c3d70ff42af10e9e",CATCHPLAY Movie Channel (HD)
+
+http://64.176.44.128:9201/stream/channelid/1904401174?profile=pass
+
+#EXTINF:-1 tvg-id="ceda656e79a22cd8eb16ef2ace1df74f",Cinemax(HD)
+http://64.176.44.128:9201/stream/channelid/1852168910?profile=pass
+
+#EXTINF:-1 tvg-id="3580aebbb82c46a939ee9440575c78ef",CNN(HD)
+http://64.176.44.128:9201/stream/channelid/1001291829?profile=pass
+
+#EXTINF:-1 tvg-id="ca70d8989e9e4a44dd034b2df8583636",CN Cartoon (HD)
+http://64.176.44.128:9201/stream/channelid/416837834?profile=pass
+
+#EXTINF:-1 tvg-id="041781e924c1d6a3beeab73fbe167c87",Discovery Asia (HD)
+
+http://64.176.44.128:9201/stream/channelid/1770067716?profile=pass
+
+#EXTINF:-1 tvg-id="163d5f4d6dd4045b310ce0cd0a7dd634",Discovery (HD)
+
+http://64.176.44.128:9201/stream/channelid/1298087190?profile=pass
+
+#EXTINF:-1 tvg-id="0cbfdd002b8c5cbd0315285f44da7ff4",Discovery Science Channel (HD)
+
+http://64.176.44.128:9201/stream/channelid/14532364?profile=pass
+
+#EXTINF:-1 tvg-id="01162f50e589a418d267da016123f89c",EVE(HD)
+http://64.176.44.128:9201/stream/channelid/1345263105?profile=pass
+
+#EXTINF:-1 tvg-id="2a061f390f1607bc12e3bef94d0b72c2",HBO HD
+http://64.176.44.128:9201/stream/channelid/958334506?profile=pass
+
+#EXTINF:-1 tvg-id="38af4425e23837d75cea02fe1c17ce6a", HBO Original (HD)
+http://64.176.44.128:9201/stream/channelid/625258296?profile=pass
+
+#EXTINF:-1 tvg-id="1f6c69d9bf053070323af050b8272988", HBO Family (HD)
+http://64.176.44.128:9201/stream/channelid/1500081183?profile=pass
+
+#EXTINF:-1 tvg-id="873f48ba9078eae870a5878b501677ca",HBO strong file (HD)
+http://64.176.44.128:9201/stream/channelid/977813383?profile=pass
+
+#EXTINF:-1 tvg-id="c642ee008685524f227f99e9373f32ac",Lifetime(HD)
+http://64.176.44.128:9201/stream/channelid/15614662?profile=pass
+
+#EXTINF:-1 tvg-id="ffc2cea6f6009224851fcf4924e0df92",LOVE NATURE(HD)
+http://64.176.44.128:9201/stream/channelid/651084543?profile=pass
+
+#EXTINF:-1 tvg-id="79dd4111221c4acbc3ebb1429d16b2f7",momo 2 units (HD)
+http://64.176.44.128:9201/stream/channelid/289529209?profile=pass
+
+#EXTINF:-1 tvg-id="029d9d522faded0e52bd7767810956e2",momo 2 units (HD)
+http://64.176.44.128:9201/stream/channelid/1386061058?profile=pass
+
+#EXTINF:-1 tvg-id="233e08b22d158bc68c430cf636432e77",MUCH TV(HD)
+http://64.176.44.128:9201/stream/channelid/839400995?profile=pass
+
+#EXTINF:-1 tvg-id="b95f7e6ba0ecdb12eb0a2e4a8f96a5d3",TaiwanPlus(HD)
+http://64.176.44.128:9201/stream/channelid/1803444153?profile=pass
+
+#EXTINF:-1 tvg-id="efc10e5e1cb09abdb7773c0b126b68bb", TBC Taichung Lifestyle Channel (HD)
+http://64.176.44.128:9201/stream/channelid/1578025455?profile=pass
+
+#EXTINF:-1 tvg-id="7cf05747c9ade34d09d0b6ef0cba244a", Travel Channel (HD)
+http://64.176.44.128:9201/stream/channelid/1196945532?profile=pass
+
+#EXTINF:-1 tvg-id="8ef4f4b7f8c9565d8a9af5d8766b62d9", viva Channel 1 (HD)
+http://64.176.44.128:9201/stream/channelid/938800270?profile=pass
+
+#EXTINF:-1 tvg-id="acd1f31fa6413fcc38bfbd1623a079fe", GTV Entertainment Channel (HD)
+http://64.176.44.128:9201/stream/channelid/536072620?profile=pass
+
+#EXTINF:-1 tvg-id="59233d86aa89ad9b4e8bb773e6e38c71", GTV Drama Channel (HD)
+http://64.176.44.128:9201/stream/channelid/104670041?profile=pass
+
+#EXTINF:-1 tvg-id="6df06c48c3df641b9301724183301255", Sansheng TV (HD)
+http://64.176.44.128:9201/stream/channelid/1215098989?profile=pass
+
+#EXTINF:-1 tvg-id="4bb35a6fc265ea4d93a6417368f2a3ed", CTi Entertainment (HD)
+http://64.176.44.128:9201/stream/channelid/1868215115?profile=pass
+
+#EXTINF:-1 tvg-id="ce13ffb6a44a4ddc4d20871bc69fd15d", CTi Variety Channel (HD)
+http://64.176.44.128:9201/stream/channelid/922686414?profile=pass
+
+#EXTINF:-1 tvg-id="7c55a8396265957a8c158bb3ae0d7de4", CTi Variety Channel (HD)
+http://64.176.44.128:9201/stream/channelid/967333244?profile=pass
+
+#EXTINF:-1 tvg-id="d074ab4716721af90df795eedf738481", Central Taiwan Life Network (HD)
+http://64.176.44.128:9201/stream/channelid/1202418896?profile=pass
+
+#EXTINF:-1 tvg-id="0703aa1ab91d195b7d10cd19a36f0cd5", CTV Elite Channel (HD)
+http://64.176.44.128:9201/stream/channelid/447349511?profile=pass
+
+#EXTINF:-1 tvg-id="be052b0678bdeaeb35754555bb9487bd", Taiwan Arts Channel (HD)
+http://64.176.44.128:9201/stream/channelid/103482814?profile=pass
+
+#EXTINF:-1 tvg-id="4a50123697cee61bdaab3c7901c67c9f", Nickelodeon (HD)
+http://64.176.44.128:9201/stream/channelid/907169866?profile=pass
+
+#EXTINF:-1 tvg-id="3e0485f4c3c13083edb7f7de97813352", FTV Taiwan (HD)
+http://64.176.44.128:9201/stream/channelid/1954874430?profile=pass
+
+#EXTINF:-1 tvg-id="c2727ab1bc45d573cc3b15d2dbb6fe37", FTV Channel 1 (HD)
+http://64.176.44.128:9201/stream/channelid/830108354?profile=pass
+
+#EXTINF:-1 tvg-id="47c85427bcef77887744e9c12157fe92", Quan Da TV Station (HD)
+http://64.176.44.128:9201/stream/channelid/659867719?profile=pass
+
+#EXTINF:-1 tvg-id="2ef03911faf5f6febbbe83c64ffb3548", Good News Channel 2 (HD)
+
+http://64.176.44.128:9201/stream/channelid/289009710?profile=pass
+
+#EXTINF:-1 tvg-id="390eb35db8f756c98e740499a8a71bdf", Hollywood Movies Channel (HD)
+http://64.176.44.128:9201/stream/channelid/1572015673?profile=pass
+
+#EXTINF:-1 tvg-id="771fc7026332fde2118341c6c15a06d4", Dongfeng (HD)
+http://64.176.44.128:9201/stream/channelid/46604151?profile=pass
+
+#EXTINF:-1 tvg-id="038ae32fa437e5351262d727de76990d", Dongfeng (HD)
+http://64.176.44.128:9201/stream/channelid/803441155?profile=pass
+
+#EXTINF:-1 tvg-id="0c499cdc0f2ac4029c15fff9da4e90ec", EBC YOYO (HD)
+http://64.176.44.128:9201/stream/channelid/1553746188?profile=pass
+
+#EXTINF:-1 tvg-id="edb6588545894debc43e78fe54fcb968", EBC Movies (HD)
+http://64.176.44.128:9201/stream/channelid/89700077?profile=pass
+
+#EXTINF:-1 tvg-id="5495a67a52915cc8f467b8a6bc0cce4b", EBC Drama Channel (HD)
+http://64.176.44.128:9201/stream/channelid/2057737556?profile=pass
+
+#EXTINF:-1 tvg-id="89d7fec840deeb503154f3b8c9d7f6b3", EBC Shopping Channel 2 (HD)
+http://64.176.44.128:9201/stream/channelid/1224660873?profile=pass
+
+#EXTINF:-1 tvg-id="89e0a173184ada3871d98fc1b81b3195", ETMall Channel 2 (HD)
+http://64.176.44.128:9201/stream/channelid/1939988617?profile=pass
+
+#EXTINF:-1 tvg-id="08d4c5766a9c474eb22010dab3c0aee9", ETMall Channel 5 (HD)
+http://64.176.44.128:9201/stream/channelid/1992676360?profile=pass
+
+#EXTINF:-1 tvg-id="21cfd80aecad0293bd5c9fda94643145", Champion Dream Channel (HD)
+http://64.176.44.128:9201/stream/channelid/181980961?profile=pass
+
+#EXTINF:-1 tvg-id="33e693f1162409b5a40cfc2db80e6485", Extraordinary News Channel (HD)
+http://64.176.44.128:9201/stream/channelid/1905518131?profile=pass
+
+#EXTINF:-1 tvg-id="67c4fc58baaf04d0837236e95f26a69a", Shinda TV (HD)
+http://64.176.44.128:9201/stream/channelid/1492960359?profile=pass
+
+#EXTINF:-1 tvg-id="91f1d61958639ced03e9288c154642a5", Shinji TV (HD)
+http://64.176.44.128:9201/stream/channelid/433516945?profile=pass
+
+#EXTINF:-1 tvg-id="e932c7e317e3c8672bb0a374aba91b2d", Travel & Lifestyle (HD)
+http://64.176.44.128:9201/stream/channelid/1673999081?profile=pass
+
+#EXTINF:-1 tvg-id="4208ab8c16bce8d871c77e9b26fad9e8", Animal Planet (HD)
+http://64.176.44.128:9201/stream/channelid/212535362?profile=pass
+
+#EXTINF:-1 tvg-id="3b0cc958643602ecdec4cb33bf0a0f41", Congressional Channel 1 (HD)
+http://64.176.44.128:9201/stream/channelid/1489570875?profile=pass
+
+#EXTINF:-1 tvg-id="693eadc2b3ed1c36b601bfd510b442be", Congressional Channel 2 (HD)
+http://64.176.44.128:9201/stream/channelid/1118649961?profile=pass
+
+#EXTINF:-1 tvg-id="ee2c6face0b6f5802bcebee52b9abe52", Bosco Golf Channel 1 (HD)
+http://64.176.44.128:9201/stream/channelid/745483502?profile=pass
+
+#EXTINF:-1 tvg-id="6ff9a33298a245adfbaf30f0f41b1406", Next TV Information Channel (HD)
+http://64.176.44.128:9201/stream/channelid/849607023?profile=pass
+
+#EXTINF:-1 tvg-id="df84e15af97a0cde8275c9eba25a106a", OneTV Movie Channel (HD)
+http://64.176.44.128:9201/stream/channelid/1524729055?profile=pass
+
+#EXTINF:-1 tvg-id="40663305875fa1035850a3ac56eeb04c", Test Channel (HD)
+http://64.176.44.128:9201/stream/channelid/87254592?profile=pass
+
+#EXTINF:-1 tvg-id="b1ee209dfb106c59913f1387920cb32f", CTS News Channel (HD)
+http://64.176.44.128:9201/stream/channelid/488697521?profile=pass
+
+#EXTINF:-1 tvg-id="3306e9fed1c49eaef451793ea934e748", Super TV (HD)
+http://64.176.44.128:9201/stream/channelid/2129200691?profile=pass
+
+#EXTINF:-1 tvg-id="3f39b024a396d9033ccbcaea0b0114e2", EuroSports (HD)
+http://64.176.44.128:9201/stream/channelid/615528767?profile=pass
+
+#EXTINF:-1 tvg-id="e78eae7d7a385a81553320b57cd47f4a", Videoland Sports Channel (HD)
+http://64.176.44.128:9201/stream/channelid/2108591847?profile=pass
+
+#EXTINF:-1 tvg-id="682520ee4407de2e1c6c77514a18edb8", Videoland Sports Channel (HD)
+http://64.176.44.128:9201/stream/channelid/1847600488?profile=pass
+
+#EXTINF:-1 tvg-id="d4fdfeacd3f624673405ffca133cced6", Global News Channel (HD)
+http://64.176.44.128:9201/stream/channelid/754908628?profile=pass
+
+#EXTINF:-1 tvg-id="c7a56b327edf769c541694104c886fc6", Youku Family Channel (HD)
+http://64.176.44.128:9201/stream/channelid/845915591?profile=pass
+
+#EXTINF:-1 tvg-id="e0245c4ae24355e593749e5662c6b2ec", Formosa Culture Channel (HD)
+http://64.176.44.128:9201/stream/channelid/1247552736?profile=pass
+
+#EXTINF:-1 tvg-id="2073458ce5bd252b3447567d86721ced", 50th & 60th Western Songs
+http://64.176.44.128:9205/stream/channelid/205878048?profile=pass
+
+#EXTINF:-1 tvg-id="f666456538f03124fcef02ccbbd99f85", Bossa Nova Brazilian Jazz
+http://64.176.44.128:9205/stream/channelid/1699047158?profile=pass
+
+#EXTINF:-1 tvg-id="0d0ef95cf5447c59bcaff1c05701020a",Classical classical music
+http://64.176.44.128:9205/stream/channelid/1559825933?profile=pass
+
+#EXTINF:-1 tvg-id="234f3087d1a6fd787766658a7971cfaa",DMAX(HD)
+http://64.176.44.128:9205/stream/channelid/120606499?profile=pass
+
+#EXTINF:-1 tvg-id="34e37c31c5505cc7ca583dfcb2bcfd10",Easy Listening
+http://64.176.44.128:9205/stream/channelid/830268212?profile=pass
+
+#EXTINF:-1 tvg-id="86125730fa6b9184bc56c8fc5abc0211",HBO(HD)
+http://64.176.44.128:9205/stream/channelid/811012742?profile=pass
+
+#EXTINF:-1 tvg-id="090f22aaf104e21aa3a2f7ba226c0cdd",HIP HOP
+http://64.176.44.128:9205/stream/channelid/706875145?profile=pass
+
+#EXTINF:-1 tvg-id="033e13be577c3ac897e33c764c7d3769",J&T Station
+http://64.176.44.128:9205/stream/channelid/1041448451?profile=pass
+
+#EXTINF:-1 tvg-id="0842895bc9bc23538cb851a954f1ef79",Lounge
+http://64.176.44.128:9205/stream/channelid/1535721992?profile=pass
+
+#EXTINF:-1 tvg-id="a44674c465cd12b58ae881e22d566527",PARTY MUSIC
+http://64.176.44.128:9205/stream/channelid/1148470948?profile=pass
+
+#EXTINF:-1 tvg-id="2e932829832a57b0c55c3b4b618ca015",POP new song
+http://64.176.44.128:9205/stream/channelid/690524974?profile=pass
+
+#EXTINF:-1 tvg-id="ebc66097208d5e361b39e5abf81992cd",R&B rhythm and blues
+http://64.176.44.128:9205/stream/channelid/392218347?profile=pass
+
+#EXTINF:-1 tvg-id="8cb545fb3af56ca1d764e47bc327330f",ROCK Entertainment(HD)
+http://64.176.44.128:9205/stream/channelid/2068166028?profile=pass
+
+#EXTINF:-1 tvg-id="6aec8457df4b27b569a0b49647ed9979",ROCK MUSIC
+http://64.176.44.128:9205/stream/channelid/1468329066?profile=pass
+
+#EXTINF:-1 tvg-id="852d8fcfebdd88d592f7f1a573b88a63",Sweet Love
+http://64.176.44.128:9205/stream/channelid/1334783365?profile=pass
+
+#EXTINF:-1 tvg-id="9e6e827b6bc1774d941053dfa6af154b",Sanlih E-Television News (HD)
+http://64.176.44.128:9205/stream/channelid/2072145566?profile=pass
+
+#EXTINF:-1 tvg-id="ccfce159971c8ea994c6e6ba5f9841a7", Chinese Classical Music
+http://64.176.44.128:9205/stream/channelid/1507982540?profile=pass
+
+#EXTINF:-1 tvg-id="c8a50cb0b61fd3898a181b15e741bd2c", CTV (HD)
+http://64.176.44.128:9205/stream/channelid/806135240?profile=pass
+
+#EXTINF:-1 tvg-id="a8f97e57a85db6df3f2ec2cea0703756", PTS (HD)
+http://64.176.44.128:9205/stream/channelid/1467939240?profile=pass
+
+#EXTINF:-1 tvg-id="b878d04d0e6ac3271fe291dbeac35035", Tien Liang Life Channel (HD)
+http://64.176.44.128:9205/stream/channelid/1305508024?profile=pass
+
+#EXTINF:-1 tvg-id="10e18e9dc4f19a991c391c0b9adf749d", Japanese Lyric
+http://64.176.44.128:9205/stream/channelid/495902992?profile=pass
+
+#EXTINF:-1 tvg-id="3ad3aaff76d049339778362c236b9047", Crystal Music
+http://64.176.44.128:9205/stream/channelid/2141901626?profile=pass
+
+#EXTINF:-1 tvg-id="f9d1322729e57324af865cede6c3c6cb", Happy Birthday
+http://64.176.44.128:9205/stream/channelid/657641977?profile=pass
+
+#EXTINF:-1 tvg-id="66b3a9f45b087dff6c0dfa3dca25a81e", Global Finance Channel (HD)
+http://64.176.44.128:9205/stream/channelid/1957278566?profile=pass
+
+#EXTINF:-1 tvg-id="159d382226ae8fd417c6bc5ed16c8deb", Western Pop Bestseller
+http://64.176.44.128:9205/stream/channelid/574135573?profile=pass
+
+#EXTINF:-1 tvg-id="01d1df7d86bf7c550e595455e7e69074", Western Chart New Hits
+http://64.176.44.128:9205/stream/channelid/2111820033?profile=pass
+
+#EXTINF:-1 tvg-id="8e266aa0f242b373ba0c9d9fd197f10d", Western Love Songs Selection
+http://64.176.44.128:9205/stream/channelid/543827598?profile=pass
+
+#EXTINF:-1 tvg-id="ddea595df8226e16ac661ea2e2ea43ca", Radio Asia
+http://64.176.44.128:9205/stream/channelid/1566173917?profile=pass
+
+#EXTINF:-1 tvg-id="c07d4edc63a09884343d38b52e2e7da6", Children's Music
+http://64.176.44.128:9205/stream/channelid/1548647872?profile=pass
+
+#EXTINF:-1 tvg-id="a3c7d5d528ea2c0caf380a8341615604", Seasonal Music
+http://64.176.44.128:9205/stream/channelid/1440073635?profile=pass
+
+#EXTINF:-1 tvg-id="0f5f3524a2e0fc2ba9c603c76a69b2fb", Popular Japanese Songs
+http://64.176.44.128:9205/stream/channelid/607477519?profile=pass
+
+#EXTINF:-1 tvg-id="9e5f8bb7a678cbec1a1af3f57bad96ef", Famous Showa and Heisei Enka Songs
+http://64.176.44.128:9205/stream/channelid/931880862?profile=pass
+
+#EXTINF:-1 tvg-id="09d6a83ea70f68d2368c95230f7edee3", Popular Korean Music
+http://64.176.44.128:9205/stream/channelid/1051252233?profile=pass
+
+#EXTINF:-1 tvg-id="0d5d92414069fe566d1b2da6b35d2901", Dynamic Korean Wave
+http://64.176.44.128:9205/stream/channelid/1100111117?profile=pass
+
+#EXTINF:-1 tvg-id="11cd7c023bfe9bdfc5dbfb929a356e6a", Medici Arts Channel (HD)
+http://64.176.44.128:9205/stream/channelid/41733393?profile=pass
+
+#EXTINF:-1 tvg-id="5c7c1db4fa406fdd80eb3f8fec0e40ab", Bosch Golf Channel 2 (HD)
+http://64.176.44.128:9205/stream/channelid/874347612?profile=pass
+
+#EXTINF:-1 tvg-id="d2c9c12adc71237b681d828616532d76", BOSI Infinite Channel (HD)
+http://64.176.44.128:9205/stream/channelid/717343186?profile=pass
+
+#EXTINF:-1 tvg-id="aa154cdbcf40241cf032ac3f8870068a", BOSI Sports Channel 1 (HD)
+http://64.176.44.128:9205/stream/channelid/1531712938?profile=pass
+
+#EXTINF:-1 tvg-id="1a9112525321a3145f07bd29c6280cdf", Bos Sports Channel 2 (HD)
+http://64.176.44.128:9205/stream/channelid/1376948506?profile=pass
+
+#EXTINF:-1 tvg-id="d7a9b6579d028fb49927d251f2a7d184", Bos Tennis Channel (HD)
+http://64.176.44.128:9205/stream/channelid/1471588823?profile=pass
+
+#EXTINF:-1 tvg-id="8eea34d2a0b35e755e1bab6059495d71", Bos Charm Network (HD)
+http://64.176.44.128:9205/stream/channelid/1379199630?profile=pass
+
+#EXTINF:-1 tvg-id="6919e68451ca43f2f6a0257e5c106848", Wedding March/Goodnight Song
+http://64.176.44.128:9205/stream/channelid/82188649?profile=pass
+
+#EXTINF:-1 tvg-id="227b2ea9033859131353cf2591cec0eb", Comfortable Ambient Music
+http://64.176.44.128:9205/stream/channelid/690912034?profile=pass
+
+#EXTINF:-1 tvg-id="2bd8c4c69b2804839217f3f6b37bfec4", CTS (HD)
+http://64.176.44.128:9205/stream/channelid/1187305515?profile=pass
+
+#EXTINF:-1 tvg-id="8bb940147410a14125ab207902ed9852", Mandarin ballads
+http://64.176.44.128:9205/stream/channelid/339786123?profile=pass
+
+#EXTINF:-1 tvg-id="3b2a93efdc1826854b83ae892a3d474b", Mandarin pop hits
+http://64.176.44.128:9205/stream/channelid/1871915579?profile=pass
+
+#EXTINF:-1 tvg-id="a678cf77e9f837930116d71018923dc5", Huayi Taiwan Channel (HD)
+
+http://64.176.44.128:9205/stream/channelid/2010085542?profile=pass
+
+#EXTINF:-1 tvg-id="77503dbd7357e9020f1be9bd1fb93233", Yuntong Finance Channel (HD)
+
+http://64.176.44.128:9205/stream/channelid/1027428471?profile=pass
+
+#EXTINF:-1 tvg-id="3fa969487d1c102b87dd123e83a5d44f", Historical Channel (HD)
+
+http://64.176.44.128:9205/stream/channelid/1214884159?profile=pass
+
+#EXTINF:-1 tvg-id="7e5184dd362b497e15840a5c0788d5b4", Piano Performance
+
+http://64.176.44.128:9205/stream/channelid/1568952702?profile=pass
+
+#EXTINF:-1 tvg-id="49861960d6c5fc1b6ae24e4c933a1ef1", Jazz Performance
+
+http://64.176.44.128:9205/stream/channelid/1612285513?profile=pass
+
+#EXTINF:-1 tvg-id="f4b322eb89487f5761176183140479d4", Jazz Performance
+
+http://64.176.44.128:9205/stream/channelid/1797436404?profile=pass
+
+#EXTINF:-1 tvg-id="d4c37a464280a8c597eac1b7dd13b8f5", Vintage Gramophone
+
+http://64.176.44.128:9205/stream/channelid/1182450644?profile=pass
+
+#EXTINF:-1 tvg-id="39b2080c3154b1ba5951509940a1dc31", Pili Taiwan Channel (HD)
+
+http://64.176.44.128:9205/stream/channelid/201896505?profile=pass
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="24c9f0a933befc04ec3c0f965ff59136", ANIMAX Cartoon (HD)
+http://64.176.44.128:9202/stream/channelid/703645988?profile=pass
+
+#EXTINF:-1 tvg-id="7063877ab4cc52f08700fcd1d24d73ea",AXN(HD)
+http://64.176.44.128:9202/stream/channelid/2055693168?profile=pass
+
+#EXTINF:-1 tvg-id="6c164943d2cbedc4dc1489ed4f0ada33",BBC Lifestyle(HD)
+http://64.176.44.128:9202/stream/channelid/1128863340?profile=pass
+
+#EXTINF:-1 tvg-id="a7e0ea4a6e7840ed5713415522314c25",BBC NEWS(HD)
+http://64.176.44.128:9202/stream/channelid/1256906919?profile=pass
+
+#EXTINF:-1 tvg-id="6fdce7ccca4bbd7d14773cd9e2e572cf",DAZN 1(HD)
+http://64.176.44.128:9202/stream/channelid/1290263663?profile=pass
+
+#EXTINF:-1 tvg-id="711a660c15454d36a383b731db1ee188",DAZN 2(HD)
+http://64.176.44.128:9202/stream/channelid/208018033?profile=pass
+
+#EXTINF:-1 tvg-id="d09e8729880d36eea6e2fd27a586fd63",Global Trekker(HD)
+http://64.176.44.128:9202/stream/channelid/696753872?profile=pass
+
+#EXTINF:-1 tvg-id="3613f8078f95e9414397668d2ed80a3b",JET(HD)
+http://64.176.44.128:9202/stream/channelid/133698358?profile=pass
+
+#EXTINF:-1 tvg-id="9fb819d32b9c0eb80fe9f9b31d134193",LS TIME Movie Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1394194591?profile=pass
+
+#EXTINF:-1 tvg-id="dcc5d2295378dcd7ec940f59c9b2962a",momo Channel 1 (HD)
+http://64.176.44.128:9202/stream/channelid/701679068?profile=pass
+
+#EXTINF:-1 tvg-id="0a1764dd5a164ff92a5617e338527798",momo General Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1566840586?profile=pass
+
+#EXTINF:-1 tvg-id="2ce85db2042d19b90020a7880d1c443a",MTV(HD)
+http://64.176.44.128:9202/stream/channelid/845015084?profile=pass
+
+#EXTINF:-1 tvg-id="00120ff2f78bba99adac875cc8c68d59",NHK(HD)
+http://64.176.44.128:9202/stream/channelid/1913590272?profile=pass
+
+#EXTINF:-1 tvg-id="65e728f442ec2423950c9870ba6c3230",ROCK Action Movie Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1948837733?profile=pass
+
+#EXTINF:-1 tvg-id="15b6ff3a74ec4c83a9a122a5681934c0",TVBS (HD)
+http://64.176.44.128:9202/stream/channelid/989836821?profile=pass
+
+#EXTINF:-1 tvg-id="fd05bde67237a7400ee53840be3a5a66",TVBS News Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1723663869?profile=pass
+
+#EXTINF:-1 tvg-id="d4ad08737e53c94b61fdf4c583ce73f4", TVBS Entertainment Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1929948628?profile=pass
+
+#EXTINF:-1 tvg-id="ae02c796acbd0f9768c23557fd21b8ab", Channel Z (HD)
+http://64.176.44.128:9202/stream/channelid/382141102?profile=pass
+
+#EXTINF:-1 tvg-id="28295e0289ddc9342180d7cd505c8f7b", Human TV (HD)
+http://64.176.44.128:9202/stream/channelid/39725352?profile=pass
+
+#EXTINF:-1 tvg-id="0b0a98d482317ae149ea7a78e594c3d2", DaLi TV (HD)
+http://64.176.44.128:9202/stream/channelid/1419250187?profile=pass
+
+#EXTINF:-1 tvg-id="4f861bf12d943c347eaf25ff6c9bf88c", Da Ai (HD)
+http://64.176.44.128:9202/stream/channelid/1897629263?profile=pass
+
+#EXTINF:-1 tvg-id="eff3875f51d518bf6ff2175b928182cc", Da Ai Channel 2 (HD)
+http://64.176.44.128:9202/stream/channelid/1602745327?profile=pass
+
+#EXTINF:-1 tvg-id="b267960b6e4f97fb731c37f6a94ca0f2", GTV Channel 1 (HD)
+http://64.176.44.128:9202/stream/channelid/194406322?profile=pass
+
+#EXTINF:-1 tvg-id="270139132d444d7310201303ad3d2765", GTV Variety Channel (HD)
+http://64.176.44.128:9202/stream/channelid/322502951?profile=pass
+
+#EXTINF:-1 tvg-id="89ff66d7ddd96110676a15349735ae9e", Ten Directions (HD)
+http://64.176.44.128:9202/stream/channelid/1466367881?profile=pass
+
+#EXTINF:-1 tvg-id="5af3254a9718821f345ef407b484c3b0", Sanlih Taiwan (HD)
+http://64.176.44.128:9202/stream/channelid/1244001114?profile=pass
+
+#EXTINF:-1 tvg-id="14e916550c18c11961815b1e2a3ef5a8", Sanlih E-Television (HD)
+http://64.176.44.128:9202/stream/channelid/1427564820?profile=pass
+
+#EXTINF:-1 tvg-id="6ab6e7eed1f3b4263c223dda81423991", Sanlih E-Television News (HD)
+http://64.176.44.128:9202/stream/channelid/1860679274?profile=pass
+
+#EXTINF:-1 tvg-id="2a80e4d4faab83a1d4e6df44213197f5", Public Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1424261162?profile=pass
+
+#EXTINF:-1 tvg-id="42042986e08063a158dcb36e478b91cb", Public Television Service (HD)
+http://64.176.44.128:9202/stream/channelid/103351362?profile=pass
+
+#EXTINF:-1 tvg-id="fa5cda7ba1e1a131061275d985bc571f", Tianmeili TV (HD)
+http://64.176.44.128:9202/stream/channelid/2077908218?profile=pass
+
+#EXTINF:-1 tvg-id="de744ad646da8fd4c282e36ac38f8633",Taiwan Television (HD)
+http://64.176.44.128:9202/stream/channelid/1447720158?profile=pass
+
+#EXTINF:-1 tvg-id="144be494fa556d51949f79eae26d4aec",Taiwan Sweet Potato Television (HD)
+http://64.176.44.128:9202/stream/channelid/350505748?profile=pass
+
+#EXTINF:-1 tvg-id="5d2c4f0ecb55df88f9e1d319d38a2a8d", Taiwan Variety Channel (HD)
+http://64.176.44.128:9202/stream/channelid/240069725?profile=pass
+
+#EXTINF:-1 tvg-id="ee8955f22c20e9d87415a441c42e8bfe", Formosa Television (HD)
+http://64.176.44.128:9202/stream/channelid/1918208494?profile=pass
+
+#EXTINF:-1 tvg-id="075296b41aceaf4d1ccd8d2ca8540b6b", FTV News Channel (HD)
+http://64.176.44.128:9202/stream/channelid/882266631?profile=pass
+
+#EXTINF:-1 tvg-id="0ab19ecd71c77941e817a4736cdfc927", ERA News Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1302245642?profile=pass
+
+#EXTINF:-1 tvg-id="7ba759f805d465d127d42b5fd422d1e9", Buddha's Compassion Channel (HD)
+http://64.176.44.128:9202/stream/channelid/2019141499?profile=pass
+
+#EXTINF:-1 tvg-id="11aa5d473f4d269e5e1daffcf7c55b0f", Asia Travel Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1197320721?profile=pass
+
+#EXTINF:-1 tvg-id="68fb43c3963a3a04b3431e60db1d06f7", EBC Foreign Film Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1128528744?profile=pass
+
+#EXTINF:-1 tvg-id="f0cfdf731d30dbf7afd227121f2df6c3", EBC Financial News Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1944047600?profile=pass
+
+#EXTINF:-1 tvg-id="72091824c3a37ae852b05052033be3ef", ETTV News (HD)
+http://64.176.44.128:9202/stream/channelid/605555058?profile=pass
+
+#EXTINF:-1 tvg-id="9a3492d9b5d0bc8c84ab078f079ceab0", ETTV Variety (HD)
+http://64.176.44.128:9202/stream/channelid/1502753946?profile=pass
+
+#EXTINF:-1 tvg-id="79306a3bd0e96366f618db7955f158d8", ETMall Channel 1 (HD)
+http://64.176.44.128:9202/stream/channelid/996814969?profile=pass
+
+#EXTINF:-1 tvg-id="ceeb201cb0b52d4df07e9215f5400c73", ETMall Channel 3 (HD)
+http://64.176.44.128:9202/stream/channelid/471919566?profile=pass
+
+#EXTINF:-1 tvg-id="ae2091a448c9a543eb82c6438cb5879a", Champion TV (HD)
+http://64.176.44.128:9202/stream/channelid/613490862?profile=pass
+
+#EXTINF:-1 tvg-id="92dc90b2d98adb3a4d47f4d06eaa786f", Commercial Channel (HD)
+http://64.176.44.128:9202/stream/channelid/848354450?profile=pass
+
+#EXTINF:-1 tvg-id="2bc91240462ad4f34eadc27cf847ca8d", Weida Chaoshun Life Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1074972971?profile=pass
+
+#EXTINF:-1 tvg-id="8a8206f1fc5fb67446815bd6bb59b040", Hongdou Channel 2 (HD)
+http://64.176.44.128:9202/stream/channelid/1896252042?profile=pass
+
+#EXTINF:-1 tvg-id="fe4283a93a01e2eab61623ad051713f8", Dolphin Variety Channel (HD)
+http://64.176.44.128:9202/stream/channelid/696468222?profile=pass
+
+#EXTINF:-1 tvg-id="102e05d9a5f5c91f80087fb300a3e70c", High Point Entertainment Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1493511696?profile=pass
+
+#EXTINF:-1 tvg-id="5b0316bd0ccc825636a896051bf71123", High Point TV (HD)
+http://64.176.44.128:9202/stream/channelid/1024852827?profile=pass
+
+#EXTINF:-1 tvg-id="d112c19f49abb4db7257c1f48ade779f", Guoxing Satellite TV (HD)
+http://64.176.44.128:9202/stream/channelid/532746961?profile=pass
+
+#EXTINF:-1 tvg-id="c622784a35af558251453069dc1ee0ef", Next TV News Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1249387206?profile=pass
+
+#EXTINF:-1 tvg-id="0b3ec382f6395f20357d9531af559018", Fuli TV (HD)
+http://64.176.44.128:9202/stream/channelid/46349835?profile=pass
+
+#EXTINF:-1 tvg-id="ca819bc7713bae09c7916509b975df2f", CTS Education, Sports & Culture Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1201373642?profile=pass
+
+#EXTINF:-1 tvg-id="f934faa30e8e23bb6bc3d0e74af51d86", Huazang Channel (HD)
+http://64.176.44.128:9202/stream/channelid/603600121?profile=pass
+
+#EXTINF:-1 tvg-id="dd4c8c1901583794535c9fbde2d58e43", Huayi Chinese Channel (HD)
+http://64.176.44.128:9202/stream/channelid/428625117?profile=pass
+
+#EXTINF:-1 tvg-id="f6a34e91fb82208d3a10f9197cffab84", Xintiandi Folk Channel (HD)
+http://64.176.44.128:9202/stream/channelid/290366454?profile=pass
+
+#EXTINF:-1 tvg-id="0f171c6e25492ec2dc9e53d0851463e8", New Kaohsiung Television (HD)
+http://64.176.44.128:9202/stream/channelid/1847334671?profile=pass
+
+#EXTINF:-1 tvg-id="2fe09850f94958807a954e8f37fbdc0d", Sincere Television (HD)
+http://64.176.44.128:9202/stream/channelid/1352196143?profile=pass
+
+#EXTINF:-1 tvg-id="ce73a6d76a948f9e1cd88445ec749485", Preparatory Channel
+http://64.176.44.128:9202/stream/channelid/1470526414?profile=pass
+
+#EXTINF:-1 tvg-id="c96a01407a0007298bbf117568ecb4c7", LeTV (HD)
+http://64.176.44.128:9202/stream/channelid/1073834697?profile=pass
+
+#EXTINF:-1 tvg-id="f821c28a17599ac2d03064e23ad085a8", Videoland Japan Channel (HD)
+http://64.176.44.128:9202/stream/channelid/180494840?profile=pass
+
+#EXTINF:-1 tvg-id="f8cd4dfbdf44cb88eea2bab714c0ed77", Videoland Movie Channel (HD)
+http://64.176.44.128:9202/stream/channelid/2068696568?profile=pass
+
+#EXTINF:-1 tvg-id="5891d8abde1910b132e27c9c49515e50", Videoland Variety Channel (HD)
+http://64.176.44.128:9202/stream/channelid/735613272?profile=pass
+
+#EXTINF:-1 tvg-id="c55247056a08fc61c017810c2d14c2bb", Videoland Drama Channel (HD)
+http://64.176.44.128:9202/stream/channelid/88560325?profile=pass
+
+#EXTINF:-1 tvg-id="45723f6ad5c91dd4b4b63ce20928137c", Mirror TV News Channel (HD)
+http://64.176.44.128:9202/stream/channelid/1782542917?profile=pass
+
