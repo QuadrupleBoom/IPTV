@@ -569,12 +569,6 @@ http://144.31.3.2:7723/sky-family-movies/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 https://tvcdn.tv.telia.lt/live/eds/JimJam_H/DASH_5_CPIX_NPVR/JimJam_H.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mI2kKNL2oJrd9sdKxZd9EdW6Z5bjvkxy_yQ8AezLlVbw=s900-c-k-c0x00ffffff-no-rj" tvg-id="Cufo.al" group-title="Converge",Cufo
-https://idontwantmynametaken-snsjsiebslzneodnbw.hf.space/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F107456844452b0167fee15&api_password=vavoo
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n6B6NR38WaHyhZYDEV-n-wPCBIKZLyTxLQtPy8_AeUnA=s900-c-k-c0x00ffffff-no-rj" tvg-id="Bang.Bang.al" group-title="Converge",Bang Bang
-https://idontwantmynametaken-snsjsiebslzneodnbw.hf.space/proxy/hls/manifest.m3u8?d=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2690199992d32ba35b8457&api_password=vavoo
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
