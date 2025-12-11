@@ -660,6 +660,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
+#EXTINF:-1 tvg-id="Ch.U.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721818%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL U
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_chU
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDo4RQhQir0/maxresdefault.jpg" group-title="MeWatch",NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40557a1738018d4dd815e79f2cfc6b30:3967abe5845e8c4fffbd2f4cd4b77f0a
