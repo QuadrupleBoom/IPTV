@@ -15,11 +15,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_WARNER_2025_03_17_15_11_51.png" group-title="Cignal Play",Warner TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-1x1.jpg?width=320" group-title="Cignal Play",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -601,11 +596,6 @@ https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/amp
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_HOREEE!_2025_03_17_14_50_23.png" group-title="Converge",Horee!
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/88_FUNPLANET_2025_03_17_15_15_54.png" group-title="Converge",Fun Planet
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-
 #EXTINF:0 tvg-id="C405.249.ersatztv.org" channel-id="jkMJvppNjEC4t9QX0KMwiw" CUID="jkMJvppNjEC4t9QX0KMwiw" tvg-name="Dk!ds" tvg-logo="http://190.83.211.13:8409/iptv/logos/9CD5B55628620BDA7CE6FF1B3EFD9BBF.jpg" group-title="Converge" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dk!ds
 http://190.83.211.13:8409/iptv/channel/405.ts
 
@@ -621,15 +611,6 @@ https://live2.shoq.com.pk/live/eds/Kids_Zone_Plus/DASH/Kids_Zone_Plus.mpd
 #KODIPROP:inputstream.adaptive.license_key=55f8fb7e199225c06268117fe3ff232a:30f8dcb48a1b4a7b60ae04b88fe5397a
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://i.ytimg.com/vi/EHRsVajKW9w/maxresdefault.jpg" group-title="Converge", Planet Fun
 https://live2.shoq.com.pk/live/eds/Planet_Fun/DASH/Planet_Fun.mpd
-
-#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://play-lh.googleusercontent.com/IIkICwBXUPyKD4Vc3luOHE8rWDlaiNek6BT4nCsaPlg48hPITOSmQsuTk-Q6PnmBA4w" group-title="Converge", Clan TVE
-http://176.65.146.99:4306/
-
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://play-lh.googleusercontent.com/L40-RMXKkmWBn50tTcmED9m60K84i7i8IWHg2xrbdpw8zimmGmYTynvvXXveb3TKcx0" group-title="Converge", FunKids
-https://stream.rcs.revma.com/x8wbda03tm0uv
-
-#EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://cdn-profiles.tunein.com/s308401/images/logog.jpg" group-title="Converge", FunKids Junior
-https://listen-funkids.sharp-stream.com/funkidsjunior.aac
 
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
@@ -660,8 +641,60 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 
+#EXTINF:-1 tvg-id="Ch.8.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721229%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL 8
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_ch8
+
 #EXTINF:-1 tvg-id="Ch.U.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721818%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL U
 https://tzh911.qzz.io/play-smt.php?id=Mewatch_chU
+
+#EXTINF:-1 tvg-id="Vasantham.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639659%27&EntityType=%27Item%27&EntityId=%27229209%27&Width=1920&Height=1080" group-title="MeWatch",VASANTHAM
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_Vasantham
+
+#EXTINF:-1 tvg-id="Suria.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275639663%27&EntityType=%27Item%27&EntityId=%27229208%27&Width=1920&Height=1080" group-title="MeWatch",SURIA
+https://tzh911.qzz.io/play-smt.php?id=Mewatch_Suria
+
+#EXTINF:-1 tvg-id="CNA.(HD).sg" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD122-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=1080" group-title="MeWatch",CNA
+https://tzh911.qzz.io/play-smt.php?id=cna
+
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-logo="https://static.viu.tv/public/images/amsUpload/201701/1484127151250_ChannelLogo99.jpg" group-title="MeWatch",VIUTV
+https://tzh911.qzz.io/play-smt.php?id=viu1_twn
+
+#EXTINF:-1 tvg-id="ViuTVsix.hk" tvg-logo="https://i.ytimg.com/vi/N7_eYgceS_Q/maxresdefault.jpg" group-title="MeWatch",VIUTVSIX
+https://tzh911.qzz.io/play-smt.php?id=viusix_twn
+
+#EXTINF:-1 group-title="MeWatch" tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABA02-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=1080",WARNER TV
+https://tzh911.qzz.io/play-smt.php?id=WarnerTV
+
+#EXTINF:-1 group-title="MeWatch" tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6C78-C9E1-11EC-9D64-0242AC120002//0-16x9.jpg?width=1080",ROCK ENTERTAINMENT
+https://tzh911.qzz.io/play-smt.php?id=Rockentertain
+
+#EXTINF:-1 group-title="MeWatch" tvg-id="" tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/E55A6520-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1080",ROCK ACTION
+https://tzh911.qzz.io/play-smt.php?id=Rockaction
+
+#EXTINF:-1 group-title="MeWatch" tvg-id="HBO.hk" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B741DD7A-A7F8-4F8A-A549-9EF411020F9D/0-16x9.jpg?width=1080",HBO
+https://tzh911.qzz.io/play-smt.php?id=Hbo
+
+#EXTINF:-1 group-title="MeWatch" tvg-id="HBO.Hits.hk" tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=1080",HBO HITS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eWE5ugWiq0Jfl4x/2YtDcg", "kid":"XWAOtwlE1oHCbB9I++YfEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+
+#EXTINF:-1 group-title="MeWatch" tvg-id="HBO.Signature.hk" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=1080",HBO SIGNATURE
+https://tzh911.qzz.io/play-smt.php?id=Hbosignature
+  
+#EXTINF:-1 group-title="MeWatch" tvg-id="HBO.Family.hk" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_632_webp/20026e42687523.560729102386a.jpg",HBO FAMILY
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fjdYjok6uSUuUFvW3aNb6w", "kid":"K5/3zBo9yf70fMV3NHLVEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
+
+#EXTINF:-1 group-title="MeWatch" tvg-id="CINEMAX.hk" tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=1080",CINEMAX
+https://tzh911.qzz.io/play-smt.php?id=Cinemax
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDo4RQhQir0/maxresdefault.jpg" group-title="MeWatch",NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -701,6 +734,23 @@ http://103.140.254.2:3500/live/1079.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3a856d452dd69992b36df3b383a3e87b:178bafe3ab33052c81276e71d3496715
 https://tvcdn.tv.telia.lt/live/eds/Boomerang_H/DASH_5_CPIX_NPVR/Boomerang_H.mpd
 
+#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/symphony924.png" group-title="MeWatch" radio="true",Symphony 92.4
+https://22393.live.streamtheworld.com/SYMPHONY924_PREM.aac
+
+#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/warna942.png" group-title="MeWatch" radio="true",Warna 94.2
+https://28453.live.streamtheworld.com/WARNA942FM_PREM.aac
+
+#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/yes933.png" group-title="MeWatch" radio="true",Yes 93.3
+https://28453.live.streamtheworld.com/YES933_PREM.aac
+
+#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/class95.png" group-title="MeWatch" radio="true",Class 95
+https://28333.live.streamtheworld.com/CLASS95_PREM.aac
+
+#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/oli968.png" group-title="MeWatch" radio="true",Oli 96.8
+https://22903.live.streamtheworld.com/OLI968FM_PREM.aac
+
+#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/9cb4a280ccc5fe14/melody%20felony.png" group-title="MeWatch" radio="true",Melody 106.5
+https://n07a-eu.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjFwRjLEAEt28uBBwa5thng
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c75465966be494a8b685a3bc1fea5b5:81c825e32de24449c770d1a120606939
