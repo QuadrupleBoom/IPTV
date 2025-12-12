@@ -716,6 +716,9 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.
 #KODIPROP:inputstream.adaptive.license_key=3a856d452dd69992b36df3b383a3e87b:178bafe3ab33052c81276e71d3496715
 https://tvcdn.tv.telia.lt/live/eds/Boomerang_H/DASH_5_CPIX_NPVR/Boomerang_H.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aCdEKBabRJc/maxresdefault.jpg" group-title="MeWatch",AFN FAMILY
+http://lunar.pm:8080/live/2059077719/18iBHPlGyC/118462.ts
+
 #EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/symphony924.png" group-title="Radio" radio="true",MeWatch - Symphony 92.4
 https://22393.live.streamtheworld.com/SYMPHONY924_PREM.aac
 
