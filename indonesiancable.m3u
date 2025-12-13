@@ -474,6 +474,28 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="Converge", Antenna TV
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x_aROAMrQDI/maxresdefault.jpg" group-title="Converge",HBO Pop
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Converge",HBO Xtreme
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" group-title="Converge",HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Disney Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -589,10 +611,7 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
-https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
-
-#EXTINF:0 tvg-id="C405.249.ersatztv.org" channel-id="jkMJvppNjEC4t9QX0KMwiw" CUID="jkMJvppNjEC4t9QX0KMwiw" tvg-name="Dk!ds" tvg-logo="http://190.83.211.13:8409/iptv/logos/9CD5B55628620BDA7CE6FF1B3EFD9BBF.jpg" group-title="Converge" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dk!ds
-http://190.83.211.13:8409/iptv/channel/405.ts
+https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mp
 
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nikky-uk.png" group-title="Converge",Nikky
 https://edge2-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/manifest.m3u8
@@ -614,22 +633,25 @@ https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-a
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/VMx7Xxl.png" channel-number="Converge" group-title="Converge",NFL
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnfCl_2Qso0Q5fEsllrZMAwfqYQvXeThsk_A&s" channel-number="Converge" group-title="Converge",Rai Italia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
-    
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/CJYMh2F.png" group-title="Converge",NFL Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"002007110c69a23803173b50eab05f23":"590d6e8f4ca81319f9bb29104f571990"}
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=65b6395665d92c16e12f202c9480c425:eda358f71a474029f1580327ae6766e1
+https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/RAI-HD/default.mpd
 
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/dAPtBTh.png" group-title="Converge",Premier League
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://play-lh.googleusercontent.com/9gP_wA6FShW1MKID3VAMNMc_pi6I--ll_nFx3iNyyT55zIPszp4cMqlRW0NBgY7idEZag5FBbA4PR2P-tdq5bwk" channel-number="Converge" group-title="Converge",TV5Monde
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd  
+#KODIPROP:inputstream.adaptive.license_key=fb80d09d70628c20bb91cf65a195e1f9:6115b75f155d1a7a686a525fbd6ca2f6
+https://hfc-tlx-live-atv-cdn.izzigo.tv/3/out/u/dash/TV5-SD/default.mpd
+
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" channel-number="Converge" group-title="Converge",TVE Internacional
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9c6bff9b7141a1e289061a8334c34cb:c644f57b253c9a81d723fe252c53079a
+https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/TVE-SD/default.mpd
 
 #EXTINF:-1 tvg-id="Ch.5.(HD).sg" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275721245%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=1920&Height=1080" group-title="MeWatch",CHANNEL 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -684,6 +706,12 @@ https://tzh911.qzz.io/play-smt.php?id=Hbofamily
 #EXTINF:-1 group-title="MeWatch" tvg-id="CINEMAX.hk" tvg-logo="https://image-resizer-cloud.api.pldt.firstlight.ai/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=1080",CINEMAX
 https://tzh911.qzz.io/play-smt.php?id=Cinemax
 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XeW4sARDQk8lZzEyRf_DAGn0QfM0O_NmX5aznwryYXqV_VGqerPFQE99-yH-PxlprXc=w240-h480-rw" group-title="MeWatch",DOG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d2063b495202a5a78a2b7df6ba1d6d1:9b0e8c590f387c6b45ffef5827d9d90b
+https://hfc-tlx-live-atv-cdn.izzigo.tv/4/out/u/dash/DOGTV-SD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDo4RQhQir0/maxresdefault.jpg" group-title="MeWatch",NICKELODEON
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40557a1738018d4dd815e79f2cfc6b30:3967abe5845e8c4fffbd2f4cd4b77f0a
@@ -704,13 +732,20 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Channel_H/DASH_5_CPIX_NPVR/Disney_Chan
 #KODIPROP:inputstream.adaptive.license_key=1ecc83e1cbb1f4c1bd3343845f55b361:560a022b2d0e0909420fd363101b2e3b
 https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junior_H.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="MeWatch",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AiEAHRPeSbE/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBhWw8GWFEk4JErMnMn-RQwLFG4vA" channel-number="Converge" group-title="MeWatch",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
 https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Mle8CiTSmWUF4AiXNeu2yChK8OMUIlck93I8YDfzi2YI_bjovWhWy0ahzZxhjpHwUqsPv6aS1g=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="MeWatch",CARTOONITO
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TzaRMFLU53I/maxresdefault.jpg" channel-number="Converge" group-title="MeWatch",TOONCAST
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
+https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/TOONCAST-SD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QCU94sV0bdg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCfTVj6UjTPz2abLqUq7T9kDvDsmQ" channel-number="Converge" group-title="MeWatch",CARTOONITO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a856d452dd69992b36df3b383a3e87b:178bafe3ab33052c81276e71d3496715
