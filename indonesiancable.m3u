@@ -578,6 +578,12 @@ https://tvcdn.tv.telia.lt/live/eds/JimJam_H/DASH_5_CPIX_NPVR/JimJam_H.mpd
 #KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network SD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98cb877e5398843d8a10cf31a0fbbf88:255c9b5d26cb32c9f548e8d08120507f
+https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD_H/DASH_5_CPIX_NPVR/Cartoon_Network_HD_H.mpd
+
 
 #EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/751/dde/751dde48f32a429d9cbdbc49ad34a81512f456dad61af76b27ba9b42022ee65c:200" channel-number="Converge" group-title="Converge",Boing
 http://185.157.184.12:6001/play/BoingHD
@@ -733,7 +739,7 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Junior_H/DASH_5_CPIX_NPVR/Disney_Junio
 #KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
 https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AiEAHRPeSbE/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBhWw8GWFEk4JErMnMn-RQwLFG4vA" channel-number="Converge" group-title="MeWatch",CARTOON NETWORK SD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AiEAHRPeSbE/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLBhWw8GWFEk4JErMnMn-RQwLFG4vA" channel-number="Converge" group-title="MeWatch",CARTOONNETWORK SD
 http://45.5.151.62:8000/play/a07j/index.m3u8
 
 
