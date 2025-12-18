@@ -456,9 +456,6 @@ https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TK3CVGuETgX5VbsVxyaPcMgWE23CoVG8zXSsydYuWBW-5AJC4sP_XrZw-GJyA2kE8ao=w240-h480-rw" group-title="Converge",Real Blast
 https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesun.co.uk/wp-content/uploads/2025/08/christmas-tv-channel-great-christmas-1018586907.jpg?strip=all&w=512" group-title="Converge",GREAT! Christmas +1
-http://176.65.146.99:3592/
-
 #EXTINF:-1 tvg-logo="https://granny.anondrop.net/uploads/24ef252339c1dee8/bollyhoo.png" group-title="Converge",Zee Sine
 https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
 
@@ -502,12 +499,6 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
-https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/T79oqXz-gIJpizU-mV151I1OEEQbap0dX27kciU5LWHNSYqL3jQBe3BGm-EES3rqoZrwFQsULQ=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
