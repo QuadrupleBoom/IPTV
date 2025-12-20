@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://raw.githubusercontent.com/dbghelp/Test-EPG/refs/heads/main/test_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz, https://www.open-epg.com/files/russia3.xml, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, https://iptv-epg.org/files/epg-cz.xml, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://www.open-epg.com/files/hungary1.xml, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://www.open-epg.com/files/romania1.xml, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://iptv-epg.org/files/epg-lv.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://i.mjh.nz/SamsungTVPlus/us.xml, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml, https://iptv-epg.org/files/epg-th.xml, https://raw.githubusercontent.com/dbghelp/Test-EPG/refs/heads/main/test_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz, https://www.open-epg.com/files/russia3.xml, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, https://iptv-epg.org/files/epg-cz.xml, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://www.open-epg.com/files/hungary1.xml, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://www.open-epg.com/files/romania1.xml, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://iptv-epg.org/files/epg-lv.xml, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://i.mjh.nz/SamsungTVPlus/us.xml, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://raw.githubusercontent.com/atone77721/AMZN_EPG/refs/heads/main/data/amazon.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/merged_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://azimabid00.github.io/epg/astro_epg.xml, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600"
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Cignal_Logo_2018.svg/645px-Cignal_Logo_2018.svg.png",Cignal Play
 
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-1x1.jpg?width=320" group-title="Cignal Play",Bilyonaryo News Channel
@@ -799,6 +799,30 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=3d2063b495202a5a78a2b7df6ba1d6d1:9b0e8c590f387c6b45ffef5827d9d90b
 https://hfc-tlx-live-atv-cdn.izzigo.tv/4/out/u/dash/DOGTV-SD/default.mpd
 
+#EXTINF:-1  tvg-id="558278" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089891'&EntityType='Item'&EntityId='558278'&Width=62&Height=59" group-title="MeWatch", MasterChef
+https://tglmp03.akamaized.net/out/v1/204d9435c7b148d8bdbcf3b0a3e7b7a8/manifest.mpd
+
+#EXTINF:-1  tvg-id="558258" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089337'&EntityType='Item'&EntityId='558258'&Width=150&Height=59" group-title="MeWatch", Fear Factor
+https://tglmp04.akamaized.net/out/v1/46884a2a10784e839660629b3a68d253/manifest.mpd
+
+#EXTINF:-1  tvg-id="558273" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089305'&EntityType='Item'&EntityId='558273'&Width=150&Height=59" group-title="MeWatch", FoodON
+https://tglmp01.akamaized.net/out/v1/a5c81d54b1824279897c63bbc4733706/manifest.mpd
+
+#EXTINF:-1  tvg-id="570813" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089317'&EntityType='Item'&EntityId='570813'&Width=127&Height=59" group-title="MeWatch", Deal or No Deal
+https://tglmp01.akamaized.net/out/v1/b2c61e3049cc4cf882e94bdfc151339c/manifest.mpd
+
+#EXTINF:-1  tvg-id="558241" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089297'&EntityType='Item'&EntityId='558241'&Width=150&Height=59" group-title="MeWatch", River Monsters
+https://tglmp02.akamaized.net/out/v1/1fd4678ba5284f628d5af2458e72d50e/manifest.mpd
+
+#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187" group-title="MeWatch" group-title="MeWatch", NOW 80s
+https://tglmp02.akamaized.net/out/v1/4148d890e367435480ca18465a014dd8/manifest.mpd
+
+#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187" group-title="MeWatch", NOW 70s
+https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.mpd
+
+#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187" group-title="MeWatch", NOW Rock
+https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/1f761bb0-d79f-11ee-94d3-bbf77f98d369_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", ABC Australia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -868,69 +892,6 @@ http://5.223.45.65:9090/manifest/lQm56Ow0wjl.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=2Yyb9xXEgeOJ
 http://5.223.45.65:9090/manifest/2Yyb9xXEgeOJ.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS 1 (617)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=g9ONWXWJV5pq
-http://5.223.45.65:9090/manifest/g9ONWXWJV5pq.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=3xyaeKOdaZEx
-http://5.223.45.65:9090/manifest/3xyaeKOdaZEx.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=5XaDjQd1JJgw
-http://5.223.45.65:9090/manifest/5XaDjQd1JJgw.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=3wLvyKyryPAD
-http://5.223.45.65:9090/manifest/3wLvyKyryPAD.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=eyEPa8A2WaJN
-http://5.223.45.65:9090/manifest/eyEPa8A2WaJN.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=pQNm6nA20a6e
-http://5.223.45.65:9090/manifest/pQNm6nA20a6e.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=3JYow6Dx7zx0
-http://5.223.45.65:9090/manifest/3JYow6Dx7zx0.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=MG60o1KjmzNP
-http://5.223.45.65:9090/manifest/MG60o1KjmzNP.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=7OBlr4RJZDR5
-http://5.223.45.65:9090/manifest/7OBlr4RJZDR5.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", beIN SPORTS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1015,41 +976,6 @@ http://5.223.45.65:9090/manifest/3ELoobaOBdd9.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=RVrAxAOGx21v
 http://5.223.45.65:9090/manifest/RVrAxAOGx21v.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Event
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=RjY3XkeL5Mwl
-http://5.223.45.65:9090/manifest/RjY3XkeL5Mwl.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Event
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=YZzDXGM1Yd68
-http://5.223.45.65:9090/manifest/YZzDXGM1Yd68.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Event
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=xAzllg2VXjRm
-http://5.223.45.65:9090/manifest/xAzllg2VXjRm.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Event
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=WGVqq6zeAzaZ
-http://5.223.45.65:9090/manifest/WGVqq6zeAzaZ.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/28/3965c0a0-3794-11ec-8e1f-6bce3683de8c_webp_original.png" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Event
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=LVQzz7xplYpP
-http://5.223.45.65:9090/manifest/LVQzz7xplYpP.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/a915a6a2-2e64-49e4-8049-6741274ce00e.png" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Fashion TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1471,41 +1397,6 @@ http://5.223.45.65:9090/manifest/jqepWV3ka8j.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=wkOEnAR062w
 http://5.223.45.65:9090/manifest/wkOEnAR062w.mpd
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/10/10/b59abe50-86d8-11ef-a8fa-3d25198262de_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Volleyball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=GDwwA11rPBgD
-http://5.223.45.65:9090/manifest/GDwwA11rPBgD.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/10/10/b5b01b10-86d8-11ef-993d-6b8a9472b5b2_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Volleyball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=4QGmlkkeqBd1
-http://5.223.45.65:9090/manifest/4QGmlkkeqBd1.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/10/10/b5e18b50-86d8-11ef-8739-a33b70978510_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Volleyball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=r9ombkk8M7n4
-http://5.223.45.65:9090/manifest/r9ombkk8M7n4.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/10/10/b5eeaab0-86d8-11ef-9892-471c4f5cf703_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Volleyball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=2APVEbbo4zmX
-http://5.223.45.65:9090/manifest/2APVEbbo4zmX.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/10/10/b621efb0-86d8-11ef-9d06-e392d4e83a1d_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Volleyball
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=qkrdgooa4no8
-http://5.223.45.65:9090/manifest/qkrdgooa4no8.mpd
-
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/20655db0-d79f-11ee-a1d7-1d3bb4bf9c13_webp_original.webp" group-title="TRUID" group-logo="https://i.imgur.com/dziZRwA.png", Warner TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1561,30 +1452,6 @@ http://5.223.45.65:9090/manifest/OzKE5d4pdNwy.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://5.223.45.65:9090/license?id=RN8ALdyRovrj
 http://5.223.45.65:9090/manifest/RN8ALdyRovrj.mpd
-
-#EXTINF:-1  tvg-id="558278" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089891'&EntityType='Item'&EntityId='558278'&Width=62&Height=59" group-title="MeWatch", MasterChef
-https://tglmp03.akamaized.net/out/v1/204d9435c7b148d8bdbcf3b0a3e7b7a8/manifest.mpd
-
-#EXTINF:-1  tvg-id="558258" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089337'&EntityType='Item'&EntityId='558258'&Width=150&Height=59" group-title="MeWatch", Fear Factor
-https://tglmp04.akamaized.net/out/v1/46884a2a10784e839660629b3a68d253/manifest.mpd
-
-#EXTINF:-1  tvg-id="558273" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089305'&EntityType='Item'&EntityId='558273'&Width=150&Height=59" group-title="MeWatch", FoodON
-https://tglmp01.akamaized.net/out/v1/a5c81d54b1824279897c63bbc4733706/manifest.mpd
-
-#EXTINF:-1  tvg-id="570813" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089317'&EntityType='Item'&EntityId='570813'&Width=127&Height=59" group-title="MeWatch", Deal or No Deal
-https://tglmp01.akamaized.net/out/v1/b2c61e3049cc4cf882e94bdfc151339c/manifest.mpd
-
-#EXTINF:-1  tvg-id="558241" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089297'&EntityType='Item'&EntityId='558241'&Width=150&Height=59" group-title="MeWatch", River Monsters
-https://tglmp02.akamaized.net/out/v1/1fd4678ba5284f628d5af2458e72d50e/manifest.mpd
-
-#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187" group-title="MeWatch" group-title="MeWatch", NOW 80s
-https://tglmp02.akamaized.net/out/v1/4148d890e367435480ca18465a014dd8/manifest.mpd
-
-#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187" group-title="MeWatch", NOW 70s
-https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.mpd
-
-#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187" group-title="MeWatch", NOW Rock
-https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/symphony924.png" group-title="Radio" radio="true",MeWatch - Symphony 92.4
 https://22393.live.streamtheworld.com/SYMPHONY924_PREM.aac
