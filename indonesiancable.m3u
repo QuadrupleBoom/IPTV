@@ -594,9 +594,6 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nikky-uk.png" group-title="Converge",Nikky
 https://edge2-moblive.yuppcdn.net/drm/smil:planetfundrm.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55b0471de4b01f9ba07d2561/1535645622740-40FBE8KV62Z5BUJ75BXQ/006.jpg" group-title="Converge",Gloobinho
-http://45.235.0.78/Gloobinho/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec087eb4cd899e1a068083608f0aa3f6:f36cd5dddd56ca76246a62b7b02148c9
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://yt3.googleusercontent.com/8OIbcX3lD89pQJzRMVLG7MIb_-_ieZfC4WyHXDaAJHL4YhPl6xkpIHtIMGrY3u8ZsZ1hJuEu4w=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Kids Zone Plus
