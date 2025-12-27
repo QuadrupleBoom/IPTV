@@ -714,9 +714,6 @@ http://tv-nova.com:80/play/live.php?mac=00:1A:79:bd:4d:a7&stream=1014236&extensi
 #EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-jr-rs.png" group-title="MeWatch",Nick Jr. UK
 http://tv-nova.com:80/play/live.php?mac=00:1A:79:bd:4d:a7&stream=45260&extension=ts
 
-#EXTINF:-1 tvg-id="Nick.Jr..Too.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/nick-jr-too-uk.png" group-title="MeWatch",Nick Jr. Too
-http://161.123.116.21:8080/live/Collins/Collins1234/95636.ts
-
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",Nick Toons UK
 http://161.123.116.21:8080/live/Collins/Collins1234/95633.ts
 
