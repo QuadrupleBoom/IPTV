@@ -564,12 +564,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Dreamworks)
 #KODIPROP:inputstream.adaptive.license_key=d3b2f20862fa7f361fc703d8b9bcd340:f849ca1496a4c3eca2394628c08493d1
 https://tvcdn.tv.telia.lt/live/eds/JimJam_H/DASH_5_CPIX_NPVR/JimJam_H.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1UcomC4GQyZZNRm4Flmaci4VFHkOjPR4wArXPwfPhuA&s" tvg-id="Bang.Bang.al" group-title="Converge",Bang Bang
-http://185.207.34.104:8000/play/a002/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjjIJrv1OJA8tWfY5Tw7K3Z0CuWK2lCjehw&s" tvg-id="Cufo.al" group-title="Converge",Cufo
-http://185.207.34.104:8000/play/a014/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -800,36 +794,6 @@ https://tglmp03.akamaized.net/out/v1/87d046be806149d29fafbca93f50858d/manifest.m
 
 #EXTINF:-1  tvg-id="556894" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268156'&EntityType='Item'&EntityId='556894'&Width=304&Height=250" group-title="MeWatch", Action Hollywood Movies
 https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9d160573fb7944608da8ebd020de4474/manifest.mpd
-
-#EXTINF:-1 group-title="MeWatch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-hk.png",HBO
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
-
-#EXTINF:-1 group-title="MeWatch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-hits-hk.png",HBO Hits
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-
-#EXTINF:-1 group-title="MeWatch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-family-hk.png",HBO Family
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-
-#EXTINF:-1 group-title="MeWatch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-signature-hk.png",HBO Signature
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-
-#EXTINF:0 group-title="MeWatch" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/cinemax-hk.png",Cinemax
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/dog-tv-us.png" group-title="MeWatch",Dog TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
