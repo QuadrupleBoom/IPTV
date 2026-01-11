@@ -568,10 +568,6 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)
 #KODIPROP:inputstream.adaptive.license_key=98cb877e5398843d8a10cf31a0fbbf88:255c9b5d26cb32c9f548e8d08120507f
 https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD_H/DASH_5_CPIX_NPVR/Cartoon_Network_HD_H.mpd
 
-
-#EXTINF:-1 tvg-logo="https://img.utdstc.com/icon/751/dde/751dde48f32a429d9cbdbc49ad34a81512f456dad61af76b27ba9b42022ee65c:200" channel-number="Converge" group-title="Converge",Boing
-http://185.157.184.12:6001/play/BoingHD
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nAXR6w904w0oUegdpoT0BrPPNBvHYAXusDHg-vVKRi9KU=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",YTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -590,15 +586,6 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key=55f8fb7e199225c06268117fe3ff232a:30f8dcb48a1b4a7b60ae04b88fe5397a
 #EXTINF:-1 tvg-id="Kids.Dummy.us" tvg-logo="https://i.ytimg.com/vi/EHRsVajKW9w/maxresdefault.jpg" group-title="Converge", Planet Fun
 https://live2.shoq.com.pk/live/eds/Planet_Fun/DASH/Planet_Fun.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/41eLfUDd6cL.png" group-title="Converge", Clan
-http://185.157.184.12:6001/play/clanHD
-
-#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/d2cb4a015788e29c/3.png" group-title="Converge", ETB3
-http://185.157.184.12:6001/play/etb3HD
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OoQZ-zwljPrN_6UNzLGRNbwJgYcrx6Q8D3fosNaahZTer32U2-M90qLgk4kEjcxhVVSQqgMW7Xo=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", SX3
-http://185.157.184.12:6001/play/Super333
 
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
