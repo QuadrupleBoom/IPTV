@@ -376,9 +376,6 @@ https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/2nlenvmjz
 #EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="Converge", The Pet Collective
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRllFq-kQxD8srWSGtbYD_9HVSxCv-glAF51w&s" group-title="Converge", Wild Nature
-https://dg5rg8emlfy55.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WildNature2/55f42503-8c44-4d7b-955d-4ca709a71a47/0.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PpXnS_GVZeQbZgvdnj68a159gpQf6AIlocsZmJb2SDTMcUMZ_JzOI-R6PYtA7omcdtJIWOIqBg=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5720d56a19cf667667eb715967deb4f4:5819a139b33e44108816f547f8ca5094
@@ -764,9 +761,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/4/out/u/dash/DOGTV-SD/default.mpd
 
 #EXTINF:-1  tvg-id="558258" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089337'&EntityType='Item'&EntityId='558258'&Width=150&Height=59" group-title="MeWatch", Fear Factor
 https://tglmp04.akamaized.net/out/v1/46884a2a10784e839660629b3a68d253/manifest.mpd
-
-#EXTINF:-1  tvg-id="558273" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089305'&EntityType='Item'&EntityId='558273'&Width=150&Height=59" group-title="MeWatch", FoodON
-https://tglmp01.akamaized.net/out/v1/a5c81d54b1824279897c63bbc4733706/manifest.mpd
 
 #EXTINF:-1  tvg-id="570813" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089317'&EntityType='Item'&EntityId='570813'&Width=127&Height=59" group-title="MeWatch", Deal or No Deal
 https://tglmp01.akamaized.net/out/v1/b2c61e3049cc4cf882e94bdfc151339c/manifest.mpd
