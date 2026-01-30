@@ -653,15 +653,6 @@ https://dash2.antik.sk/stream/hisi_nickelodeon/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_nick_jr/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nickelodeon-rs.png" group-title="MeWatch",Nickelodeon UK
-http://161.123.116.21:8080/live/Collins/Collins1234/95634.ts
-
-#EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-jr-rs.png" group-title="MeWatch",Nick Jr. UK
-http://161.123.116.21:8080/live/Collins/Collins1234/95631.ts
-
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",Nick Toons UK
-http://161.123.116.21:8080/live/Collins/Collins1234/95633.ts
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/disney-channel-rs.png" group-title="MeWatch",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff8085fd9469913a6f11fb3a4dd3a1be:2496ee469b2d1a19c22271a7b89c29e0
