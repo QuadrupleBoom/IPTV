@@ -542,7 +542,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)
 #KODIPROP:inputstream.adaptive.license_key=98cb877e5398843d8a10cf31a0fbbf88:255c9b5d26cb32c9f548e8d08120507f
 https://tvcdn.tv.telia.lt/live/eds/Cartoon_Network_HD_H/DASH_5_CPIX_NPVR/Cartoon_Network_HD_H.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Boing
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GIP5G-qfjR6Wr_gDOW8xl3wBqVDj2-JrK3eNXgIsvMeKpFv8CZ7l-mPzfOIZ6X_YfRA=w240-h480-rw" channel-number="Converge" group-title="Converge",Boing
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d67836bb61bc468292412db53f3e193d:865826b7df4a6ce1493cde232531374e
