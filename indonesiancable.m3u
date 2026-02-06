@@ -697,6 +697,9 @@ https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd
 
+#EXTINF:-1 tvg-logo="https://albaniandubs.weebly.com/uploads/5/7/8/2/57825701/pikaboo-albanian-dubs-1_orig.png" group-title="MeWatch",Pikaboo
+http://185.193.240.245:556/
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/cartoon-network-rs.png" group-title="MeWatch",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
