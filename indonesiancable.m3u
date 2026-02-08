@@ -655,6 +655,13 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",NickToons SD
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://budapest-cache-1.antik.sk/stream/nicktoons_hun/playlist_cbcs.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/disney-channel-rs.png" group-title="MeWatch",Disney Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff8085fd9469913a6f11fb3a4dd3a1be:2496ee469b2d1a19c22271a7b89c29e0
@@ -704,6 +711,13 @@ https://tvcdn.tv.telia.lt/live/eds/Boomerang_H/DASH_5_CPIX_NPVR/Boomerang_H.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ct_detem/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hungary/m2-hu.png" group-title="MeWatch",M2
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://budapest-cache-1.antik.sk/stream/hisi_m2/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-yay-in.png" channel-number="Converge" group-title="MeWatch",Sony Yay !
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3003,34 +3017,6 @@ https://dtv.vingt.qzz.io/dtv/1001564/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=4439
 https://dtv.vingt.qzz.io/dtv/4439/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/6fe20dc1-9103-4569-a42c-d887dddf14a3" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Red Bull TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001731
-https://dtv.vingt.qzz.io/dtv/1001731/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/a5f102f9-b54d-4431-b702-053fd4c7616e" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",ReelzChannel HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3507
-https://dtv.vingt.qzz.io/dtv/3507/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/8fff1531-0549-4bf4-8bd0-8e52ce8545e3" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Revolt HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8446
-https://dtv.vingt.qzz.io/dtv/8446/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/33b33049-4d09-4ad9-8c25-b1862f8a7600" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",RFD HD TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=551
-https://dtv.vingt.qzz.io/dtv/551/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/48e1a675-8d4b-472e-bcde-159312ae7ce5" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Rig TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3038,40 +3024,12 @@ https://dtv.vingt.qzz.io/dtv/551/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001129
 https://dtv.vingt.qzz.io/dtv/1001129/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/822d6157-1ee8-4175-b749-270fdc0e4289" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",RVTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000988
-https://dtv.vingt.qzz.io/dtv/1000988/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d0e60163-66ce-449c-a34b-a0cd7c39be94" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Ryz Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001746
-https://dtv.vingt.qzz.io/dtv/1001746/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/ebb2a922-67e6-4067-ad83-bba5a293a77c" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Say Yes To The Dress
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001559
-https://dtv.vingt.qzz.io/dtv/1001559/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/96c2990a-a4f4-4009-8076-a62ee28ae061" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Science HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8232
 https://dtv.vingt.qzz.io/dtv/8232/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/336feaf4-0c3f-4b91-b903-81d2694ba296" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Scientology Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=323
-https://dtv.vingt.qzz.io/dtv/323/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/0efea3bb-d064-4de1-b4e0-9b374f028af5" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Scripps News
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3086,13 +3044,6 @@ https://dtv.vingt.qzz.io/dtv/1002778/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3669
 https://dtv.vingt.qzz.io/dtv/3669/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/2f0d7833-e695-43a7-8432-82812cdfc532" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Shop LC HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=226
-https://dtv.vingt.qzz.io/dtv/226/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/9cf938f5-e2c1-4909-9536-918305eb4f23" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",ShortsTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3150,20 +3101,6 @@ https://dtv.vingt.qzz.io/dtv/3781/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8391
 https://dtv.vingt.qzz.io/dtv/8391/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/1354ac42-cf21-4578-82df-9e35c0657718" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",SNL Vault
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001563
-https://dtv.vingt.qzz.io/dtv/1001563/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/63ba40e0-454c-4cbf-a485-cd7412cda1d5" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Somos Novelas
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000957
-https://dtv.vingt.qzz.io/dtv/1000957/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/3517dc60-418a-4d0a-8a0e-4be262dd27ee" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Sony Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3184,76 +3121,6 @@ https://dtv.vingt.qzz.io/dtv/1000445/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=5674
 https://dtv.vingt.qzz.io/dtv/5674/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/8c4620bb-bdd2-4917-b94a-b7e9484a8239" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Spectrum SportsNet HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1104
-https://dtv.vingt.qzz.io/dtv/1104/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/268359f2-6a3b-4625-979b-b099bdfcbba7" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Spectrum SportsNet LA HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=807
-https://dtv.vingt.qzz.io/dtv/807/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d1351812-e633-4da7-8fbf-972d52d869b5" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Speedvision
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001224
-https://dtv.vingt.qzz.io/dtv/1001224/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/245d033a-2b77-410b-9428-ad59e3f8b104" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Sports Illustrated
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001719
-https://dtv.vingt.qzz.io/dtv/1001719/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/28cb5863-af10-473d-9625-fb6fd2206fe6" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",SportsGrid
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1008913
-https://dtv.vingt.qzz.io/dtv/1008913/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/35c1ba7e-1007-4171-a7a1-a04912e8149f" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Sportsman Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2605
-https://dtv.vingt.qzz.io/dtv/2605/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/b5452e9c-1d13-42ed-9723-794d26e77530" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",SportsNet New York HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=5639
-https://dtv.vingt.qzz.io/dtv/5639/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/7ae9a96c-cda3-42da-9851-bfb916ae4c39" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",SportsNet Pittsburgh Alternate
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000622
-https://dtv.vingt.qzz.io/dtv/1000622/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/19bc7c01-8abf-402c-94f1-6fe02df48c36" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",SportsNet Pittsburgh HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=5659
-https://dtv.vingt.qzz.io/dtv/5659/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d21c2609-c765-4efd-a9d3-d739d4a42289" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Stadium Stream
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001124
-https://dtv.vingt.qzz.io/dtv/1001124/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d833c43a-5f3c-45a1-9c4d-2861c71da177" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Start TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3318,47 +3185,12 @@ https://dtv.vingt.qzz.io/dtv/527/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=529
 https://dtv.vingt.qzz.io/dtv/529/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/ce82713c-0896-4d7a-a0f2-771ade24ec10" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Stories by AMC
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001744
-https://dtv.vingt.qzz.io/dtv/1001744/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/f56626d5-7461-4408-91f6-8d235b884be6" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",SundanceTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2057
 https://dtv.vingt.qzz.io/dtv/2057/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/aac0e9ef-e46b-4207-943f-75519c3d64d9" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Supermarket Sweep
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001133
-https://dtv.vingt.qzz.io/dtv/1001133/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/01ea1d5d-dd94-4db1-9eef-4a1f5979251b" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Surf Cinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000991
-https://dtv.vingt.qzz.io/dtv/1000991/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/9007fc14-113d-4e1e-bf32-abc1a8777d1d" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Sweet Escapes
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001612
-https://dtv.vingt.qzz.io/dtv/1001612/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/f90768ab-a273-4808-9460-30818f1839f9" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Swerve Combat
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001123
-https://dtv.vingt.qzz.io/dtv/1001123/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/f859a25e-eb37-4fde-bc34-612d415b8bb2" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",SYFYHD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3373,20 +3205,6 @@ https://dtv.vingt.qzz.io/dtv/8268/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=484
 https://dtv.vingt.qzz.io/dtv/484/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/91732881-6d5e-48c9-bde5-6ae4496e2598" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Tastemade Home
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1006016
-https://dtv.vingt.qzz.io/dtv/1006016/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/08b29152-16a7-4cd4-bd22-f34eec8fea27" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Tastemade Travel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1006015
-https://dtv.vingt.qzz.io/dtv/1006015/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/86528a42-ae4e-405c-8fae-c567c1ed70df" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",TBS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3423,47 +3241,12 @@ https://dtv.vingt.qzz.io/dtv/3504/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=405
 https://dtv.vingt.qzz.io/dtv/405/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/2ad8b4d0-8c6f-4360-84e5-79f5f1874aee" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Tennis Channel 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001200
-https://dtv.vingt.qzz.io/dtv/1001200/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d33d363d-4144-4aae-be5d-debebeef2b0d" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Tennis Channel HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8240
-https://dtv.vingt.qzz.io/dtv/8240/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/f6dbe792-f9fd-4cb7-a8f2-4e9cc342700e" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Design Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1003802
 https://dtv.vingt.qzz.io/dtv/1003802/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/80c25768-273c-4298-a307-a6255e60cf7f" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The First
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1190
-https://dtv.vingt.qzz.io/dtv/1190/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/d72fbe30-8ad9-48b4-8f51-90991572ae1e" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Jim Rome Show
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000989
-https://dtv.vingt.qzz.io/dtv/1000989/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/968a5a0c-8c2f-4f18-a0c0-3b9be518bbbe" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Masked Singer
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001615
-https://dtv.vingt.qzz.io/dtv/1001615/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/3078897a-8da3-4a0f-b5e1-19aac06a1c0d" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Movie Channel East HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3486,27 +3269,6 @@ https://dtv.vingt.qzz.io/dtv/3785/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000971
 https://dtv.vingt.qzz.io/dtv/1000971/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/6543ae89-5bf4-4bb8-83b9-916c55a8b59b" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Price is Right: Drew Carey
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001130
-https://dtv.vingt.qzz.io/dtv/1001130/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/b13da9ab-076b-4009-a367-38a282ea78da" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Price is Right: The Barker Era
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001131
-https://dtv.vingt.qzz.io/dtv/1001131/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/03c898d9-9054-4f99-a772-1470e1e9846b" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Walking Dead Universe
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001751
-https://dtv.vingt.qzz.io/dtv/1001751/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/56f08371-563d-4910-8b4f-147e829104e5" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",The Weather Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3514,40 +3276,12 @@ https://dtv.vingt.qzz.io/dtv/1001751/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8253
 https://dtv.vingt.qzz.io/dtv/8253/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/c546d353-7526-4d4d-9cf3-e7afefad7f44" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",theGrio
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=6537
-https://dtv.vingt.qzz.io/dtv/6537/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/aa7407ef-0ee4-4141-89bb-8e22016507ac" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Three Stooges
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001198
-https://dtv.vingt.qzz.io/dtv/1001198/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/45f5b2a9-2318-41e2-a471-e2f2efcdcfa7" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Tiny House Nation
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001466
-https://dtv.vingt.qzz.io/dtv/1001466/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/be9b2996-ae6c-4161-b99b-6158e6d2b798" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",TLC HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8262
 https://dtv.vingt.qzz.io/dtv/8262/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/b2dfe3d3-4fc3-4112-baa1-2c7ba0b3970d" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",TNA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000958
-https://dtv.vingt.qzz.io/dtv/1000958/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/3c10db4e-98ac-40c0-a301-661504f60588" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",TNT HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3570,20 +3304,6 @@ https://dtv.vingt.qzz.io/dtv/2602/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001710
 https://dtv.vingt.qzz.io/dtv/1001710/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/e8e77841-c3ec-4442-8458-d08231e89f73" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Torque by History
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001035
-https://dtv.vingt.qzz.io/dtv/1001035/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/941051d1-17f5-43de-a210-5e478f19610b" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Total Crime
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001031
-https://dtv.vingt.qzz.io/dtv/1001031/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/088ffb78-2fed-4ebb-bf13-bf009d0700d7" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Travel Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3591,26 +3311,12 @@ https://dtv.vingt.qzz.io/dtv/1001031/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3529
 https://dtv.vingt.qzz.io/dtv/3529/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/e1cff18d-72d2-4ed5-af15-edfc04661523" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Tribeca Festival+
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001600
-https://dtv.vingt.qzz.io/dtv/1001600/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/63a853ea-605c-44bc-aecb-7d660282352e" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",True Crime Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001253
 https://dtv.vingt.qzz.io/dtv/1001253/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/9ee1bd46-2998-4f53-861d-9314a7584ff5" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",True CRMZ
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=6177
-https://dtv.vingt.qzz.io/dtv/6177/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/1b10de5e-3e3b-488f-9740-bec197244114" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",truTV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3633,40 +3339,12 @@ https://dtv.vingt.qzz.io/dtv/2016/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=6213
 https://dtv.vingt.qzz.io/dtv/6213/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/8c312c97-15af-45d1-b754-9770c854f177" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",TV One HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1512
-https://dtv.vingt.qzz.io/dtv/1512/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/dad499f5-14e2-43f8-a98a-333022817223" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",UniMas West HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=8030
-https://dtv.vingt.qzz.io/dtv/8030/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/b0453ac3-7a84-462d-8ef0-c1d66810b72c" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Universo HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3841
-https://dtv.vingt.qzz.io/dtv/3841/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/94f35e95-f0d6-4967-874e-234e4ceaae8c" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Univision East HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3247
 https://dtv.vingt.qzz.io/dtv/3247/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/ce445d73-10fd-4bdd-a147-18571f90a0bf" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",UnXplained Zone
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001469
-https://dtv.vingt.qzz.io/dtv/1001469/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/843f6a76-f055-46ad-9371-c70b15fd55c8" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",UPTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3724,13 +3402,6 @@ https://dtv.vingt.qzz.io/dtv/1003292/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=3291
 https://dtv.vingt.qzz.io/dtv/3291/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/90a0ccfd-61b9-4904-999a-c97a9befe3cc" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Willow Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001610
-https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/98e9d25c-ff7e-49e4-b5ba-6bbce1476194" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",WIRED2fish TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -3738,54 +3409,12 @@ https://dtv.vingt.qzz.io/dtv/1001610/master.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1001713
 https://dtv.vingt.qzz.io/dtv/1001713/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/93c1ddc2-93be-46eb-8032-9d4e45503e73" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",WNBA on ION 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1185
-https://dtv.vingt.qzz.io/dtv/1185/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/18e5a4de-e3ed-43bf-9232-1d9be2af67f1" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",WNBA on ION 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1187
-https://dtv.vingt.qzz.io/dtv/1187/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/8f7c844a-e121-4ecf-87ca-6b1128e7a192" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",WNBA on ION 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1188
-https://dtv.vingt.qzz.io/dtv/1188/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/812f6dbf-9b5a-4f45-9af8-d1723d847dfe" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Women's Sports Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000954
-https://dtv.vingt.qzz.io/dtv/1000954/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/f4fb0d15-77c9-4ef8-b86c-1500ae958250" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Yahoo Finance
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1008522
-https://dtv.vingt.qzz.io/dtv/1008522/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/c0520c45-69ef-475b-b24a-87e737cedad5" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",YES Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000287
 https://dtv.vingt.qzz.io/dtv/1000287/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtv.vingt.qzz.io/logo/76b0b447-3a1e-451b-a415-84cc8cfd41dd" group-title="DIRECTV" group-logo="https://i.imgur.com/WwiDAm4.png",Yu-Gi-Oh!
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=1000990
-https://dtv.vingt.qzz.io/dtv/1000990/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/symphony924.png" group-title="Radio" radio="true",MeWatch - Symphony 92.4
 https://22393.live.streamtheworld.com/SYMPHONY924_PREM.aac
@@ -3802,8 +3431,167 @@ https://28333.live.streamtheworld.com/CLASS95_PREM.aac
 #EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/oli968.png" group-title="Radio" radio="true",MeWatch - Oli 96.8
 https://22903.live.streamtheworld.com/OLI968FM_PREM.aac
 
-#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/9cb4a280ccc5fe14/melody%20felony.png" group-title="Radio" radio="true",MeWatch - Melody 106.5
-https://n07a-eu.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8?rj-ttl=5&rj-tok=AAABjFwRjLEAEt28uBBwa5thng
+#EXTINF:-1 group-title="Radio" radio="true"  tvg-id="HITZ"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",Hitz FM
+https://stream.rcs.revma.com/488kt4sbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",My FM
+https://stream.rcs.revma.com/hc3unrtbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MIX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX FM
+https://stream.rcs.revma.com/v5pq3htbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="LITE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png",LITE
+https://stream.rcs.revma.com/bn4ex8sbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ERA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA FM
+https://stream.rcs.revma.com/crec9cmbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true"  tvg-id="SINAR"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR FM
+https://stream.rcs.revma.com/azatk0tbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MELODY"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY FM
+https://stream.rcs.revma.com/2u1n6dtbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="RAAGA"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA FM
+https://stream.rcs.revma.com/1ut6qwtbv4uvv 
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us"  tvg-name="SURIA FM" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2013/05/Logo-Radio-Suria-fm-New2013.png",Suria FM 
+https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ZAYAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN FM 
+https://stream.rcs.revma.com/7ww2a4tbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="GOXUAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png",GO XUAN FM 
+https://stream.rcs.revma.com/xt9nhzsbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="GEGAR" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
+https://stream.rcs.revma.com/cn0zcqsbv4uvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://assets.hotfm.com.my/2020/04/logo_hotfm_500x500.png",Hot FM
+https://stream.rcs.revma.com/drakdf8mtd3vv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://pictr.com/images/2024/05/17/xP9m61.jpg",Kool FM
+https://stream.rcs.revma.com/3930238mtd3vv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://pwaimg.listenlive.co/FLYFM_992391_config_station_logo_image_1408891150.png",Fly FM
+https://stream.rcs.revma.com/q17aka9mtd3vv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png" tvg-url="" group-title="Radio" radio="true",8FM
+https://stream.rcs.revma.com/qp0xrd9mtd3vv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/Ms7nftD/MolekFM.png",Molek FM
+https://stream.rcs.revma.com/z56xa78mtd3vv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ROCK" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png",Classic Rock
+#https://astro4.rastream.com/rock
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="GOLD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png",Gold
+#https://astro4.rastream.com/gold
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="OPUS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png",Opus
+#https://astro4.rastream.com/opus
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="INDIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png",INDIABEAT
+#https://astro4.rastream.com/india
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="JAZZ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png",JAZZ
+#https://astro4.rastream.com/jazz
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="OSAI" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png",OSAI
+#https://astro4.rastream.com/osai
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="BAYU" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png",Bayu
+#https://astro4.rastream.com/bayu
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="KENYALANG" ch-number="867" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png",Kenyalang
+#https://astro4.rastream.com/kenyalang
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ERA" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Era-fm-sabah.png",ERA Sabah
+#https://astro2.rastream.com/amp-era-kk
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="ERA" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png",ERA Sarawak
+#https://astro2.rastream.com/amp-era-kch
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="HITZ" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png",HITZ Sabah
+#https://astro1.rastream.com/amp-hitz-kk
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="HITZ" radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png",HITZ Sarawak
+#https://astro1.rastream.com/amp-hitz-kch
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="MY" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png",MyFM Sabah
+#https://astro1.rastream.com/amp-myfm-kk
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg",Radio Klasik
+https://28103.live.streamtheworld.com/RADIO_KLASIKAAC.aac
+
+#EXTINF:-1 tvg-id="NASFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
+https://28103.live.streamtheworld.com/NASIONAL_FMAAC.aac
+
+#EXTINF:-1 tvg-id="TRAXXFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg",Traxx FM
+https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac
+
+#EXTINF:-1 tvg-id="AIFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg",AI FM 
+https://28093.live.streamtheworld.com/AI_FMAAC.aac
+
+#EXTINF:-1 tvg-id="MINNALFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg",MINNAL FM 
+https://28093.live.streamtheworld.com/MINNAL_FMAAC.aac
+
+#EXTINF:-1 tvg-id="ASYIKFM" group-title="Radio" radio="true" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/310_144.png",Radio Asyik
+https://22273.live.streamtheworld.com/ASYIK_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1smsv.png",BEST FM
+https://stream.rcs.revma.com/h34x4kgg9hhvv
+
+#EXTINF:-1 group-title="Radio" radio="true" tvg-id="24.7.Dummy.us" radio="true" tvg-logo="https://pictr.com/images/2023/02/26/E1sUo5.md.png",MANIS FM
+https://stream.rcs.revma.com/nzgauqq1v7zuv
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-selangor.c3b66db5.jpg",Selangor FM
+https://28163.live.streamtheworld.com/SELANGOR_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah.1c891dd7.jpg",Sabah FM
+https://28153.live.streamtheworld.com/SABAH_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sarawak.85bf48b9.jpg",Sarawak FM
+https://22273.live.streamtheworld.com/SARAWAK_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-labuan.859e980b.jpg",Labuan FM
+https://28093.live.streamtheworld.com/LABUAN_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kedah.ac6ad597.jpg",Kedah FM
+https://22243.live.streamtheworld.com/KEDAH_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kl.cf9e2e96.jpg",KL FM
+https://28103.live.streamtheworld.com/KL_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-kelantan.8be90a2d.jpg",Kelantan FM
+https://22243.live.streamtheworld.com/KELANTAN_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-terengganu.eabe5ef2.jpg",Terengganu FM
+https://22243.live.streamtheworld.com/TERENGGANU_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-pahang.9e046615.jpg",Pahang FM
+https://22243.live.streamtheworld.com/PAHANG_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-johor.38314123.jpg",Johor FM
+https://22243.live.streamtheworld.com/JOHOR_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-negeri-sembilan.d75a96b1.jpg",Negeri Sembilan FM
+https://22243.live.streamtheworld.com/NEGERI_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-perak.5157e833.jpg",Perak FM
+https://22243.live.streamtheworld.com/PERAK_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-mutiara.2d02099e.jpg",Mutiara FM
+https://22243.live.streamtheworld.com/MUTIARA_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-perlis.c5ca4535.jpg",Perlis FM
+https://22243.live.streamtheworld.com/PERLIS_FMAAC.aac
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-melaka.ddf4e356.jpg",Melaka FM
+https://22243.live.streamtheworld.com/MELAKA_FMAAC.aac
+
+#EXTINF:-1 tvg-id="VFM" group-title="Radio" radio="true" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-sabah-v.8109b1c6.jpg",Sabah VFM
+https://22273.live.streamtheworld.com/SABAH_VFMAAC.aac
 
 #EXTINF:-1 tvg-logo="https://aphrodite.gmanetwork.com/assets/radio/images/og/super_radyo.jpg" group-title="Radio" radio="true",GMA - DZBB AM - Super Radyo
 https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8
