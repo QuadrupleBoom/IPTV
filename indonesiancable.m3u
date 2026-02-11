@@ -73,7 +73,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/defau
  
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play",PBA Rush HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
  
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7754-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play",Arirang
