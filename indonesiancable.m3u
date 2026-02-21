@@ -384,9 +384,6 @@ https://tvcdn.tv.telia.lt/live/eds/Animal_Planet_HD_H/DASH_5_CPIX_NPVR/Animal_Pl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7cac3fa25f08e1fd611ddff9e7d79ed:cf9502209ce348e0a442a1f4b338a2ae
 https://tvcdn.tv.telia.lt/live/eds/History_HD_H/DASH_5_CPIX_NPVR/History_HD_H.mpd
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/BBC_Two_%282001%29.svg/2560px-BBC_Two_%282001%29.svg.png" channel-number="Converge" group-title="Converge",BBC Two
-https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
   
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nP0MpUgMOTUKhmL81EaVkQC3MVYSXvkli5BfF4whgolw=s900-c-k-c0x00ffffff-no-rj" tvg-name="TLC HD" group-title="Converge",Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -425,26 +422,19 @@ https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/x_aROAMrQDI/maxresdefault.jpg" group-title="Converge",HBO Pop
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime-panamericano-hd_m.png" group-title="Converge",HBO Xtreme
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/manifest.mpd
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" group-title="Converge",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
-https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/HBOFAMILYHD/default.mpd
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oFrAbWveSRbde-CXBK7IiZc82Jc66uUSJfG137_ur_du9m7bODrKQGdH0gYBmJTARtpvnYuh=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",Disney Channel HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -456,13 +446,10 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 #EXTINF:-1 tvg-id="Canal.Disney.Junior.(México).mx" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
-https://hfc-tlx-live-atv-cdn.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
 
 #EXTINF:-1 tvg-name="ディズニージュニア" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/T79oqXz-gIJpizU-mV151I1OEEQbap0dX27kciU5LWHNSYqL3jQBe3BGm-EES3rqoZrwFQsULQ=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", CBBC
-https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://granny.anondrop.net/uploads/d649222a8b8a8e5b/Imgur%20Account%20Download%20%20kotepihibs%20Account/19%20-%2060ua4O3.png" group-title="Converge", Cbeebies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -497,11 +484,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_cha
 #KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Dreamworks)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network
+#EXTINF:-1 tvg-id="카툰네트워크.kr" tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(CartoonNet)/master.mpd
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network Korea
+https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=aB9n7csMbxGqrfC4nuWg4nfLMCDJeIqfTvibBvMp&secret=7e64b2a6aefd3f548491407ec8725acc&time=1769056641
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network SD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -537,6 +527,15 @@ https://cache07.zapitv.com/live/eds_c2/clan_tv_hd/dash_live_ez/clan_tv_hd.mpd
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JEI재능TV.kr" tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",JEITV
+https://live-th10.myjktv.com/watch/live.m3u8?video=jei_jenung_540&sid=0U5gGVD8MUVHzIdG1JINTEXBzFPw1TS9XkiLqQM0&secret=8aabea762716b38bbc4b6c6fa0bbe509&time=1771648766
+
+#EXTINF:-1 tvg-id="투니버스.kr" tvg-logo="https://yt3.googleusercontent.com/2lYmFpUVs0344QyhGmapUG7zCrRkHxTBwC7qT1O0ndA9UZ6Y5GWWAi1QvL6lNvbyqTFupRJ9=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Tooniverse
+https://live-th10.myjktv.com/watch/live.m3u8?video=tooniverse_540&sid=1UJHEirDzlX6b0U2JY7vH7DGkPolJyz1eb9pjKwU&secret=47b667ee1999652cb92cf9cb73c4e654&time=1771648662
+
+#EXTINF:-1 tvg-id="뽀요TV.kr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/poyo-tv-kr.png" channel-number="Converge" group-title="Converge",PoYoTV
+https://live-th10.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=2LoqS5KSCYitxjZb4ByWmHpAhcnTgvY3vJsUWkvR&secret=2420a20f20a9e7497e046835466e3cb7&time=1771648991
+
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/826c1f767ae1cf9efac61bb5d9c364322097e222b18d7c854fb18ba3978f7186.png" group-title="Converge",Glitch+
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
 
@@ -545,21 +544,20 @@ https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65b6395665d92c16e12f202c9480c425:eda358f71a474029f1580327ae6766e1
-https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/RAI-HD/default.mpd
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/RAI-HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://play-lh.googleusercontent.com/9gP_wA6FShW1MKID3VAMNMc_pi6I--ll_nFx3iNyyT55zIPszp4cMqlRW0NBgY7idEZag5FBbA4PR2P-tdq5bwk" channel-number="Converge" group-title="Converge",TV5Monde
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb80d09d70628c20bb91cf65a195e1f9:6115b75f155d1a7a686a525fbd6ca2f6
-https://hfc-tlx-live-atv-cdn.izzigo.tv/3/out/u/dash/TV5-SD/default.mpd
-
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/TV5-SD/default.mpd
 
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg" channel-number="Converge" group-title="Converge",TVE Internacional
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9c6bff9b7141a1e289061a8334c34cb:c644f57b253c9a81d723fe252c53079a
-https://hfc-tlx-live-atv-cdn.izzigo.tv/5/out/u/dash/TVE-SD/default.mpd
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/TVE-SD/default.mpd
 
 
 #EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250" group-title="MeWatch", Channel 5
@@ -1133,10 +1131,7 @@ http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v8
 	
 #EXTINF:-20 tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title="Converge",Living Asia Channel
 http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="Converge",SMNI Channel
-http://136.239.173.10:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001335&contentid=ch00000000000000001335&videoid=ch00000090990000001155&recommendtype=0&userid=1436446282400&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZCER3GW1NZPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-	
+
 #EXTINF:-1 tvg-logo="https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png" group-title="Converge", TV5 Monde
 http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 	
