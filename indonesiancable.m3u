@@ -527,14 +527,14 @@ https://cache07.zapitv.com/live/eds_c2/clan_tv_hd/dash_live_ez/clan_tv_hd.mpd
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JEI재능TV.kr" tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",JEITV
-https://live-th10.myjktv.com/watch/live.m3u8?video=jei_jenung_540&sid=0U5gGVD8MUVHzIdG1JINTEXBzFPw1TS9XkiLqQM0&secret=8aabea762716b38bbc4b6c6fa0bbe509&time=1771648766
+#EXTINF:-1 tvg-id="JEI재능TV.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8Ch_QD0xsfwRNAQfyMdg4HTQB_z8po46s7t67FXhl4hU=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",JEITV
+http://185.193.240.245:7000/play/a008
 
 #EXTINF:-1 tvg-id="투니버스.kr" tvg-logo="https://yt3.googleusercontent.com/2lYmFpUVs0344QyhGmapUG7zCrRkHxTBwC7qT1O0ndA9UZ6Y5GWWAi1QvL6lNvbyqTFupRJ9=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Tooniverse
-https://live-th10.myjktv.com/watch/live.m3u8?video=tooniverse_540&sid=1UJHEirDzlX6b0U2JY7vH7DGkPolJyz1eb9pjKwU&secret=47b667ee1999652cb92cf9cb73c4e654&time=1771648662
+http://185.193.240.245:7000/play/a00t
 
 #EXTINF:-1 tvg-id="뽀요TV.kr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/poyo-tv-kr.png" channel-number="Converge" group-title="Converge",PoYoTV
-https://live-th10.myjktv.com/watch/live.m3u8?video=disney_channel_540&sid=2LoqS5KSCYitxjZb4ByWmHpAhcnTgvY3vJsUWkvR&secret=2420a20f20a9e7497e046835466e3cb7&time=1771648991
+http://185.193.240.245:7000/play/a00i
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/826c1f767ae1cf9efac61bb5d9c364322097e222b18d7c854fb18ba3978f7186.png" group-title="Converge",Glitch+
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
