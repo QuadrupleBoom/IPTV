@@ -485,9 +485,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991107/hls/master.m3u8?ads.xumo_cha
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
-#EXTINF:-1 tvg-id="카툰네트워크.kr" tvg-logo="https://yt3.googleusercontent.com/0RZ115AoRP4in_xau6ex9te9Z4AEwGXsfsQ7kd0HGoEroGYdCCiauSiypEF-5iNzVQMgadHk=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network Korea
-https://live-th10.myjktv.com/watch/live.m3u8?video=cartoon_network_540&sid=aB9n7csMbxGqrfC4nuWg4nfLMCDJeIqfTvibBvMp&secret=7e64b2a6aefd3f548491407ec8725acc&time=1769056641
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/GIP5G-qfjR6Wr_gDOW8xl3wBqVDj2-JrK3eNXgIsvMeKpFv8CZ7l-mPzfOIZ6X_YfRA=w240-h480-rw" channel-number="Converge" group-title="Converge",Boing
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -516,14 +513,6 @@ https://cache07.zapitv.com/live/eds_c2/clan_tv_hd/dash_live_ez/clan_tv_hd.mpd
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
 https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="JEI재능TV.kr" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m8Ch_QD0xsfwRNAQfyMdg4HTQB_z8po46s7t67FXhl4hU=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",JEITV
-http://185.193.240.245:7000/play/a008
-
-#EXTINF:-1 tvg-id="투니버스.kr" tvg-logo="https://yt3.googleusercontent.com/2lYmFpUVs0344QyhGmapUG7zCrRkHxTBwC7qT1O0ndA9UZ6Y5GWWAi1QvL6lNvbyqTFupRJ9=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Tooniverse
-http://185.193.240.245:7000/play/a00t
-
-#EXTINF:-1 tvg-id="뽀요TV.kr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/poyo-tv-kr.png" channel-number="Converge" group-title="Converge",PoYoTV
-http://185.193.240.245:7000/play/a00i
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/826c1f767ae1cf9efac61bb5d9c364322097e222b18d7c854fb18ba3978f7186.png" group-title="Converge",Glitch+
 https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
