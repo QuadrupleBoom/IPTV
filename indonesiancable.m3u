@@ -292,32 +292,44 @@ https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
 
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sKJAtX3IRigo7-UGqNWzbU4ciGsBPKSU5A&s",DZMM TeleRadyo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
+#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/EpcbFBe.png",ANC Global
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:8c6c920cf3f7df2087b0ae1a4a8c6058
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/wW4r_tYinqPCDJs-MVMWIQJn6-pC8wW09jWKcDYn9sPKmhvtLXxs9KtPqNRoDSH3hGmB45BS2w=s900-c-k-c0x00ffffff-no-rj",TFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
 
 #EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",Cinemo! Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
 
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/fxcZAd8.png" ,MYX Global
+#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/Cshx9xM.png",CinemaOne Global
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
-https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" channel-number="Converge" group-title="Converge",MTV Hits
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/wUQH4GF.png" channel-number="Converge" group-title="Converge",Jeepney
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5af8ade77c6608a3302dc1a61f2157cf:69f0ace2d5a343390c08f3933df4213d
-https://tvcdn.tv.telia.lt/live/eds/MTV_Hits_H/DASH_5_CPIX_NPVR/MTV_Hits_H.mpd
+#KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
+https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/0ehFDrq.png" channel-number="Converge" group-title="Converge",Knowledge
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1f88dd3b254514bf7a113188c10dc2:ea86da60f0116f3b92a86acf45b8e071
+https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
+
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/fxcZAd8.png" channel-number="Converge" group-title="Converge",MYX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xE9cpzTvPi7JYDEDE59h8elMKYQq04iwUeaygCj_UfdXpj0BVCNucLcCziq_0C8RemMGMpy3=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
@@ -379,7 +391,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=447a3097e6ee79f0f3b90f8d2301076b:db7aff1792d72a57a9ed0144be98b735
 https://tvcdn.tv.telia.lt/live/eds/Animal_Planet_HD_H/DASH_5_CPIX_NPVR/Animal_Planet_HD_H.mpd
 
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://yt3.googleusercontent.com/PuK25BOIG4MnfQL68iXXMaI_AbJ1vACxdE_seCkpTeD3hftaEOhdl-i0LYBBoWelxWUZNvWi=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",BBC Lifestyle
+#EXTINF:-1 tvg-id="Converge" tvg-logo="https://yt3.googleusercontent.com/PuK25BOIG4MnfQL68iXXMaI_AbJ1vACxdE_seCkpTeD3hftaEOhdl-i0LYBBoWelxWUZNvWi=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",History
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7cac3fa25f08e1fd611ddff9e7d79ed:cf9502209ce348e0a442a1f4b338a2ae
@@ -450,6 +462,12 @@ https://zap-live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
 
 #EXTINF:-1 tvg-name="ディズニージュニア" tvg-logo="https://yt3.googleusercontent.com/ycmH6u_8GXdVOSwL8K8D0QSLxzoJvd6yiRORWT0QYosXdtBBOkqQdXTR4DS6kDHd-U49Z3dcpHY=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Disney Jr Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/uyeShLXK1reEq1zTYVtZkL9IoQb18T-G96q8HqCpb-uAxY4gxaR6KuuUo1KudRQfuDHMYSYcEg=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", CBeebies
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-dash/bbc4cbeebies.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/T79oqXz-gIJpizU-mV151I1OEEQbap0dX27kciU5LWHNSYqL3jQBe3BGm-EES3rqoZrwFQsULQ=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", CBBC
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 
 #EXTINF:-1 tvg-id="616.astro" tvg-logo="https://i.imgur.com/ZH8JFz4.png" group-title="Converge",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -619,12 +637,6 @@ https://dash2.antik.sk/stream/hisi_jimjam/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
 https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/tooncast-br.png" channel-number="Converge" group-title="MeWatch",Tooncast
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/TOONCAST-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" channel-number="Converge" group-title="MeWatch",Cartoonito HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
