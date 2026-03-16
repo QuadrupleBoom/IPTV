@@ -652,12 +652,8 @@ http://live.dreamtv.gy/live/c2eds/GLCjr/HLS/GLCjr.m3u8
 #EXTINF:-1 tvg-logo="https://gotv.nekoweb.org/secret/bejunior.png",BeJunior
 https://bbb.exoadash.com/TVD1427/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/czech-republic/ct-d-ct-art-cz.png" group-title="MeWatch",CT :D/Art
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_ct_detem/playlist_cbcs.mpd
+#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/4272a5c104e71833/Cartoon_Classics.png" group-title="MeWatch",Cartoon Classics
+http://31.130.203.6:9513/
 
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268168'&EntityType='Item'&EntityId='556893'&Width=350&Height=250" group-title="MeWatch",Kartoon Channel!
 https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=US2900015RO&coppa=1
