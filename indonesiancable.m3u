@@ -444,6 +444,9 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ocs2DeU.png" group-title="Converge", Antenna TV
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 
+#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/300024/1280x720/latest.jpg" group-title="Converge", Tap Silog
+https://converse.nathcreqtives.com/blasttv/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJUZXN0aW5nc3RyZWFtIiwiaWF0IjoxNzczOTAxMTMxLCJleHAiOjE3NzQ3NjUxMjMsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3NDc2NTEyMywiYWxsb3dlZE9yaWdpbnMiOltdfQ._9oR3zvOmM-Rn7gPkFlxnq901aafvG0t1z6AI0KDOds
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/bHMmIqJjJpvelZ-jjYzoudzww0Bfu_RSEvYC4iRH58o5EmjERURPqDwFibCcBDs7mFhuD3fgcg=s900-c-k-c0x00ffffff-no-rj" group-title="Converge",CinemaWorld
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
