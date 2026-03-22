@@ -597,9 +597,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",NickToons
-https://bbb.exoadash.com/TVD1309/index.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",NickToons SD
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -658,9 +655,6 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #EXTINF:-1 tvg-name="GLCJr" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/Guyana_Learning_Channel_Trust_Junior_-_logo.png/revision/latest?cb=20230227094744",GLC Jr.
 http://live.dreamtv.gy/live/c2eds/GLCjr/HLS/GLCjr.m3u8
 
-#EXTINF:-1 tvg-logo="https://gotv.nekoweb.org/secret/bejunior.png",BeJunior
-https://bbb.exoadash.com/TVD1427/index.mpd
-
 #EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/4272a5c104e71833/Cartoon_Classics.png" group-title="MeWatch",Cartoon Classics
 http://31.130.203.6:9513/
 
@@ -685,11 +679,6 @@ https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9cc8f08dddb744dea58dbed4e07fb320/ma
 
 #EXTINF:-1  tvg-id="556894" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268156'&EntityType='Item'&EntityId='556894'&Width=304&Height=250" group-title="MeWatch", Action Hollywood Movies
 https://d29ecfnk3jwkp9.cloudfront.net/out/v1/e338860b57fe4c40bed6e9ca38896a78/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/dog-tv-us.png" group-title="MeWatch",Dog TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d2063b495202a5a78a2b7df6ba1d6d1:9b0e8c590f387c6b45ffef5827d9d90b
-https://zap-live1-ott.izzigo.tv/4/out/u/dash/DOGTV-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/warner-tv-hk.png" group-title="MeWatch",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
