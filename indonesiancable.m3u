@@ -626,8 +626,8 @@ http://bethoven.af-stream.com:1600/s/kwtlxswl/yes-disney-il-hd/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/disney-jr-rs.png" group-title="MeWatch",DISNEY JR HE
 http://bethoven.af-stream.com:1600/s/kwtlxswl/disney-jr-il/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/disney-xd-uk.png" group-title="MeWatch",DISNEY XD HE
-http://bethoven.af-stream.com:1600/s/kwtlxswl/zoom-toon-il-hd/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/toon-a-vision-ca.png" group-title="MeWatch",Toon-A-Vision
+http://kstv.us:8080/live/Felix12/3330312491/40715.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/jimjam-rs.png" group-title="MeWatch",JimJam
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
