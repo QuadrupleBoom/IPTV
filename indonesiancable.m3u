@@ -594,6 +594,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",NickToons
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={fe481f72933a5467a4d3cefd77c6902f:22110baea7f26650013edd6f7f8fafd7,b2f730947e0157f8ab45dd0e127ad378:d142104132b5feec5da6d35360a1bf07}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/247_HTTP/__op/dash-default/__f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",NickToons SD
@@ -606,6 +607,7 @@ https://dash2.antik.sk/stream/hisi_nikctoons/playlist_cbcs.mpd
 #EXTINF:-1 tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/939643/images/9949224?dsth=412&dstw=412&srcmode=0&quality=65&type=0&srcx=1&srcy=1&srcw=1%2F1&srch=1%2F1" group-title="MeWatch",TV3Mini
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={8a0fd20433da55a9a2032eff78d9b6c2:9b5a802b0fa53d2914ba9795149f7eb2,17d6dc1989fb5606b7f92ab58d6f6ebf:41272507d4f5f9bb3e89223ae07bf61e,616711c09ad05952b1cecc1441539a3b:cf32b01ff7567b44296d3c908659136f}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/100_HTTP/__op/dash-default/__f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nickelodeon-rs.png" group-title="MeWatch",NICK HE
