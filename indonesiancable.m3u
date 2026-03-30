@@ -594,7 +594,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",NickToons
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={fe481f72933a5467a4d3cefd77c6902f:22110baea7f26650013edd6f7f8fafd7,b2f730947e0157f8ab45dd0e127ad378:d142104132b5feec5da6d35360a1bf07}
-https://shortcut-edgeware.helio.lv/...c/247_HTTP/__op/dash-default/__f/manifest.mpd
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/247_HTTP/__op/dash-default/__f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="MeWatch",NickToons SD
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
