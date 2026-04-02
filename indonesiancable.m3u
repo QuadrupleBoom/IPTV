@@ -659,12 +659,6 @@ https://hfc-tlx-live-atv-cdn.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
-#EXTINF:-1 tvg-name="GLCJr" tvg-logo="https://static.wikia.nocookie.net/internationaltelevision/images/7/79/Guyana_Learning_Channel_Trust_Junior_-_logo.png/revision/latest?cb=20230227094744",GLC Jr.
-http://live.dreamtv.gy/live/c2eds/GLCjr/HLS/GLCjr.m3u8
-
-#EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/4272a5c104e71833/Cartoon_Classics.png" group-title="MeWatch",Cartoon Classics
-http://31.130.203.6:9513/
-
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268168'&EntityType='Item'&EntityId='556893'&Width=350&Height=250" group-title="MeWatch",Kartoon Channel!
 https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=US2900015RO&coppa=1
 
