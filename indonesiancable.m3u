@@ -251,8 +251,10 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_thrill_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://ucdn.mediaquest.com.ph/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/brazil/zoomoo-br.png" group-title="Cignal Play",Zoo Moo
- https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Pn03LazvZCNIl2Ku2SckYAkaumF8Un49wlANbIqP00FlXc2L7v9u78gg8F9VBiAltx5sAH4745k=s900-c-k-c0x00ffffff-no-rj" group-title="Cignal Play",Zoo Moo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
+https://v.iill.top/myTV/ZOO/index.mpd
  
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADD5C-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -268,11 +270,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickjr/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABB06-C9E1-11EC-9D64-0242AC120002/0-1x1.jpg?width=320" group-title="Cignal Play",Animax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e7b9d2c6a4f4d8c9f33b5c1a8d7e260:67336c0c5b24fb4b8caac248dad3c55d
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
 
     //========================================================================
     //									CONVERGE
