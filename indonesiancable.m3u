@@ -429,12 +429,6 @@ https://tvcdn.tv.telia.lt/live/eds/FOXlife_H/DASH_5_CPIX_NPVR/FOXlife_H.mpd
 #KODIPROP:inputstream.adaptive.license_key=2325d4dfb34b1ce09743d6cd70e50f24:d70f31c9a198584abd89f9a8dad237b1
 https://tvcdn.tv.telia.lt/live/eds/Fox_H/DASH_5_CPIX_NPVR/Fox_H.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/comic-u.png" group-title="Converge",ComicU
-https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.diceplatform.com/prod/original/dce.tapgo/section/home/BlastTV_Thumbnail-400x400.95yEH.xUA3N.jpg" group-title="Converge",Blast Movies
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/v5PBUHFXpvw3z2izxOYx2MOBvibDNo6UXmHJPW-IzilsOMlsyZgwMVMAQjR_cP3fT2U" group-title="Converge", Xumo Comedy
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991105
 
