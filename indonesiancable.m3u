@@ -533,42 +533,6 @@ https://nog-live1-ott.izzigo.tv/13/out/u/dash/TV5-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=e9c6bff9b7141a1e289061a8334c34cb:c644f57b253c9a81d723fe252c53079a
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/TVE-SD/default.mpd
 
-
-#EXTINF:-1  tvg-id="97098" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250" group-title="MeWatch", Channel 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
-
-#EXTINF:-1  tvg-id="97104" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318750'&EntityType='Item'&EntityId='97104'&Width=369&Height=250" group-title="MeWatch", Channel 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
-https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
-
-#EXTINF:-1  tvg-id="97129" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318764'&EntityType='Item'&EntityId='97129'&Width=396&Height=250" group-title="MeWatch", Channel U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
-https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
-
-#EXTINF:-1  tvg-id="97084" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318748'&EntityType='Item'&EntityId='97084'&Width=636&Height=250" group-title="MeWatch", Suria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
-https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
-
-#EXTINF:-1  tvg-id="97096" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318746'&EntityType='Item'&EntityId='97096'&Width=885&Height=250" group-title="MeWatch", Vasantham
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
-https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
-
-#EXTINF:-1  tvg-id="97072" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318766'&EntityType='Item'&EntityId='97072'&Width=193&Height=249" group-title="MeWatch", CNA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bef2c7c91c7841d3bce5338fe469d302:f2bf28552449a758c950e84bddc6f150
-https://tglmp03.akamaized.net/out/v1/f97b5eedb5ec4b4ea770859bd4e9d28e/manifest.mpd
-
-#EXTINF:-1  tvg-id="186574" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9467885'&EntityType='Item'&EntityId='186574'&Width=945&Height=250" group-title="MeWatch", Oktolidays
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ced149f6c6e4fc0be5091eba865e58c:90d2cc680aba6fffc512d60a8f888b52
-https://tglmp03.akamaized.net/out/v1/31ff97e546d446bf89ff47d323196e96/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nickelodeon-rs.png" group-title="MeWatch",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
@@ -609,11 +573,6 @@ https://tvcdn.tv.telia.lt/live/eds/Disney_Channel_H/DASH_5_CPIX_NPVR/Disney_Chan
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_disney_jr/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-id="62753" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dreamworks-tv-int.png" group-title="MeWatch",Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d75ac11d995d5144a5bbf72bf679dc25:c42ae03bda49274282a0645285f8776d
-https://dckb1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/fb0d4883c7344c308d8ae661fa860486/index.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/jimjam-rs.png" group-title="MeWatch",JimJam
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -643,86 +602,12 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 #EXTINF:-1 tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268168'&EntityType='Item'&EntityId='556893'&Width=350&Height=250" group-title="MeWatch",Kartoon Channel!
 https://d2z0ysa6dgxhlc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ajxyy4yaic6nq/kchan.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=US2900015RO&coppa=1
 
-#EXTINF:-1  tvg-id="97073" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318742'&EntityType='Item'&EntityId='97073'&Width=488&Height=249" group-title="MeWatch", LIVE 1
-https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
-
-#EXTINF:-1  tvg-id="97078" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318744'&EntityType='Item'&EntityId='97078'&Width=515&Height=250" group-title="MeWatch", LIVE 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aafd4cc04e18453a8cb18d1e9b9eabeb:37f5e8b3da54affdea805a11501ad2cb
-https://tglmp02.akamaized.net/out/v1/a655d44ba90444a38a4c2bd74aa998e0/manifest.mpd
-
-#EXTINF:-1  tvg-id="558112" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268172'&EntityType='Item'&EntityId='558112'&Width=409&Height=250" group-title="MeWatch", W-Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
-https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.mpd
-
-#EXTINF:-1  tvg-id="556888" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268162'&EntityType='Item'&EntityId='556888'&Width=350&Height=250" group-title="MeWatch", TRACE Sport Stars
-https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9cc8f08dddb744dea58dbed4e07fb320/manifest.mpd
-
 #EXTINF:-1 tvg-id="Adult.Swim.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png" group-title="MeWatch",Adult Swim
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
 https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
-
-#EXTINF:-1  tvg-id="556894" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9268156'&EntityType='Item'&EntityId='556894'&Width=304&Height=250" group-title="MeWatch", Action Hollywood Movies
-https://d29ecfnk3jwkp9.cloudfront.net/out/v1/e338860b57fe4c40bed6e9ca38896a78/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="164981" tvg-logo="https://raw.githubusercontent.com/QuadrupleBoom/test/refs/heads/main/mfamily.png" group-title="MeWatch",Movies Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a665bb1c9465b84a2a5a865039d39a5:328eb1573a2cfd8cf60add14931faa25
-https://dckb1-ac-live.cdn.indazn.com/v1/dash/dd9ef956a8aeac50cfbdf4d7897caa9186ef8f9b/dazn-strex-entertainment-live-drm-session/out/v1/814bffb9b389f652/23bfe088dae04560b4973c6b630ed00a/index.mpd?aws.sessionId=6f333d38-ac7c-40b5-a77c-51f51790a832
-
-#EXTINF:-1  tvg-id="558258" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089337'&EntityType='Item'&EntityId='558258'&Width=150&Height=59" group-title="MeWatch", Fear Factor
-https://tglmp04.akamaized.net/out/v1/692b0d40df6549be8158350dc8a8a120/manifest.mpd
-
-#EXTINF:-1  tvg-id="570813" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089317'&EntityType='Item'&EntityId='570813'&Width=127&Height=59" group-title="MeWatch", Deal or No Deal
-https://tglmp01.akamaized.net/out/v1/25c1054ebfb94befbad706ae57b3e5fd/manifest.mpd
-
-#EXTINF:-1  tvg-id="558241" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10089297'&EntityType='Item'&EntityId='558241'&Width=150&Height=59" group-title="MeWatch", River Monsters
-https://tglmp02.akamaized.net/out/v1/bfc935c481794151afce58d9f764627e/manifest.mpd
-
-#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187" group-title="MeWatch" group-title="MeWatch", NOW 80s
-https://tglmp02.akamaized.net/out/v1/e9318eedbe1847f8924a3fcfb1b93648/manifest.mpd
-
-#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187" group-title="MeWatch", NOW Rock
-https://tglmp04.akamaized.net/out/v1/7c6aa1207e91478dbbce70d35e40b61b/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="154516" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=1585034:206:CHANNEL:IMAGE:png" group-title="MeWatch",Trending
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07c7bc358067500492c26bf68c81ab0c:4817cbc3676b5c500187b42951209488
-https://dckb1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/014dcd8b3be645f786ba97389f73492e/index.mpd
-
-#EXTINF:-1 tvg-id="154515" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=5411777:206:CHANNEL:IMAGE:png" group-title="MeWatch",Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00e2c91f91ed5b5c9f37b44d848f4a9c:9d64fcbf1e15e3082717328836257d9f
-https://dckb1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/fbfce411dddf4d948e342af6fee568fb/index.mpd
-
-#EXTINF:-1 tvg-id="154517" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=1585033:206:CHANNEL:IMAGE:png" group-title="MeWatch",Club
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f80c1ed503195c5cafcdf5a5a4a37d6d:21c9c8902fffb42c24f3d84dae84dcfe
-https://dckb1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/c53762acf48b4fd887030725409cf786/index.mpd
-
-#EXTINF:-1 tvg-id="154513" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=5411858:206:CHANNEL:IMAGE:png" group-title="MeWatch",Retro
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9df02a243a5c57b2bac5086f08229faa:a991b467ee9455ad94c772227af98e71
-https://dckb1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/c6d14203985c4121add17a43df2e8adb/index.mpd
-
-#EXTINF:-1 tvg-id="154514" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=5411893:206:CHANNEL:IMAGE:png" group-title="MeWatch",CMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=157878f050df52a2bb24f0eba94ef72b:236d2c00d8dde9eced085cf342f0f1bd
-https://dckb1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/96d3027392cb4bdf84ca250461ed4761/index.mpd
-
-#EXTINF:-1 tvg-id="165235" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=21188888:206:CHANNEL:IMAGE:png" group-title="MeWatch",Max
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d22e220070225cd5acb86815454204f8:b4e93793dc5562d8d0132e37ef1d6653
-https://dckb1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/a85ad81872d742dfa748934a784ab8bd/index.mpd
-
-#EXTINF:-1  tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/37774b55166259.Y3JvcCwxMjkwLDEwMTAsMzI1LDYz.png" group-title="MeWatch", TEST CHANNEL
-https://tv.picta.cu/infantil/infantil_0.m3u8
 
 #EXTINF:-1 tvg-logo="http://granny.anondrop.net/uploads/efb1c72133fdc600/mediacorpradiologos/symphony924.png" group-title="Radio" radio="true",MeWatch - Symphony 92.4
 https://22393.live.streamtheworld.com/SYMPHONY924_PREM.aac
