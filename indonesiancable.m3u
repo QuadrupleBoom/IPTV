@@ -451,17 +451,6 @@ https://tvcdn.tv.telia.lt/live/eds/Travel_Channel_HD_H/DASH_5_CPIX_NPVR/Travel_C
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/v5PBUHFXpvw3z2izxOYx2MOBvibDNo6UXmHJPW-IzilsOMlsyZgwMVMAQjR_cP3fT2U" group-title="Converge", Xumo Food
 https://dbrb49pjoymg4.cloudfront.net/10001/9995117/hls/master.m3u8?ads.xumo_channelId=9995117
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-jade-hk.png" group-title="Converge",TVB Jade
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98a7777c449e411f95a3441a014b43cb:682736567be5f2c0a0ae6120d06a59d7
-https://mc-pag56yktxs.bunny.run/tvbjade.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvb-xing-he-hk.png" group-title="Converge",TVB Xing He
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4548ce69a714947b7cc397a64e31139:248c84e70fd360e45006760baad12ecc
-https://mc-pag56yktxs.bunny.run/tvbxinghe.mpd
-
-
 #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.ytimg.com/vi/s089BH5U928/maxresdefault.jpg" channel-number="Converge" group-title="Converge",FX Life
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -489,21 +478,15 @@ https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwc
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
 https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dreamworks-channel-es.png" channel-number="Converge" group-title="Converge",Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e8ce35ed8bc34772abedd63383aa11b7:1d2d76741e825e5c7babf597374b016e
-https://mc-pag56yktxs.bunny.run/dreamworkshd.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nickelodeon-rs.png" group-title="Converge",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b10e787fac84ff484c8c7d7f7668925:7d7d3793e4489f6ebc50d002e4bdbd44
-https://mc-pag56yktxs.bunny.run/nickelodeon.mpd
+#KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-jr-rs.png" group-title="Converge",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe60385da93e48cda9dce2c686862462:8e7c6f6beb074f153da1b00c3cf95908
-https://mc-pag56yktxs.bunny.run/nickjr.mpd
+#KODIPROP:inputstream.adaptive.license_key=641c3f0e676d49d18c2082e093380e69:e06f3a2e327643249c3831ab199c4015
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nick-toons-rs.png" group-title="Converge",NickToons
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -519,93 +502,17 @@ https://freem3u.xyz/api/live/play.m3u8?vid=214
 #KODIPROP:inputstream.adaptive.license_key=60c75395c69c1e1b5155440bbc7c9498:97059dda057be550c8ed9badaf9452a4
 http://a163aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/n7vaganwdb/out/v1/d7ab24a6781b4c489d1a06ed57b54a4b/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/sony-yay-in.png" channel-number="Converge" group-title="Converge",Sony Yay!
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=582e9e382cb0495886afbabdbdb6fbf7:c0f550839b235443724cd007392b6e40
-https://mc-pag56yktxs.bunny.run/sonyyay.mpd
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/A_-eTsz59hM1szUn9K3iqsO10zhnEtPBm6WXUs-ZJtl7f5CUmTNyp6Dy4F57JF7bymabGSI2lA=s900-c-k-c0x00ffffff-no-rj" channel-number="Converge" group-title="Converge",Cartoon Network
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2da2675c6da34253b376318ef350cf19:688c0015a6b4863f0663f25f42036800
-https://mc-pag56yktxs.bunny.run/cartoonnetwork.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/bbc-cbeebies-au.png" channel-number="Converge" group-title="Converge",Cbeebies
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc5bdbd024fe456ba6613471e4931041:d48c61044cef51adb33bf6999f23e967
-https://mc-pag56yktxs.bunny.run/cbeebieshd.mpd
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/cartoonito-it.png" channel-number="Converge" group-title="Converge",Cartoonito HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/warner-tv-hk.png" group-title="MeWatch",Warner TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f4ea7be45af4275a8d76845fb19dba5:b02208ea61a2cdbf5b09440bc3157f04
-https://mc-pag56yktxs.bunny.run/warnertv.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-tamil-in.png" group-title="MeWatch",Zee Tamil
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=06e1831ba6f946568bdea62e67ca7317:f02c40d2006e036104f7726116861d7c
-https://mc-pag56yktxs.bunny.run/zeetamilhd.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-hk.png" group-title="MeWatch",HBO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ad888ee5dd6496a8c2c77a6284ff936:718716c435914901d2551930a256974e
-https://mc-pag56yktxs.bunny.run/hbohd.mpd
-
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-family-hk.png" group-title="MeWatch",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98e8255fae9b41aebb334645a916c82b:3b631ef06c2782808a6d53ff0e24d9e3
-https://mc-pag56yktxs.bunny.run/hbofamily.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/hbo-hits-hk.png" group-title="MeWatch",HBO Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=437a4a8dfb314f81883c7894c99e72bf:e95073f71af10f85067c5d8bc509f667
-https://mc-pag56yktxs.bunny.run/hbohits.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/cinemax-hk.png" group-title="MeWatch",Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83391c0f7c64142baa326b101c9f3d4:1ea53c247b115d6c3bb37a4d0485a37c
-https://mc-pag56yktxs.bunny.run/cinemax.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-asia/hits-asi.png" group-title="MeWatch",Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=196b011306d04ac38c2b8493b89a40d5:862064c3fbd5f4d2e8a9e7b89889a06b
-https://mc-pag56yktxs.bunny.run/hits.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-asia/hits-movies-asi.png" group-title="MeWatch",Hits Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74ecb929cd504143bb68bd0e7cac6f4e:b71cfa4590853ea63014e128ecdb4fbe
-https://mc-pag56yktxs.bunny.run/hitsmovies.mpd
-
-#EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/hitsnow.png" group-title="MeWatch",Hits Now
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c350232d50f46dcb776ea6d12f875d2:9469ab183f965894e038e2c137f0faa0
-https://mc-pag56yktxs.bunny.run/hitsnow.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/tvn-hk.png" group-title="MeWatch",tvN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=925fe1266db744a3b9524a23a6cc524b:d1266e747e241339a539e54f26890286
-https://mc-pag56yktxs.bunny.run/tvnhd.mpd
-
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="MeWatch",tvN Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52480b6651c243e2b48b04ab3ecf05ec:aa3513df0bc2d949ee44c52204665d50
-https://mc-pag56yktxs.bunny.run/tvnmovieshd.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/celestial-movies-hk.png" group-title="MeWatch",Celestial Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=	107e13b213a94a6cbb6d02c25653c083:044af5b9e0258e2d39437ee03365fd2d
-https://mc-pag56yktxs.bunny.run/celestialmovies.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/celestial-classic-movies-hk.png" group-title="MeWatch",Celestial Classic Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5dcc7b00add745619ff1dd29ac7e591c:cdab9ac07955a7a2ea78b03343b77fbd
-https://mc-pag56yktxs.bunny.run/celestialclassicmovies.mpd
 
 #EXTINF:-1 tvg-logo="https://aphrodite.gmanetwork.com/assets/radio/images/og/super_radyo.jpg" group-title="Radio" radio="true",GMA - DZBB AM - Super Radyo
 https://gsattv.akamaized.net/live/media0/radiodzbb/Fairplay/radiodzbb.m3u8
