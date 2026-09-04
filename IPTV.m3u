@@ -1,25 +1,5 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/a2z-ph.png",A2Z
-https://streams.comclark.com/pknsd/a2z/playlist.m3u8
-#EXTINF:-1 tvg-id="AllTV.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/alltv-ph.png",ALLTV
-https://streams.comclark.com/pknsd/alltv/playlist.m3u8
-#EXTINF:-1 tvg-id="ANC.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/anc-ph.png",ANC
-https://streams.comclark.com/pknsd/anc/playlist.m3u8
-#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/250px-BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png",Bilyonaryo News Channel
-https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/gma-ph.png", GMA	
-http://31.7.61.250:1234/stream/cowboy/rchperf/master.m3u8
-#EXTINF:-1 tvg-id="GTV.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/gtv-ph.png",GTV
-https://streams.comclark.com/pknsd/gtv/playlist.m3u8
-#EXTINF:-1 tvg-id="IBC13.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/ibc-ph.png",IBC 13
-https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
-#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD" tvg-logo="http://localhost:8409/iptv/logos/AABD283CC992EFB9810A8B2D9169E597.jpg",Mindanow Network TV
-https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/ptv-ph.png",PTV 4
-https://streams.comclark.com/pknsd/ptv/playlist.m3u8
-#EXTINF:-1 tvg-id="RPTV.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/rptv-ph.png",RPTV
-https://streams.comclark.com/pknsd/rptv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5.ph@SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/philippines/tv5-ph.png",TV5
-https://streams.comclark.com/pknsd/tv5/playlist.m3u8
-#EXTINF:0 tvg-id="C56.203.ersatztv.org" tvg-logo="http://localhost:8409/iptv/logos/AABD283CC992EFB9810A8B2D9169E597.jpg", Discovery Kids Asia
-http://localhost:8409/iptv/channel/56.ts
+#EXTINF:-1 tvg-logo="logo" tvg-id="id", rtl roms
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://budapest-cache-1.antik.sk/stream/hisi_rtl_harom/playlist_cbcs.mpd
