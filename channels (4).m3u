@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://worldofhubnets.tail8d9dc4.ts.net/iptv/xmltv.xml" x-tvg-url="https://worldofhubnets.tail8d9dc4.ts.net/iptv/xmltv.xml"
+#EXTINF:0 tvg-id="C2.146.ersatztv.org" channel-id="VHLIG599lEqO4Hldv9jTCA" channel-number="2" CUID="VHLIG599lEqO4Hldv9jTCA" tvg-chno="2" tvg-name="HUB Channel" tvg-logo="https://worldofhubnets.tail8d9dc4.ts.net/iptv/logos/D61770E2EEE41E7D29D157BF2A7681EF.jpg" group-title="TV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HUB Channel
+https://worldofhubnets.tail8d9dc4.ts.net/iptv/channel/2.ts
+#EXTINF:0 tvg-id="C3.147.ersatztv.org" channel-id="qXa-cXP_p0OugVRc3GTVJA" channel-number="3" CUID="qXa-cXP_p0OugVRc3GTVJA" tvg-chno="3" tvg-name="HUB Zawaa" tvg-logo="https://worldofhubnets.tail8d9dc4.ts.net/iptv/logos/BB96E1182780DEE37BB5EDC79FF72EE9.jpg" group-title="TV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HUB Zawaa
+https://worldofhubnets.tail8d9dc4.ts.net/iptv/channel/3.ts
+#EXTINF:0 tvg-id="C4.1.149.ersatztv.org" channel-id="td8h0gUq40SyrtmWsGWPaA" channel-number="4.1" CUID="td8h0gUq40SyrtmWsGWPaA" tvg-chno="4.1" tvg-name="Hub Family" tvg-logo="https://worldofhubnets.tail8d9dc4.ts.net/iptv/logos/56A059ED44B5DC0CA37AF90D7E1E80C8.jpg" group-title="TV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Hub Family
+https://worldofhubnets.tail8d9dc4.ts.net/iptv/channel/4.1.ts
+#EXTINF:0 tvg-id="C4.2.150.ersatztv.org" channel-id="P6ltvLCedkat4NpwcordIg" channel-number="4.2" CUID="P6ltvLCedkat4NpwcordIg" tvg-chno="4.2" tvg-name="Hub Junior" tvg-logo="https://worldofhubnets.tail8d9dc4.ts.net/iptv/logos/1F89567480A92B310882AF960A0E54C6.jpg" group-title="TV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Hub Junior
+https://worldofhubnets.tail8d9dc4.ts.net/iptv/channel/4.2.ts
+#EXTINF:0 tvg-id="C4.3.151.ersatztv.org" channel-id="ymv5rmMkJUKtFmXBmHrwpg" channel-number="4.3" CUID="ymv5rmMkJUKtFmXBmHrwpg" tvg-chno="4.3" tvg-name="Hub CHRGD" tvg-logo="https://worldofhubnets.tail8d9dc4.ts.net/iptv/logos/2357FB3DF8596795C75970B29062EE12.jpg" group-title="TV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Hub CHRGD
+https://worldofhubnets.tail8d9dc4.ts.net/iptv/channel/4.3.ts
+#EXTINF:0 tvg-id="C999.267.ersatztv.org" channel-id="v-GNLFiODkyMU3ywRIbx9A" channel-number="999" CUID="v-GNLFiODkyMU3ywRIbx9A" tvg-chno="999" tvg-name="HUB 999" tvg-logo="https://worldofhubnets.tail8d9dc4.ts.net/iptv/logos/29C9BBC8F6727EEB5E291002B8EDB0D4.jpg" group-title="TV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HUB 999
+https://worldofhubnets.tail8d9dc4.ts.net/iptv/channel/999.ts
