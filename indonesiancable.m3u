@@ -549,6 +549,10 @@ http://132.255.210.227:8000/play/a00q/index.m3u8
 http://132.255.210.227:8000/play/a02p/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nickelodeon-rs.png" group-title="Converge",Nickelodeon Australia
+https://au-get.woshwosh.workers.dev/https://d2u3aqiu3i9jpb.cloudfront.net/out/v1/f88b8846ee114dce8dd627f3028ef482/index.m3u8
+
+
 #EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/fuji_tv/replay.m3u8?mode=hls&start=${start}",Fuji TV
 https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 
