@@ -528,11 +528,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e4428931
 #KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:a0508b287ec25e33222865bc87867cfe
 https://lott2-web-opus.cdn.avp.telus.net/232006003116/vxfmt=dp/manifest.mpd?device_profile=dashvmx
 
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/nickelodeon-rs.png" group-title="Converge",Nickelodeon Australia
-https://au-get.woshwosh.workers.dev/https://d2u3aqiu3i9jpb.cloudfront.net/out/v1/f88b8846ee114dce8dd627f3028ef482/index.m3u8
-
 #EXTINF:-1 group-title="Converge" tvg-logo="https://yt3.googleusercontent.com/A_-eTsz59hM1szUn9K3iqsO10zhnEtPBm6WXUs-ZJtl7f5CUmTNyp6Dy4F57JF7bymabGSI2lA=s900-c-k-c0x00ffffff-no-rj",Cartoon Network Korea
 http://124.222.153.240/kakaotv/get_channel.php?channel=cartoon_tv#.m3u8
 #EXTINF:-1 group-title="Converge" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/11/EBS-1.png",EBS 1
