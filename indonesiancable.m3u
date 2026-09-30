@@ -324,52 +324,6 @@ https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6sKJAtX3IRigo7-UGqNWzbU4ciGsBPKSU5A&s",DZMM TeleRadyo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
-
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/EpcbFBe.png",ANC Global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:8c6c920cf3f7df2087b0ae1a4a8c6058
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
-
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/wW4r_tYinqPCDJs-MVMWIQJn6-pC8wW09jWKcDYn9sPKmhvtLXxs9KtPqNRoDSH3hGmB45BS2w=s900-c-k-c0x00ffffff-no-rj",TFC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
-
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",Cinemo! Global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:f06b6031a3604cc6708c14d83f1a1b27
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd
-
-#EXTINF:-1 group-title="Converge" tvg-id="" tvg-logo="https://i.imgur.com/Cshx9xM.png",CinemaOne Global
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/wUQH4GF.png" channel-number="Converge" group-title="Converge",Jeepney
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
-https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/0ehFDrq.png" channel-number="Converge" group-title="Converge",Knowledge
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1f88dd3b254514bf7a113188c10dc2:ea86da60f0116f3b92a86acf45b8e071
-https://abslive.akamaized.net/dash/live/2027618/kc/manifest.mpd
-
-#EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/fxcZAd8.png" channel-number="Converge" group-title="Converge",MYX
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-myxnola-dash-abscbnono/index.mpd
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xE9cpzTvPi7JYDEDE59h8elMKYQq04iwUeaygCj_UfdXpj0BVCNucLcCziq_0C8RemMGMpy3=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", Stingray Karaoke
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/EYhtkLenzFzU4DV74Ky1uRkUEErG5_hYzLzqgViumxkhdKA-Efo_c0qXknp9C8RpQWmJ29mQuZc=s900-c-k-c0x00ffffff-no-rj" group-title="Converge", TikTok Radio
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99993050&ads.xumo_streamId=99993050&ads.channelId=99993050&ads.ad_tag_id=102191&ads.csid=lgchannels_us_stingraytiktok_ssai&ads.channelName=stingraytiktok_us&ads.xumo_contentName=StingrayTikTok&ads.xumo_contentId=3813&ads.xumo_providerName=StingrayTikTok&ads.xumo_providerId=3813&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_language=en&ads.content_rating=tv-g&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
-
 #EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/57609977-0-TPC-OTT-SQUARE.jpg" group-title="Converge", The Pet Collective
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 
