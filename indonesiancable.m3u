@@ -694,25 +694,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0d
 #KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
 
-#EXTINF:-1 tvg-id="Disney.Channel.Canada.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/disney-channel-ca.png" group-title="Converge",disney channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11111111111111118111000000000000:a0508b287ec25e33222865bc87867cfe
-https://lott2-web-opus.cdn.avp.telus.net/232006003116/vxfmt=dp/manifest.mpd?device_profile=dashvmx
-
-#EXTINF:-1 group-title="Converge" tvg-logo="https://yt3.googleusercontent.com/A_-eTsz59hM1szUn9K3iqsO10zhnEtPBm6WXUs-ZJtl7f5CUmTNyp6Dy4F57JF7bymabGSI2lA=s900-c-k-c0x00ffffff-no-rj",Cartoon Network Korea
-http://124.222.153.240/kakaotv/get_channel.php?channel=cartoon_tv#.m3u8
-#EXTINF:-1 group-title="Converge" tvg-logo="https://logosandtypes.com/wp-content/uploads/2024/11/EBS-1.png",EBS 1
-http://124.222.153.240/kakaotv/get_channel.php?channel=ebs1
-#EXTINF:-1 group-title="Converge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpOyeTzg7lKHUnXYlUorZO1yhkHlrudaph1jrpXv4IHrW9jdi0nKXwF30&s=10",EBS 2
-http://124.222.153.240/kakaotv/get_channel.php?channel=ebs2
-#EXTINF:-1 group-title="Converge" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_03.png",EBS E
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Converge" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png",EBS kids
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Converge" tvg-logo="https://wepick-bucket.s3.amazonaws.com/uploads/general/1758610271606_up_______TV_______TV.png",PoyoTV
-http://124.222.153.240/kakaotv/get_channel.php?channel=pororo_tv
-#EXTINF:-1 group-title="Converge" tvg-logo="https://yt3.googleusercontent.com/chmtDJndZpCXXNLH2gOZ8IJQRg0cGLLZ3EB64YByFfYB1LfS6yy06gvzqcGg38BEr3nbT_nDFw=s900-c-k-c0x00ffffff-no-rj",Toonverse
-http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse
 
 #EXTINF:-1  tvg-id="Ch 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250" group-title="Mediacorp SG", Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
