@@ -1,14 +1,6 @@
 
 #EXTINF:-1 tvg-id="869" tvg-logo="https://pictr.com/images/2025/01/20/xpGZi9.png" group-title="Astro Audio",Nasional FM
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
-
-#EXTINF:-1 tvg-id="869" tvg-logo="https://pictr.com/images/2025/01/20/xpGZi9.png" group-title="Astro Audio",Na
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
-https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dembed.st/
+#EXTVLCOPT:http-origin=https://dembed.st
+https://xameleon.phantemlis.top/one/secure/b5edd47e11cb6ea88baa5d9db6685e5c/1785042408/premium652/tracks-v1a1/mono.m3u8
