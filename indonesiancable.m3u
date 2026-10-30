@@ -225,9 +225,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5600/default_primary.mpd
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/da-vinci-hk.png" group-title="Kids", 613 Da Vinci
-https://freem3u.xyz/api/live/play.m3u8?vid=214
+#EXTINF:-1 tvg-id="Boing.ke" group-title="Kids" tvg-logo="https://gotvonline.neocities.org/prod/logo/Boing_V1.png",614 Boing
+http://cynessa.ottb.xyz:80/live/forbannedhcinou/924936656726/1369787.ts
 
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Kids" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",615 Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -260,11 +259,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 
-###EXTINF:-1 tvg-id="620" group-title="Kids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png",620 CBeebies
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/fix-and-foxi-za.png",620 Fix&Foxi
+http://cynessa.ottb.xyz:80/live/forbannedhcinou/924936656726/1369803.ts
+
+
+#EXTINF:-1 tvg-id="Cbeebies.ke" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/bbc-cbeebies-au.png",621 CBeebies
+http://cynessa.ottb.xyz:80/live/forbannedhcinou/924936656726/1369790.ts
 
 #EXTINF:-1 tvg-id="AXN" group-title="Variety" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_variety.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -543,42 +544,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/37140e68f8124d45a0d
 #KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
 
-
-#EXTINF:-1  tvg-id="Ch 5" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318760'&EntityType='Item'&EntityId='97098'&Width=356&Height=250" group-title="Mediacorp SG", Channel 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
-
-#EXTINF:-1  tvg-id="Ch 8" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318750'&EntityType='Item'&EntityId='97104'&Width=369&Height=250" group-title="Mediacorp SG", Channel 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
-
-#EXTINF:-1  tvg-id="Ch U" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318764'&EntityType='Item'&EntityId='97129'&Width=396&Height=250" group-title="Mediacorp SG", Channel U
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
-
-#EXTINF:-1  tvg-id="Suria" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318748'&EntityType='Item'&EntityId='97084'&Width=636&Height=250" group-title="Mediacorp SG", Suria
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
-
-#EXTINF:-1  tvg-id="Vasantham" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318746'&EntityType='Item'&EntityId='97096'&Width=885&Height=250" group-title="Mediacorp SG", Vasantham
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
-
-#EXTINF:-1  tvg-id="97072" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='6318766'&EntityType='Item'&EntityId='97072'&Width=193&Height=249" group-title="Mediacorp SG", CNA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bef2c7c91c7841d3bce5338fe469d302:f2bf28552449a758c950e84bddc6f150
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://tglmp03.akamaized.net/out/v1/f97b5eedb5ec4b4ea770859bd4e9d28e/manifest.mpd
 
 
 
