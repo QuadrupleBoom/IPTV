@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/latvia2.xml,https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz" refresh="3600" tvg-shift="0" m3uautoload="1"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/latvia2.xml,https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" refresh="3600" tvg-shift="0" m3uautoload="1"
 
 
 
@@ -263,9 +263,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_primary.mpd
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/south-africa/fix-and-foxi-za.png",620 Fix&Foxi
 http://cynessa.ottb.xyz:80/live/forbannedhcinou/924936656726/1369803.ts
 
-
 #EXTINF:-1 tvg-id="Cbeebies.ke" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/bbc-cbeebies-au.png",621 CBeebies
 http://cynessa.ottb.xyz:80/live/forbannedhcinou/924936656726/1369790.ts
+
+#EXTINF:-1 tvg-id="ディズニー・チャンネル_jp" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png",622 Disney Channel
+http://101.188.24.240:9981/stream/channelid/1658605142?profile=pass
+
+#EXTINF:-1 tvg-id="ディズニージュニア_jp" group-title="Kids" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png",623 Disney Jr.
+http://101.188.24.240:9981/stream/channelid/1736936218?profile=pass
 
 #EXTINF:-1 tvg-id="AXN" group-title="Variety" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_variety.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
