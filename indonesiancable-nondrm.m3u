@@ -1,4 +1,4 @@
 #EXTINF:-1 tvg-id="TV1" group-title="Astro" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png",pikachu tv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={c29a21fe387376a299eeeea808008254:ac0b4c510094849f31e0b27eb58c575b,112282988a54262fa4224b1e97370ff5:2a924003193f9f954d4037c185f2f51c}
+#KODIPROP:inputstream.adaptive.license_key=c29a21fe387376a299eeeea808008254:ac0b4c510094849f31e0b27eb58c575b,112282988a54262fa4224b1e97370ff5:2a924003193f9f954d4037c185f2f51c
 https://mfprodamems.vspp.telekom.mk/sdash/LIVE$12464/index.mpd/Manifest?device=mkt_live_dash_hd_reach_wv1&start=LIVE&end=END
