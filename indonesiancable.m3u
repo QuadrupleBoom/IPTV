@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/latvia2.xml,https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" refresh="3600" tvg-shift="0" m3uautoload="1"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/latvia2.xml,https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz,https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml,https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz" refresh="3600" tvg-shift="0" m3uautoload="1"
 
 
 
@@ -196,28 +196,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5144/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_primary.mpd
 
-###EXTINF:-1 tvg-id="411" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",411 HBO
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_v1.png",411 HBO
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
 
-###EXTINF:-1 tvg-id="412" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",412 Cinemax
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",412 Cinemax
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
 
-###EXTINF:-1 tvg-id="414" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",414 HBO Family
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-###https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",414 HBO Family
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
 
-###EXTINF:-1 tvg-id="415" group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",415 HBO Hits
-###KODIPROP:inputstream.adaptive.license_type=clearkey
-###KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTINF:-1 group-title="Movies" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",415 HBO Hits
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png",416 HBO HD
+http://125.227.210.55:1003/VideoInput/play.ts
+
 
 #EXTINF:-1 tvg-id="Aniplus" group-title="Kids" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Aniplus.png",120 Aniplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -266,11 +259,8 @@ http://cynessa.ottb.xyz:80/live/forbannedhcinou/924936656726/1369803.ts
 #EXTINF:-1 tvg-id="Cbeebies.ke" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/bbc-cbeebies-au.png",621 CBeebies
 http://cynessa.ottb.xyz:80/live/forbannedhcinou/924936656726/1369790.ts
 
-#EXTINF:-1 tvg-id="ディズニー・チャンネル_jp" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png",622 Disney Channel
-http://101.188.24.240:9981/stream/channelid/1658605142?profile=pass
-
-#EXTINF:-1 tvg-id="ディズニージュニア_jp" group-title="Kids" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-130-400x400.png",623 Disney Jr.
-http://101.188.24.240:9981/stream/channelid/1736936218?profile=pass
+#EXTINF:-1 group-title="Kids" tvg-logo="https://www.latingroup.us/assets/images/logo4.png",622 Canal Infantil
+http://185.244.235.120:9000/play/a02y/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" group-title="Variety" group-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/contenthub/shop/icon_variety.png" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AXN_v1.png",701 AXN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
